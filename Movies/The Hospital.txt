@@ -1,0 +1,153 @@
+a hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment. the best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. a district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care. specialized hospitals include trauma centers, rehabilitation hospitals, children's hospitals, seniors' (geriatric) hospitals, and hospitals for dealing with specific medical needs such as psychiatric treatment (see psychiatric hospital) and certain disease categories. specialized hospitals can help reduce health care costs compared to general hospitals. hospitals are classified as general, specialty, or government depending on the sources of income received.
+a teaching hospital combines assistance to people with teaching to medical students and nurses. a medical facility smaller than a hospital is generally called a clinic. hospitals have a range of departments (e.g. surgery and urgent care) and specialist units such as cardiology. some hospitals have outpatient departments and some have chronic treatment units. common support units include a pharmacy, pathology, and radiology.
+hospitals are usually funded by public funding, health organisations (for profit or nonprofit), health insurance companies, or charities, including direct charitable donations. historically, hospitals were often founded and funded by religious orders, or by charitable individuals and leaders.currently, hospitals are largely staffed by professional physicians, surgeons, nurses, and allied health practitioners, whereas in the past, this work was usually performed by the members of founding religious orders or by volunteers. however, there are various catholic religious orders, such as the alexians and the bon secours sisters that still focus on hospital ministry in the late 1990s, as well as several other christian denominations, including the methodists and lutherans, which run hospitals. in accordance with the original meaning of the word, hospitals were originally "places of hospitality", and this meaning is still preserved in the names of some institutions such as the royal hospital chelsea, established in 1681 as a retirement and nursing home for veteran soldiers.
+
+
+== etymology ==
+ during the middle ages, hospitals served different functions from modern institutions in that they were almshouses for the poor, hostels for pilgrims, or hospital schools. the word "hospital" comes from the latin hospes, signifying a stranger or foreigner, hence a guest. another noun derived from this, hospitium came to signify hospitality, that is the relation between guest and shelterer, hospitality, friendliness, and hospitable reception. by metonymy the latin word then came to mean a guest-chamber, guest's lodging, an inn. hospes is thus the root for the english words host (where the p was dropped for convenience of pronunciation) hospitality, hospice, hostel, and hotel. the latter modern word derives from latin via the ancient french romance word hostel, which developed a silent s, which letter was eventually removed from the word, the loss of which is signified by a circumflex in the modern french word htel. the german word 'spital' shares similar roots.
+
+
+== types ==
+some patients go to a hospital just for diagnosis, treatment, or therapy and then leave ("outpatients") without staying overnight; while others are "admitted" and stay overnight or for several days or weeks or months ("inpatients"). hospitals usually are distinguished from other types of medical facilities by their ability to admit and care for inpatients whilst the others, which are smaller, are often described as clinics.
+
+		
+		
+		
+		
+		
+
+
+=== general and acute care ===
+
+the best-known type of hospital is the general hospital, also known as an acute-care hospital. these facilities handle many kinds of disease and injury, and normally have an emergency department (sometimes known as "accident & emergency") or trauma center to deal with immediate and urgent threats to health. larger cities may have several hospitals of varying sizes and facilities. some hospitals, especially in the united states and canada, have their own ambulance service.
+
+
+=== district ===
+
+a district hospital typically is the major health care facility in its region, with large numbers of beds for intensive care, critical care, and long-term care.
+in california, "district hospital" refers specifically to a class of healthcare facility created shortly after world war ii to address a shortage of hospital beds in many local communities. even today, district hospitals are the sole public hospitals in 19 of california's counties, and are the sole locally-accessible hospital within nine additional counties in which one or more other hospitals are present at a substantial distance from a local community. twenty-eight of california's rural hospitals and 20 of its critical-access hospitals are district hospitals. they are formed by local municipalities, have boards that are individually elected by their local communities, and exist to serve local needs. they are a particularly important provider of healthcare to uninsured patients and patients with medi-cal (which is california's medicaid program, serving low-income persons, some senior citizens, persons with disabilities, children in foster care, and pregnant women). in 2012, district hospitals provided $54 million in uncompensated care in california.
+
+
+=== specialized ===
+
+a specialty hospital is primarily and exclusively dedicated to one or a few related medical specialties. subtypes include rehabilitation hospitals, children's hospitals, seniors' (geriatric) hospitals, long-term acute care facilities and hospitals for dealing with specific medical needs such as psychiatric problems (see psychiatric hospital), certain disease categories such as cardiac, oncology, or orthopedic problems, and so forth.
+in germany specialised hospitals are called fachkrankenhaus; an example is fachkrankenhaus coswig (thoracic surgery). in india, specialty hospitals are known as super specialty hospitals, and are distinguished from multispecialty hospitals which are composed of several specialties.specialised hospitals can help reduce health care costs compared to general hospitals. for example, narayana health's cardiac unit in bangalore specialises in cardiac surgery and allows for a significantly greater number of patients. it has 3,000 beds and performs 3,000 in paediatric cardiac operations annually, the largest number in the world for such a facility. surgeons are paid on a fixed salary instead of per operation, thus when the number of procedures increases, the hospital is able to take advantage of economies of scale and reduce its cost per procedure. each specialist may also become more efficient by working on one procedure like a production line.
+
+
+=== teaching ===
+
+a teaching hospital delivers healthcare to patients as well as training to prospective medical professionals such as medical students and student nurses. it may be linked to a medical school or nursing school, and may be involved in medical research. students may also observe clinical work in the hospital.
+
+
+=== clinics ===
+clinics generally provide only outpatient services, but some may have a small number of inpatient beds and a limited range of services that may otherwise be found in typical hospitals.
+
+
+== departments or wards ==
+
+a hospital contains one or more wards that house hospital beds for inpatients. it may also have acute services such as an emergency department, operating theatre, and intensive care unit, as well as a range of medical specialty departments. a well-equipped hospital may be classified as a trauma center. they may also have other services such a hospital pharmacy, radiology, pathology and medical laboratories. some hospitals have outpatient departments such as behavioral health services, dentistry, and rehabilitation services.
+a hospital may also have a department of nursing, headed by a chief nursing officer or director of nursing. this department is responsible for the administration of professional nursing practice, research, and policy for the hospital.
+many units have both a nursing and a medical director that serve as administrators for their respective disciplines within that unit. for example, within an intensive care nursery, a medical director is responsible for physicians and medical care, while the nursing manager is responsible for all of the nurses and nursing care.
+support units may include a medical records department, release of information department, technical support, clinical engineering, facilities management, plant operations, dining services, and security departments.
+
+
+=== remote monitoring ===
+the covid-19 pandemic stimulated the development of virtual wards across the british nhs.  patients are  managed at home, monitoring their own oxygen levels using an oxygen saturation probe if necessary and supported by telephone.  west hertfordshire hospitals nhs trust managed around 1200 patients at home between march and june 2020 and planned to continue the system after covid-19, initially for respiratory patients. mersey care nhs foundation trust started a covid oximetry@home service in april 2020.  this enables them to monitor more than 5000  patients a day in their own homes.  the technology allows nurses, carers, or patients to record and monitor vital signs such as blood oxygen levels.
+
+
+== history ==
+
+
+=== early examples ===
+
+in early india, fa xian, a chinese buddhist monk who travelled across india c. ad 400, recorded examples of healing institutions. according to the mahavamsa, the ancient chronicle of sinhalese royalty, written in the sixth century ad, king pandukabhaya of sri lanka (r. 437367 bc) had lying-in-homes and hospitals (sivikasotthi-sala). a hospital and medical training centre also existed at gundeshapur, a major city in southwest of the sassanid persian empire founded in ad 271 by shapur i. in ancient greece, temples dedicated to the healer-god asclepius, known as asclepeion functioned as centres of medical advice, prognosis, and healing. the asclepeia spread to the roman empire. while public healthcare was non-existent in the roman empire, military hospitals called valetudinaria did exist stationed in military barracks and would serve the soldiers and slaves within the fort. evidence exists that some civilian hospitals, while unavailable to the roman population, were occasionally privately built in extremely wealthy roman households located in the countryside for that family, although this practice seems to have ended in 80 ad.
+
+
+=== middle ages ===
+the declaration of christianity as an accepted religion in the roman empire drove an expansion of the provision of care. following the first council of nicaea in ad 325 construction of a hospital in every cathedral town was begun, including among the earliest hospitals by saint sampson in constantinople and by basil, bishop of caesarea in modern-day turkey. by the twelfth century, constantinople had two well-organised hospitals, staffed by doctors who were both male and female. facilities included systematic treatment procedures and specialised wards for various diseases.
+medical knowledge was transmitted into the islamic world through the byzantine empire. the earliest general hospital in the islamic world was built in 805 in baghdad by harun al-rashid. by the 10th century, baghdad had five more hospitals, while damascus had six hospitals by the 15th century, and crdoba alone had 50 major hospitals, many exclusively for the military. the islamic bimaristan served as a center of medical treatment, as well nursing home and lunatic asylum. it typically treated the poor, as the rich would have been treated in their own homes. hospitals in this era were the first to require medical diplomas to license doctors, and compensation for negligence could be made. hospitals were forbidden by law to turn away patients who were unable to pay. these hospitals were financially supported by waqfs, as well as state funds.
+
+
+=== early modern and enlightenment europe ===
+
+in europe the medieval concept of christian care evolved during the sixteenth and seventeenth centuries into a secular one. in england, after the dissolution of the monasteries in 1540 by king henry viii, the church abruptly ceased to be the supporter of hospitals, and only by direct petition from the citizens of london, were the hospitals st bartholomew's, st thomas's and st mary of bethlehem's (bedlam) endowed directly by the crown; this was the first instance of secular support being provided for medical institutions.
+
+the voluntary hospital movement began in the early 18th century, with hospitals being founded in london by the 1720s, including westminster hospital (1719) promoted by the private bank c. hoare & co and guy's hospital (1724) funded from the bequest of the wealthy merchant, thomas guy.
+other hospitals sprang up in london and other british cities over the century, many paid for by private subscriptions. st bartholomew's in london was rebuilt from 1730 to 1759, and the london hospital, whitechapel, opened in 1752.
+these hospitals represented a turning point in the function of the institution; they began to evolve from being basic places of care for the sick to becoming centres of medical innovation and discovery and the principal place for the education and training of prospective practitioners. some of the era's greatest surgeons and doctors worked and passed on their knowledge at the hospitals. they also changed from being mere homes of refuge to being complex institutions for the provision of medicine and care for sick. the charit was founded in berlin in 1710 by king frederick i of prussia as a response to an outbreak of plague.
+the concept of voluntary hospitals also spread to colonial america; the bellevue hospital opened in 1736 (as a workhouse, then later becoming a hospital); the pennsylvania hospital opened in 1752, new york hospital in 1771, and massachusetts general hospital in 1811.
+when the vienna general hospital opened in 1784 (instantly becoming the world's largest hospital), physicians acquired a new facility that gradually developed into one of the most important research centres.another enlightenment era charitable innovation was the dispensary; these would issue the poor with medicines free of charge. the london dispensary opened its doors in 1696 as the first such clinic in the british empire. the idea was slow to catch on until the 1770s, when many such organisations began to appear, including the public dispensary of edinburgh (1776), the metropolitan dispensary and charitable fund (1779) and the finsbury dispensary (1780). dispensaries were also opened in new york 1771, philadelphia 1786, and boston 1796.the royal naval hospital, stonehouse, plymouth, was a pioneer of hospital design in having "pavilions" to minimize the spread of infection. john wesley visited in 1785, and commented "i never saw anything of the kind so complete; every part is so convenient, and so admirably neat. but there is nothing superfluous, and nothing purely ornamented, either within or without." this revolutionary design was made more widely known by john howard, the philanthropist. in 1787 the french government sent two scholar administrators, coulomb and tenon, who had visited most of the hospitals in europe. they were impressed and the "pavilion" design was copied in france and throughout europe.
+
+
+=== 19th century ===
+
+english physician thomas percival (17401804) wrote a comprehensive system of medical conduct, medical ethics; or, a code of institutes and precepts, adapted to the professional conduct of physicians and surgeons (1803) that set the standard for many textbooks. in the mid-19th century, hospitals and the medical profession became more professionalised, with a reorganisation of hospital management along more bureaucratic and administrative lines. the apothecaries act 1815 made it compulsory for medical students to practise for at least half a year at a hospital as part of their training.florence nightingale pioneered the modern profession of nursing during the crimean war when she set an example of compassion, commitment to patient care and diligent and thoughtful hospital administration. the first official nurses' training programme, the nightingale school for nurses, was opened in 1860, with the mission of training nurses to work in hospitals, to work with the poor and to teach. nightingale was instrumental in reforming the nature of the hospital, by improving sanitation standards and changing the image of the hospital from a place the sick would go to die, to an institution devoted to recuperation and healing. she also emphasised the importance of statistical measurement for determining the success rate of a given intervention and pushed for administrative reform at hospitals.by the late 19th century, the modern hospital was beginning to take shape with a proliferation of a variety of public and private hospital systems. by the 1870s, hospitals had more than trebled their original average intake of 3,000 patients. in continental europe the new hospitals generally were built and run from public funds. the national health service, the principal provider of health care in the united kingdom, was founded in 1948. during the nineteenth century, the second viennese medical school emerged with the contributions of physicians such as carl freiherr von rokitansky, josef koda, ferdinand ritter von hebra, and ignaz philipp semmelweis. basic medical science expanded and specialisation advanced. furthermore, the first dermatology, eye, as well as ear, nose, and throat clinics in the world were founded in vienna, being considered as the birth of specialised medicine.
+
+
+=== 20th century and beyond ===
+by the late 19th and the beginning 20th century, medical advancements such as anesthesia and sterile techniques that could make surgery less risky, and availability of more advanced diagnostic devices such as x-rays, continued to make hospitals a more attractive option for treatment.modern hospitals measure various efficiency metrics such as occupancy rates, average length of stay, time to service, patient satisfaction, physician performance, patient readmission rate, inpatient mortality rate, and case mix index.in the united states, the number of hospitalizations in the united states continued to grow and reached its peak in 1981 with 171 admissions per 1,000 americans and 6,933 hospitals. this trend subsequently reversed, with the rate of hospitalization falling by more than 10% and the number of us hospitals shrinking from 6,933 in 1981 to 5,534 in 2016. occupancy rates also dropped from 77% in 1980 to 60% in 2013. among the reasons for this are the increasing availability of more complex care elsewhere such as at home or at the physicians' offices and also the less therapeutic and more life-threatening image of the hospitals in the eyes of the public. in the us, a patient may sleep in a hospital bed, but be considered outpatient and "under observation" if not formally admitted. in the us, inpatient stays are covered under medicare part a, but a hospital might keep a patient under observation which is only covered under medicare part b, and subjects the patient to additional coinsurance costs. in 2013, the center for medicare and medicaid services (cms) introduced a "two-midnight" rule for inpatient admissions, intended to reduce an increasing number of long-term "observation" stays being used for reimbursement. this rule was later dropped in 2018. in 2016 and 2017, healthcare reform and a continued decline in admissions resulted in us hospital-based healthcare systems performing poorly financially. microhospitals, with bed capacities of between eight and fifty, are expanding in the united states. similarly, freestanding emergency rooms, which transfer patients that require inpatient care to hospitals, were popularised in the 1970s and have since expanded rapidly across the united states.
+
+
+== funding ==
+
+modern hospitals derive funding from a variety of sources. they may be funded by public expenditure, charitable donations, or private payment and health insurance.
+in the united kingdom, the national health service delivers health care to legal residents funded by the state "free at the point of delivery", and emergency care free to anyone regardless of nationality or status. due to the need for hospitals to prioritise their limited resources, there is a tendency in countries with such systems for 'waiting lists' for non-crucial treatment, so those who can afford it may take out private health care to access treatment more quickly.in the united states, hospitals typically operate privately and in some cases on a for-profit basis, such as hca healthcare. the list of procedures and their prices are billed with a chargemaster; however, these prices may be lower for health care obtained within healthcare networks. legislation requires hospitals to provide care to patients in life-threatening emergency situations regardless of the patient's ability to pay. privately funded hospitals which admit uninsured patients in emergency situations incur direct financial losses, such as in the aftermath of hurricane katrina.
+
+
+== quality and safety ==
+as the quality of health care has increasingly become an issue around the world, hospitals have increasingly had to pay serious attention to this matter. independent external assessment of quality is one of the most powerful ways to assess this aspect of health care, and hospital accreditation is one means by which this is achieved. in many parts of the world such accreditation is sourced from other countries, a phenomenon known as international healthcare accreditation, by groups such as accreditation canada from canada, the joint commission from the us, the trent accreditation scheme from great britain, and haute authorit de sant (has) from france.  in england hospitals are monitored by the care quality commission. in 2020 they turned their attention to hospital food standards after  seven patient deaths from listeria linked to pre-packaged sandwiches and salads in 2019, saying "nutrition and hydration is part of a patients recovery."the world health organization noted in 2011 that going into hospital was far riskier than flying.  globally the chance of a patient being subject to an error was about 10%  and the chance of death resulting from an error was about 1 in 300 according to liam donaldson. 7% of hospitalised patients in developed countries, and 10% in developing countries, acquire at least one health care-associated infection. in the usa 1.7 million infections are acquired in hospital each year, leading to 100,000 deaths, figures much worse than in europe where there were 4.5 million infections and 37,000 deaths.
+
+
+== architecture ==
+
+modern hospital buildings are designed to minimise the effort of medical personnel and the possibility of contamination while maximising the efficiency of the whole system. travel time for personnel within the hospital and the transportation of patients between units is facilitated and minimised. the building also should be built to accommodate heavy departments such as radiology and operating rooms while space for special wiring, plumbing, and waste disposal must be allowed for in the design.however, many hospitals, even those considered "modern", are the product of continual and often badly managed growth over decades or even centuries, with utilitarian new sections added on as needs and finances dictate. as a result, dutch architectural historian cor wagenaar has called many hospitals:
+
+"... built catastrophes, anonymous institutional complexes run by vast bureaucracies, and totally unfit for the purpose they have been designed for ... they are hardly ever functional, and instead of making patients feel at home, they produce stress and anxiety."some newer hospitals now try to re-establish design that takes the patient's psychological needs into account, such as providing more fresh air, better views and more pleasant colour schemes. these ideas harken back to the late eighteenth century, when the concept of providing fresh air and access to the 'healing powers of nature' were first employed by hospital architects in improving their buildings.the research of british medical association is showing that good hospital design can reduce patient's recovery time. exposure to daylight is effective in reducing depression. single-sex accommodation help ensure that patients are treated in privacy and with dignity. exposure to nature and hospital gardens is also important  looking out windows improves patients' moods and reduces blood pressure and stress level. open windows in patient rooms have also demonstrated some evidence of beneficial outcomes by improving airflow and increased microbial diversity. eliminating long corridors can reduce nurses' fatigue and stress.another ongoing major development is the change from a ward-based system (where patients are accommodated in communal rooms, separated by movable partitions) to one in which they are accommodated in individual rooms. the ward-based system has been described as very efficient, especially for the medical staff, but is considered to be more stressful for patients and detrimental to their privacy. a major constraint on providing all patients with their own rooms is however found in the higher cost of building and operating such a hospital; this causes some hospitals to charge for private rooms.
+
+
+== see also ==
+burn center
+history of hospitals
+history of medicine
+hospital network
+lists of hospitals
+hospital information system
+super specialty hospital
+trauma center
+the waiting room
+walk-in clinic
+
+
+== notes ==
+
+
+== references ==
+
+"hospitals database". world health organization.
+
+
+== bibliography ==
+
+
+=== history of hospitals ===
+brockliss, lawrence, and colin jones. "the hospital in the enlightenment," in the medical world of early modern france (oxford up, 1997), pp. 671729; covers france 16501800
+chaney, edward (2000),"'philanthropy in italy': english observations on italian hospitals 15451789", in: the evolution of the grand tour: anglo-italian cultural relations since the renaissance, 2nd ed. london, routledge, 2000. https://books.google.com/books/about/the_evolution_of_the_grand_tour.html?id=ryb_hypsa8gc
+connor, j.t.h. "hospital history in canada and the united states," canadian bulletin of medical history, 1990, vol. 7 issue 1, pp. 93104
+crawford, d.s. bibliography of histories of canadian hospitals and schools of nursing.
+gorsky, martin. "the british national health service 19482008: a review of the historiography," social history of medicine, december 2008, vol. 21 issue 3, pp. 43760
+harrison, mar, et al. eds. from western medicine to global medicine: the hospital beyond the west (2008)
+horden, peregrine. hospitals and healing from antiquity to the later middle ages (2008)
+mcgrew, roderick e. encyclopedia of medical history (1985)
+morelon, rgis; rashed, roshdi (1996), encyclopedia of the history of arabic science, 3, routledge, isbn 978-0-415-12410-2
+porter, roy. the hospital in history, with lindsay patricia granshaw (1989) isbn 978-0-415-00375-9
+risse, guenter b. mending bodies, saving souls: a history of hospitals (1999); world coverage
+rosenberg, charles e. the care of strangers: the rise of america's hospital system (1995); history to 1920
+scheutz, martin et al. eds. hospitals and institutional care in medieval and early modern europe (2009)
+wall, barbra mann. american catholic hospitals: a century of changing markets and missions (rutgers university press, 2011). isbn 978-0-8135-4940-8
+
+
+== external links ==
+databasewho hospitals https://www.who.int/hospitals/en/
+"global and multilanguage database of public and private hospitals". hospitalsworldguide.com.
+"directory and ranking of more than 17.000 hospitals worldwide". hospitals.webometrics.info. archived from the original on 21 april 2010. retrieved 7 november 2008.
+"medical history". open access scholarly journal.

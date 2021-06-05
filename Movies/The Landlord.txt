@@ -1,0 +1,40 @@
+a landform is a natural or artificial feature of the solid surface of the earth or other planetary body.  landforms together make up a given terrain, and their arrangement in the landscape is known as topography. landforms include hills, mountains, plateaus, canyons, and valleys, as well as shoreline features such as bays, peninsulas, and seas, including submerged features such as mid-ocean ridges, volcanoes, and the great ocean basins.
+
+
+== physical characteristics ==
+landforms are categorized by characteristic physical attributes such as elevation, slope, orientation, stratification, rock exposure, and soil type. gross physical features or landforms include intuitive elements such as berms, mounds, hills, ridges, cliffs, valleys, rivers, peninsulas, volcanoes, and numerous other structural and size-scaled (e.g. ponds vs. lakes, hills vs. mountains) elements including various kinds of inland and oceanic waterbodies and sub-surface features. mountains, hills, plateaux, and plains are the four major types of landforms. minor landforms include buttes, canyons, valleys, and basins. tectonic plate movement under the earth can create landforms by pushing up mountains and hills.
+
+
+== hierarchy of classes ==
+
+oceans and continents exemplify the highest-order landforms. landform elements are parts of a high-order landforms that can be further identified and systematically given a cohesive definition such as hill-tops, shoulders, saddles, foreslopes and backslopes.
+some generic landform elements including: pits, peaks, channels, ridges, passes, pools and plains.
+terrain (or relief) is the third or vertical dimension of land surface. topography is the study of terrain, although the word is often used as a synonym for relief itself. when relief is described underwater, the term bathymetry is used. in cartography, many different techniques are used to describe relief, including contour lines and tin (triangulated irregular network).
+elementary landforms (segments, facets, relief units) are the smallest homogeneous divisions of the land surface, at the given scale/resolution. these are areas with relatively homogeneous morphometric properties, bounded by lines of discontinuity. a plateau or a hill can be observed at various scales ranging from few hundred meters to hundreds of kilometers. hence, the spatial distribution of landforms is often scale-dependent as is the case for soils and geological strata.
+a number of factors, ranging from plate tectonics to erosion and deposition, can generate and affect landforms. biological factors can also influence landforms for example, note the role of vegetation in the development of dune systems and salt marshes, and the work of corals and algae in the formation of coral reefs.
+landforms do not include man-made features, such as canals, ports and many harbors; and geographic features, such as deserts, forests, and grasslands. many of the terms are not restricted to refer to features of the planet earth, and can be used to describe surface features of other planets and similar objects in the universe. examples are mountains, hills, polar caps, and valleys, which are found on all of the terrestrial planets.
+the scientific study of landforms is known as geomorphology.
+in onomastic terminology, toponyms (geographical proper names) of individual landform objects (mountains, hills, valleys, etc.) are called oronyms.
+
+
+== recent developments ==
+landforms may be extracted from a digital elevation model using some automated techniques where the data has been gathered by modern satellites and stereoscopic aerial surveillance cameras. until recently, compiling the data found in such data sets required time consuming and expensive techniques involving many man-hours.  the most detailed dems available are measured directly using lidar techniques.
+
+
+== see also ==
+
+
+== references ==
+
+
+== sources ==
+room, adrian (1996). an alphabetical guide to the language of name studies. lanham and london: the scarecrow press. isbn 9780810831698.
+
+
+== further reading ==
+hargitai hetal. (2015) classification and characterization of planetary landforms. in: hargitai h (ed) encyclopedia of planetary landforms. springer. doi 10.1007/978-1-4614-3134-3 https://link.springer.com/content/pdf/bbm%3a978-1-4614-3134-3%2f1.pdf
+page d (2015) the geology of planetary landforms. in: hargitai h (ed) encyclopedia of planetary landforms. springer.
+
+
+== external links ==
+open-geomorphometry project

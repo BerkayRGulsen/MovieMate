@@ -1,0 +1,127 @@
+the alenia c-27j spartan is a military transport aircraft developed and manufactured by leonardo's aircraft division (formerly alenia aermacchi until 2016). it is an advanced derivative of alenia aeronautica's earlier g.222 (c-27a spartan in u.s. service), equipped with the engines and various other systems also used on the larger lockheed martin c-130j super hercules. in addition to the standard transport configuration, specialized variants of the c-27j have been developed for maritime patrol, search and rescue, c3 isr (command, control, communications, intelligence, surveillance and reconnaissance), fire support/ground-attack and electronic warfare missions.
+in 2007, the c-27j was selected as the joint cargo aircraft (jca) for the united states military; these were produced in an international teaming arrangement under which l-3 communications served as the prime contractor. in 2012, the united states air force (usaf) elected to retire the c-27j after only a short service life due to budget cuts; they were later reassigned to the u.s. coast guard and united states special operations command. the c-27j has also been ordered by the military air units of australia, bulgaria, chad, italy, greece, kenya, lithuania, mexico, morocco, peru, united states, romania, slovakia, zambia and an undisclosed country.
+
+
+== design and development ==
+in 1995, alenia and lockheed martin began discussions to improve alenia's g.222 using c-130j's glass cockpit and a more powerful version of the g.222's t64g engine and three-blade propellers. in 1996, a program began on an improved g.222, named c-27j; it used a u.s. military type designation based on the g.222's c-27a designation. in 1997, alenia and lockheed martin formed lockheed martin alenia tactical transport systems (lmatts) to develop the c-27j. the design changed to use the c-130j super hercules's rolls-royce ae 2100 engine and six-blade propeller. other changes include a fully digital mil-std-1553 systems and avionics architecture, and an updated cargo compartment for increased commonality. the c-27j has a 35% increase in range and a 15% faster cruise speed than the g.222.
+
+by 2005, the u.s. army had identified the need to replace its aging short c-23 sherpa lifter. in lieu of adequate fixed-wing airlift availability, the ch-47 helicopter fleet was being worked hard on the "last tactical mile" to supply forward-placed troops; thus the u.s. army sought the c-27j for its direct support capabilities, and to reduce demands on the ch-47 fleet. in 2006, lmatts was dissolved when lockheed martin offered the c-130j in 2006 as a contender in the same u.s. army and u.s. air force joint cargo aircraft (jca) competition in which the c-27j was competing. alenia aeronautica then paired with l-3 communications, forming the global military aircraft systems (gmas) joint venture to market the c-27j; boeing also joined gmas.gmas bid the c-27j in the jca competition against raytheon and eads north america's c-295 to replace existing short c-23 sherpa, beechcraft c-12 huron and fairchild c-26 metroliners in the army national guard, and as a substitute tactical airlifter for air national guard groups or wings losing c-130s to retirement or base realignment and closures. by november 2006, the c-27j completed the u.s. department of defense's early user survey evaluations, having flown a total of 26 hours and surpassed all requirements. gmas also announced that the c-27j will be assembled at a facility at cecil field, duval county, florida. the jca's final selection was expected in march 2007, however it was postponed until 13 june 2007, when the pentagon announced the award of a us$2.04 billion contract for 78 c-27js, including training and support, to gmas.
+
+on 22 june 2007, raytheon formally protested the jca contract award for the c-27j. on 27 september 2007, the gao announced that it had denied raytheon's protest, thereby allowing the pentagon to proceed with procurement; at this time, the u.s. army had requirement for up to 75 aircraft in the army national guard; the air force had a requirement for up to 70 aircraft in the air force special operations command and the air national guard. the first c-27j was planned to be delivered to the joint u.s. armyair force test and training program in june 2008. the first flight of a u.s. c-27j occurred on 17 june 2008.as of 2020, orders stand at australia (10), bulgaria (3), chad (2), greece (8), italy (12), kenya (3), lithuania (3), mexico (4), morocco (4), peru (4), romania (7), slovakia (2), zambia (2), united states (21), and an undisclosed country (2).in november 2020, leonardo launched the c-27j next generation programme with new equipment, systems and aerodynamic solutions to improve operating efficiency and enhance performance. the new generation features comprehensive new avionics to comply with the performance based navigation international standard to operate in civil air space without limitations and to enhance interoperability in tactical scenarios. while the new winglets contribute to improve climb performance and increase the mtow by up to 1,000 kg.
+
+
+== operational history ==
+
+
+=== united states ===
+the united states received its first c-27j on 25 september 2008. in september 2008, l-3 link's c-27j schoolhouse officially began classes at the georgia army national guard flight facility, robins air force base, georgia. by april 2009, the u.s. army had accepted deliveries of 2 aircraft and had 11 more on order. in may 2009, the u.s. army and army national guard relinquished all aircraft to the u.s. air force, primarily the air national guard; this led to the purchase being reduced to 38 c-27js and the usaf receiving total control of all us c-27js. initially, the c-27j was to be operated by the air national guard for direct support of the united states army; later, both army national guard and air national guard flight crews support the aircraft's fielding. by july 2010, the u.s. air national guard had received four c-27js for testing and training, with initial operational capability expected in october 2010.
+
+the u.s. air force performed the c-27j's first combat deployment in summer 2011. in august 2011, two c-27js flown by air national guard aircrews, augmented with army national guard personnel, began operations at kandahar air field, afghanistan. between august 2011 and june 2012, the c-27js of the 179th airlift wing, followed by the 175th wing, executed more than 3200 missions transporting over 25,000 passengers, and 1400 tons of cargo. via tactical control of the c-27js, the u.s. army was able to employ helicopters more efficiently, splitting missions between the two platforms based on their relative strengths.on 26 january 2012, the department of defense announced plans to retire all 38 usaf c-27js on order because of excess intra-theater airlift capacity and budgetary pressures; the c-130 would perform its functions. in february 2012, alenia warned that it would not provide support for c-27js resold by the us to international customers in competition with future orders. on 23 march 2012, the usaf announced the c-27j's retirement in fiscal year 2013 after determining other programs' budgetary needs and requirement changes for a new pacific strategy. the cut was opposed by the air national guard and by various legislators.in july 2012, the usaf briefly suspended flight operations following a flight control system failure. by 2013, newly built c-27js were being sent directly to the davismonthan air force base boneyard. the usaf spent $567 million on 21 c-27js since 2007, with 16 delivered by the end of september 2013; 12 had been taken out of service while a further 5 were to be built by april 2014 as they were too near completion to be worth cancelling. budget cuts motivated the divesture; a c-27j allegedly costs $308 million over its lifespan in comparison with a c-130's $213 million 25-year lifespan cost.in november 2012, the c-27j deployed for its first domestic mission, contributing to the hurricane sandy relief effort.in july 2013, the u.s. coast guard considered acquiring up to 14 of the 21 retired c-27js and converting them for search-and-rescue missions, while cancelling undelivered orders for the hc-144 ocean sentry to save $500$800 million. eads claimed that the hc-144 costs half as much as the c-27j to maintain and operate. the u.s. forest service also wanted 7 c-27js for aerial firefighting. the u.s. special operations command (socom) were interested in acquiring ex-usaf c-27js. if the dod determined it could not afford the aircraft, they would go to the forest service. in late 2013, socom was allocated 7 c-27js to replace its casa 212 training aircraft. in december 2013, the 14 remaining c-27js were transferred to the coast guard, with the first hc-27j delivered in coast guard colors in april 2016.
+
+
+=== others ===
+
+in october 2006, italy accepted delivery of the first c-27j of an initial batch of 12 aircraft and in january 2007, the first aircraft was delivered to the 46a brigata aerea, in pisa. from 12 september 2008 to 27 january 2009, a pair of italian air force c-27js were deployed to afghanistan to contribute to nato in-theatre airlift operations. in december 2013, an italian c-27j was deployed to the philippines to participate in international humanitarian relief operations in the aftermath of typhoon haiyan. the italian air force is also the launch customer for a special mission variant of the c-27j, named praetorian in the configuration tailored for itaf and equipped with isr equipment and roll-on, roll-off mission system's consolles; italy is the first european nation to operate such an aircraft.
+
+in 2006, bulgaria had initially ordered five c-27j to replace its aging fleet of antonov an-26 aircraft, but reduced its order to three aircraft in 2010 due to funding shortages. in march 2011, the bulgarian air force received the third and final of the c-27js ordered; the fleet is employed for military transport missions as well as medical evacuations, special tasks of the interior ministry, and participating in international operations such as the rotation of bulgarian troops in afghanistan.in 2006, the romanian government announced the selection of the c-27j, seeking 7 aircraft to be delivered from 2008 to replace antonov an-24 and antonov an-26 aircraft, beating the eads casa c-295. in february 2007, a legal challenge filed by eads blocked the romanian order; the order was allowed to proceed when the romanian court rejected eads' complaint in june 2007. on 7 december 2007, a contract for the seven c-27js was officially signed. on 12 april 2010, the first two c-27s were delivered to the romanian air force.
+
+in december 2011, the royal australian air force (raaf) issued a foreign military sales request for 10 c-27js valued at us$950m to replace its retired dhc-4 caribou fleet. australia had opted for the c-27j over the rival eads casa c-295 following a raaf evaluation, which had noted the c-27j's wider and taller cabin being compatible with the australian army's general purpose g-wagon vehicle, and palletized goods. in december 2013, the first australian c-27j performed its maiden flight. in december 2014, the raaf began maintenance training on the type; delivery of the first two of the ten c-27js on order was also formally accepted that month. the last aircraft for raaf was delivered in april 2018.on 6 july 2011, the mexican air force signed a $200 million contract for four c-27js and a multiyear support agreement for the fleet. the first aircraft was received two months later, all four were delivered by the end of 2012. mexico's c-27js are based at santa luca air force base num 1 and operated by 302 air squadron alongside a number of c-130 hercules.in june 2013, the peruvian air force was negotiating to acquire four c-27js for $200 million; future purchases by peru may increase the total to 12 spartans. the c-27j competed against the eads casa c-295, antonov an-70, antonov an-32, and c-130j. on 25 november 2013, peru selected the c-27j; two aircraft and associated support was purchased in a 100 million-euro deal. on 27 march 2015, the first c-27j was formally accepted by the peruvian air force; by this point a total of four c-27js were on order for the service. the fourth aircraft was delivered on 5 december 2017 at grupo areo n8.in june 2018, kenya received an international loan for military aircraft and expansion including 3 c-27j.
+
+
+=== possible sales ===
+on 21 august 2009, taiwan announced that it had entered price negotiations with alenia aeronautica for the sale of six c-27j aircraft.in 2010, the indian air force issued a request for information (rfi) for 16 medium military transport aircraft; alenia aeronautica responded with information about the c-27j.in 2011, indonesia was considering purchasing a number of c-27js.in 2012, the c-27j was shortlisted as a candidate for the philippine air force (paf) medium lift aircraft program. a joint team from the philippines' department of national defense (dnd) and paf inspected the c-27j in january 2012. the dnd already received approval from the philippine president to purchase 3 units, and is awaiting congressional approval as of november 2012. however, the paf announced eads-casa's (now airbus) c-295m as declared winner for the medium lift aircraft acquisition project.
+
+in 2015, alenia aermacchi were studying the development of a maritime patrol variant of the c-27j. other proposed variants of the platform include a multi-mission c-27j that could be armed with various air-launched weapons and equipped with a maritime surveillance radar; alenia aermacchi have promoted this model to the royal air force.in 2016, leonardo conducted demonstration flights around la paz at the request of the bolivian government. that might result in the bolivian government purchasing one or more c-27j systems.the ghana air force requested four c-27j aircraft via fms sale, but the purchase was never completed.in january 2021, the slovenian government announced that talks on the purchase of one c-27j for the slovenian army were in the final phase.
+
+
+=== failed bids ===
+in 2007, the c-27j was being considered as a sole-source c$3 billion contract by canada as a future replacement for its current search and rescue air fleet. alenia aermacchi submitted its final bid a few weeks before the 11 january 2016 deadline. alenia aermacchi bid their c-27j fwsar/mpa aircraft, a heavily modified c-27j for its role as a search and rescue/maritime patrol aircraft. exclusive modifications and upgrades included a mission systems pallet from general dynamics mission systems canada, additional observation windows, an aesa search radar, satellite and atc radios, flare/markers launchers, and an electro-optical/infrared turret. other enhancements included upgrades to avionics and performance such as a new flight management system. alenia aermacchi bid up to 32 aircraft with lifetime maintenance from kf aerospace and in-service support from general dynamics canada. the c-27j fwsar/mpa bid competed against the airbus c-295 fwsar and the embraer kc-390. in december 2016, the canadian government selected the c-295.
+
+
+== variants ==
+
+
+=== ac-27j stinger ii ===
+the ac-27j was a proposed gunship for the u.s. air force. in 2008, us$32 million was reallocated to purchase a c-27j for the u.s. air force special operations command, to fulfill requirements defined by afsoc for the ac-xx concept, a replacement for the aging and heavily used lockheed ac-130s. the ac-27j was to be equipped using proven hardware and systems to reduce risk. afsoc planned to acquire 16 aircraft, the first gunship in 2011 and two more per year from 2012 to 2015.
+the ac-27j was to serve as a multi-mission platform, equipped with full-motion cameras and outfitted to support covert infiltration and other missions by ground forces, armed with either a 30-millimeter or 40-millimeter gun or precision-guided munitions such as the viper strike bomb. at the air force association's 2008 conference, it was reported that the ac-27j would be named "stinger ii" after the ac-119k stinger.c-27a 90-0170 was removed from storage at amarc in october 2008 and delivered to eglin afb, florida, for use by the air force research laboratory to test the feasibility of mounting of 30 mm and 40 mm guns. in may 2009, the program was put on hold because u.s. army funding for 40 c-27s in an armyair force cooperative purchase was removed from the fiscal 2010 budget. u.s. air force special operations command elected to standardize their fleet with the c-130 to meet its gunship needs.
+
+
+=== hc-27j ===
+the hc-27j is the modified surveillance variant for the us coast guard. 14 retired c-27js were rebuilt as hc-27j aircraft for uscg missions such as maritime patrol, surveillance, medium-range search and rescue, drug and migrant interdiction, and disaster response. deliveries began in november 2014.
+
+
+=== mc-27j ===
+
+the mc-27j is a development of the c-27j for multi-mission purposes, including command and control, communications, intelligence, surveillance, reconnaissance (c3-isr), signal intelligence (sigint) and combat support operations, thanks to roll-off/roll-on systems and different sensors and equipment: aesa search radar; elettro-optical/infra-red (eo/ir) system; electronic support measures (esm); palletized mission system; enhanced communications system including datalink and satcom capabilities; store management system to employ precision guided munitions (pgm  one hard point under each wing); palletized fire support system with a high accurate gun able to fire through the lh rear door, that can be installed and rapidly uninstalled when not required. the mc-27j can support special operations forces and ground troops with direct fire also performing armed isr, close air support (cas) and combat search and rescue (csar). it features systems to carry out intelligence, surveillance, target acquisition and reconnaissance (istar) missions, as well as a defensive aids suite. in july 2012, alenia aermacchi announced its intention to offer an upgrade program for existing c-27js to the mc-27j configuration in the future. the mc-27j is being developed as an alenia aermacchi-orbital private venture.
+the italian air force will convert three c-27js into mc-27js in 2016. on 25 march 2014, the first mc-27j, named praetorian in the configuration tailored for italian air force, performed its maiden flight. in july 2014, the mc-27j had reportedly successfully completed the first phase of ground and flight testing with the italian air force. in october 2020, the annual documento programmatico pluriennale (dpp) 2020-2022 of italian minister of defence indicates realization of mc-27j praetorian aircraft to support special operations.
+
+
+=== ec-27 "jedi" ===
+in 2010, the italian air force announced the development of an electronic warfare package for its c-27 fleet under the jamming and electronic defence instrumentation (jedi) program. one publicised ability of the aircraft is the disruption of radio communications and, in particular, remote detonators commonly used on improvised explosive devices (ieds). the ec-27 has been compared to the capabilities of the usaf's lockheed ec-130h compass call. in 2015, it was revealed that an improved jedi 2 payload was under development to provide increased electronic warfare capabilities.
+
+
+== operators ==
+
+ australiaroyal australian air force has ordered ten c-27j aircraft with deliveries beginning in late 2014. these aircraft are operated by no. 35 squadron. first 4 reached initial operating capability on 16 december 2016. the last aircraft was delivered in april 2018. bulgariabulgarian air force has three c-27j aircraft in service as of january 2012 with the 1/16 transport squadron vrazhdebna air base. chadchadian air force ordered two c-27j aircraft; these aircraft were received in 2013 and 2014. greecehellenic air force has eight c-27j aircraft in use as of january 2012 with the 354th tts "pegasus" (112th combat wing  air force support command). italyitalian air force has 12 aircraft in operation as of january 2012 with 98th gruppo/46th air brigade. kenyakenya air force ordered three between november 2017 and march 2018. two were delivered on 30 january 2019. and last one on 1 october 2020. lithuanialithuanian air force has three c-27js in service as of january 2012. moroccoroyal moroccan air force has four aircraft in use as of january 2012 with 3rd air force base (3rd bafra). mexicomexican air force has four c-27j in service as of january 2012 with 302 air squadron. peruperuvian air force has four c-27js in service with grupo areo n8. romaniaromanian air force has seven c-27js in service as of january 2015, operated by 902nd transport and reconnaissance squadron of the 90th airlift flotilla. slovakiaslovak air force has two c-27j aircraft. aircraft deliveries to the slovak air force began on 31 october 2017 with the first aircraft, and the second and final aircraft on 9 april 2018. united statesunited states air force (former operator) taken out of service due to budget cuts and passed on to the coast guard and socom.135th airlift squadron, maryland air national guard, 2011-2013
+153d air refueling squadron, mississippi air national guard
+164th airlift squadron, ohio air national guard
+united states army special operations aviation command: seven c-27js being transferred from usaf.
+united states coast guard received 14 former usaf c-27js, to convert to hc-27j configuration.  the coast guard will transfer seven c-130s to the united states forest service. zambiazambia air force has ordered two c-27j aircraft. both aircraft delivered during summer 2019.
+
+
+== specifications (c-27j) ==
+
+data from alenia aermacchi, c-27j facts
+
+leonardo brochure c-27jgeneral characteristics
+crew: minimum two: pilot, co-pilot (plus loadmaster when needed)
+capacity: 60 troops or 46 paratroops or 36 litters with 6 medical personnel(11,600 kg max payload) 6 vip plus 18 escort passengers plus a service module.;cargo transport (bulk loads, wheeled and tracked vehicles, aircraft engines, light helicopters, 463l standard pallets  3 hcu-6e+ 1 hcu-12e or 6 hcu-12e); airdrop (up to 9,000 kg with two platforms; up to 6 a22 cds bundles; up to 5,000 kg with 1 or 2 platforms by lapes; up to 6,000 kg by combat off-load  3 hcu-6e pallets); firefighting (up to 6 "guardian" system containers  6,000 l of water/fire retardant; roll-off/roll-on fire attack system with 9,850 l capacity)cargo compartment: width 3.33 m x height 2.25 mlength: 22.7 m (74 ft 6 in)
+wingspan: 28.7 m (94 ft 2 in)
+height: 9.64 m (31 ft 8 in)
+wing area: 82 m2 (880 sq ft)
+empty weight: 17,500 kg (38,581 lb)
+max takeoff weight: 31,800 kg (70,107 lb)
+max payload: 11,600 kilograms (25,600 lb) at mtow
+powerplant: 2  rolls-royce ae2100-d2a turboprop, 3,458 kw (4,637 hp) each
+propellers: 6-bladed dowty propeller 391/6-132-f/10, 4.15 m (13 ft 7 in) diameterperformance
+
+maximum speed: 602 km/h (374 mph, 325 kn)
+cruise speed: 583 km/h (362 mph, 315 kn)
+minimum control speed: 194 km/h (121 mph, 105 kn)
+range: 1,759 km (1,093 mi, 950 nmi) with mtow of 31,800 kg (70,100 lb)
+range at 4,536 kg (10,000 lb) payload: 5,112 km (2,760 nmi)
+ferry range: 5,852 km (3,636 mi, 3,160 nmi)
+service ceiling: 9,144 m (30,000 ft)
+
+
+== see also ==
+
+related development
+
+aeritalia g.222
+lockheed martin c-130j super herculesaircraft of comparable role, configuration, and era
+
+eads casa c-295
+casa cn-235
+antonov an-32
+antonov an-132
+ilyushin il-112
+
+
+== references ==
+
+
+=== notes ===
+
+
+=== bibliography ===
+
+
+== external links ==
+c-27j on leonardo web site
+gmas c-27j site for jca program
+alenia canadian c-27j site
+c-27j spartan: pocket technical guide
+"frontline warrior: the alenia aeronautica c-27 spartan ", flight international
+european aviation safety agency  type certificate data sheet c-27j
+flight test: c-27j  no small measure. flight international, 24 august 2004.

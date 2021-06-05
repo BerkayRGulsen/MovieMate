@@ -1,0 +1,67 @@
+the term wet scrubber describes a variety of devices that remove pollutants from a furnace flue gas or from other gas streams. in a wet scrubber, the polluted  gas stream is brought into contact with the scrubbing liquid, by spraying it with the liquid, by forcing it through a pool of liquid, or by some other contact method, so as to remove the pollutants.
+
+
+== design ==
+
+the design of wet scrubbers or any air pollution control device depends on the industrial process conditions and the nature of the air pollutants involved. inlet gas characteristics and dust properties (if particles are present) are of primary importance. scrubbers can be designed to collect particulate matter and/or gaseous pollutants. the versatility of wet scrubbers allow them to be built in numerous configurations, all designed to provide good contact between the liquid and polluted gas stream.
+wet scrubbers remove dust particles by capturing them in liquid  droplets. the droplets are then collected, the liquid dissolving or absorbing  the pollutant gases. any droplets that are in the scrubber inlet gas must be separated from the outlet gas stream by means of another device referred to as a mist eliminator or entrainment separator (these terms are interchangeable). also, the resultant scrubbing liquid must be treated prior to any ultimate discharge or being reused in the plant.
+a wet scrubber's ability to collect small particles is often directly proportional to the power input into the scrubber. low energy devices such as spray towers are used to collect particles larger than 5 micrometers. to obtain high efficiency removal of 1 micrometer (or less) particles generally requires high-energy devices such as venturi scrubbers or augmented devices such as condensation scrubbers. additionally, a properly designed and operated entrainment separator or mist eliminator is important to achieve high removal efficiencies. the greater the number of liquid droplets that are not captured by the mist eliminator, the higher the potential emission levels.
+wet scrubbers that remove gaseous pollutants are referred to as absorbers. good gas-to-liquid contact is essential to obtain high removal efficiencies in absorbers.  various wet-scrubber designs are used to remove gaseous pollutants, with the packed tower and the plate tower being the most common.
+if the gas stream contains both particulate matter and gases, wet scrubbers are generally the only single air pollution control device that can remove both pollutants. wet scrubbers can achieve high removal efficiencies for either particles or gases and, in some instances, can achieve a high removal efficiency for both pollutants in the same system. however, in many cases, the best operating conditions for particles collection are the poorest for gas removal.
+in general, obtaining high simultaneous gas and particulate removal efficiencies requires that one of them be easily collected (i.e., that the gases are very soluble in the liquid or that the particles are large and readily captured), or by the use of a scrubbing reagent such as lime or sodium hydroxide.
+
+
+== advantages and disadvantages ==
+for particulate control, wet scrubbers (also referred to as wet collectors) are evaluated against fabric filters and electrostatic precipitators (esps). some advantages of wet scrubbers over these devices are as follows:
+
+wet scrubbers have the ability to handle high temperatures and moisture.
+in wet scrubbers, flue gases are cooled, resulting in smaller overall size of equipment.
+wet scrubbers can remove both gases and particulate matter.
+wet scrubbers can neutralize corrosive gases.some disadvantages of wet scrubbers include corrosion, the need for entrainment separation or mist removal to obtain high efficiencies and the need for treatment or reuse of spent liquid.
+wet scrubbers have been used in a variety of industries such as acid plants, fertilizer plants, steel mills, asphalt plants, and large power plants.
+
+
+== components ==
+some components that are specific to the wet scrubbing process include:
+
+venturi scrubber
+spray chamber/tower
+cyclonic spray scrubber
+packed bed
+ejector venturi scrubbera system may include one or multiple of these components in addition to various supporting components such as:
+
+ductwork and fan system
+a saturation chamber (optional)
+entrainment separator or mist eliminator
+pumping (and possible recycle system)
+spent scrubbing liquid treatment and/or reuse system
+an exhaust stacka typical wet scrubbing process can be described as follows:
+
+hot flue gas from a furnace enters a saturator (if present) where gases are cooled and humidified prior to entering the scrubbing area. the saturator removes a small percentage of the particulate matter present in the flue gas.
+next, the gas enters a venturi scrubber where approximately half of the gases are removed. venturi scrubbers have a minimum particle removal efficiency of 95%.
+the gas flows through a second scrubber, a packed bed absorber, where the rest of the gases (and particulate matter) are collected.
+an entrainment separator or mist eliminator removes any liquid droplets that may have become entrained in the flue gas.
+a recirculation pump moves some of the spent scrubbing liquid back to the venturi scrubber where it is recycled and the remainder is sent to a treatment system.
+treated scrubbing liquid is recycled back to the saturator and the packed bed absorber.
+fans and ductwork move the flue gas stream through the system and eventually out the stack.
+
+
+== categorization ==
+since wet scrubbers vary greatly in complexity and method of operation, devising categories into which all of them neatly fit is extremely difficult. scrubbers for particle collection are usually categorized by the gas-side pressure drop of the system. gas-side pressure drop refers to the pressure difference, or pressure drop, that occurs as the exhaust gas is pushed or pulled through the scrubber, disregarding the pressure that would be used for pumping or spraying the liquid into the scrubber.
+scrubbers may be classified by pressure drop as follows:
+
+low-energy scrubbers have pressure drops of less than 12.7 cm (5 in) of water.
+medium-energy scrubbers have pressure drops between 12.7 and 38.1 cm (5 and 15 in) of water.
+high-energy scrubbers have pressure drops greater than 37.1 cm (15 in) of water.however, most scrubbers operate over a wide range of pressure drops, depending on their specific application, thereby making this type of categorization difficult.
+another way to classify wet scrubbers is by their use - to primarily collect either particulates or gaseous pollutants. again, this distinction is not always clear since scrubbers can often be used to remove both types of pollutants.
+wet scrubbers can also be categorized by the manner in which the gas and liquid phases are brought into contact. scrubbers are designed to use power, or energy, from the gas stream or the liquid stream, or some other method to bring the pollutant gas stream into contact with the liquid. these categories are given in table 2.
+
+
+== material of construction and design ==
+corrosion can be a prime problem associated with chemical industry scrubbing systems. fibre-reinforced plastic and dual keys are often used as most dependable materials of construction.
+
+
+== bibliography ==
+
+
+== references ==

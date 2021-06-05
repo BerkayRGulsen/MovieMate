@@ -1,0 +1,420 @@
+in finance, moneyness is the relative position of the current price (or future price) of an underlying asset (e.g., a stock) with respect to the strike price of a derivative, most commonly a call option or a put option. moneyness is firstly a three-fold classification: if the derivative would have positive intrinsic value if it were to expire today, it is said to be in the money; if it would be worthless if expiring with the underlying at its current price it is said to be out of the money, and if the current underlying price and strike price are equal, it is said to be at the money. there are two slightly different definitions, according to whether one uses the current price (spot) or future price (forward), specified as "at the money spot" or "at the money forward", etc.
+this rough classification can be quantified by various definitions to express the moneyness as a number, measuring how far the asset is in the money or out of the money with respect to the strike  or conversely how far a strike is in or out of the money with respect to the spot (or forward) price of the asset. this quantified notion of moneyness is most importantly used in defining the relative volatility surface: the implied volatility in terms of moneyness, rather than absolute price. the most basic of these measures is simple moneyness, which is the ratio of spot (or forward) to strike, or the reciprocal, depending on convention. a particularly important measure of moneyness is the likelihood that the derivative will expire in the money, in the risk-neutral measure. it can be measured in percentage probability of expiring in the money, which is the forward value of a binary call option with the given strike,
+and is equal to the auxiliary n(d2) term in the blackscholes formula. this can also be measured in standard deviations, measuring how far above or below the strike price the current price is, in terms of volatility; this quantity is given by d2. (standard deviations refer to the price fluctuations of the underlying instrument, not of the option itself.) another measure closely related to moneyness is the delta of a call or put option. there are other proxies for moneyness, with convention depending on market.
+
+
+== example ==
+suppose the current stock price of ibm is $100. a call or put option with a strike of $100 is at-the-money. a call with a strike of $80 is in-the-money (100  80 = 20 > 0). a put option with a strike at $80 is out-of-the-money (80  100 = 20 < 0). conversely, a call option with a $120 strike is out-of-the-money and a put option with a $120 strike is in-the-money.
+the above is a traditional way of defining itm, otm and atm, but some new authors find the comparison of strike price with current market price meaningless and recommend the use of forward reference rate instead of current market price. for example, a put option will be in the money if the strike price of the option is greater than the forward reference rate.
+
+
+== intrinsic value and time value ==
+the intrinsic value (or "monetary value") of an option is its value assuming it were exercised immediately. thus if the current (spot) price of the underlying security (or commodity etc.) is above the agreed (strike) price, a call has positive intrinsic value (and is called "in the money"), while a put has zero intrinsic value (and is "out of the money").
+the time value of an option is the total value of the option, less the intrinsic value. it partly arises from the uncertainty of future price movements of the underlying. a component of the time value also arises from the unwinding of the discount rate between now and the expiry date. in the case of a european option, the option cannot be exercised before the expiry date, so it is possible for the time value to be negative; for an american option if the time value is ever negative, you exercise it (ignoring special circumstances such as the security going ex dividend): this yields a boundary condition.
+
+
+== moneyness terms ==
+
+
+=== at the money ===
+an option is at the money (atm) if the strike price is the same as the current spot price of the underlying security. an at-the-money option has no intrinsic value, only time value.for example, with an "at the money" call stock option, the current share price and strike price are the same. exercising the option will not earn the seller a profit, but any move upward in stock price will give the option value.
+since an option will rarely be exactly at the money, except for when it is written (when one may buy or sell an atm option), one may speak informally of an option being near the money or close to the money. similarly, given standardized options (at a fixed set of strikes, say every $1), one can speak of which one is nearest the money; "near the money" may narrowly refer specifically to the nearest the money strike. conversely, one may speak informally of an option being far from the money.
+
+
+=== in the money ===
+an in the money (itm) option has positive intrinsic value as well as time value. a call option is in the money when the strike price is below the spot price. a put option is in the money when the strike price is above the spot price.
+with an "in the money" call stock option, the current share price is greater than the strike price so exercising the option will give the owner of that option a profit. that will be equal to the market price of the share, minus the option strike price, times the number of shares granted by the option (minus any commission).
+
+
+=== out of the money ===
+an out of the money (otm) option has no intrinsic value. a call option is out of the money when the strike price is above the spot price of the underlying security. a put option is out of the money when the strike price is below the spot price.
+with an "out of the money" call stock option, the current share price is less than the strike price so there is no reason to exercise the option. the owner can sell the option, or wait and hope the price changes.
+
+
+== spot versus forward ==
+assets can have a forward price (a price for delivery in future) as well as a spot price. one can also talk about moneyness with respect to the forward price: thus one talks about atmf, "atm forward", and so forth. for instance, if the spot price for usd/jpy is 120, and the forward price one year hence is 110, then a call struck at 110 is atmf but not atm.
+
+
+== use ==
+buying an itm option is effectively lending money in the amount of the intrinsic value. further, an itm call can be replicated by entering a forward and buying an otm put (and conversely). consequently, atm and otm options are the main traded ones.
+
+
+== definition ==
+
+
+=== moneyness function ===
+intuitively speaking, moneyness and time to expiry form a two-dimensional coordinate system for valuing options (either in currency (dollar) value or in implied volatility), and changing from spot (or forward, or strike) to moneyness is a change of variables. thus a moneyness function is a function m with input the spot price (or forward, or strike) and output a real number, which is called the moneyness. the condition of being a change of variables is that this function is monotone (either increasing for all inputs, or decreasing for all inputs), and the function can depend on the other parameters of the blackscholes model, notably time to expiry, interest rates, and implied volatility (concretely the atm implied volatility), yielding a function:
+
+  
+    
+      
+        m
+        (
+        s
+        ,
+        k
+        ,
+        
+        ,
+        r
+        ,
+        
+        )
+        ,
+      
+    
+    {\displaystyle m(s,k,\tau ,r,\sigma ),}
+  where s is the spot price of the underlying, k is the strike price,  is the time to expiry, r is the risk-free rate, and  is the implied volatility. the forward price f can be computed from the spot price s and the risk-free rate r. all of these are observables except for the implied volatility, which can computed from the observable price using the blackscholes formula.
+in order for this function to reflect moneyness  i.e., for moneyness to increase as spot and strike move relative to each other  it must be monotone in both spot s and in strike k (equivalently forward f, which is monotone in s), with at least one of these strictly monotone, and have opposite direction: either increasing in s and decreasing in k (call moneyness) or decreasing in s and increasing in k (put moneyness). somewhat different formalizations are possible. further axioms may also be added to define a "valid" moneyness.
+this definition is abstract and notationally heavy; in practice relatively simple and concrete moneyness functions are used, and arguments to the function are suppressed for clarity.
+
+
+=== conventions ===
+when quantifying moneyness, it is computed as a single number with respect to spot (or forward) and strike, without specifying a reference option. there are thus two conventions, depending on direction: call moneyness, where moneyness increases if spot increases relative to strike, and put moneyness, where moneyness increases if spot decreases relative to strike. these can be switched by changing sign, possibly with a shift or scale factor (e.g., the probability that a put with strike k expires itm is one minus the probability that a call with strike k expires itm, as these are complementary events). switching spot and strike also switches these conventions, and spot and strike are often complementary in formulas for moneyness, but need not be. which convention is used depends on the purpose. the sequel uses call moneyness  as spot increases, moneyness increases  and is the same direction as using call delta as moneyness.
+while moneyness is a function of both spot and strike, usually one of these is fixed, and the other varies. given a specific option, the strike is fixed, and different spots yield the moneyness of that option at different market prices; this is useful in option pricing and understanding the blackscholes formula. conversely, given market data at a given point in time, the spot is fixed at the current market price, while different options have different strikes, and hence different moneyness; this is useful in constructing an implied volatility surface, or more simply plotting a volatility smile.
+
+
+=== simple examples ===
+this section outlines moneyness measures from simple but less useful to more complex but more useful. simpler measures of moneyness can be computed immediately from observable market data without any theoretical assumptions, while more complex measures use the implied volatility, and thus the blackscholes model.
+the simplest (put) moneyness is fixed-strike moneyness, where m=k, and the simplest call moneyness is fixed-spot moneyness, where m=s. these are also known as absolute moneyness, and correspond to not changing coordinates, instead using the raw prices as measures of moneyness; the corresponding volatility surface, with coordinates k and t (tenor) is the absolute volatility surface. the simplest non-trivial moneyness is the ratio of these, either s/k or its reciprocal k/s, which is known as the (spot) simple moneyness, with analogous forward simple moneyness. conventionally the fixed quantity is in the denominator, while the variable quantity is in the numerator, so s/k for a single option and varying spots, and k/s for different options at a given spot, such as when constructing a volatility surface. a volatility surface using coordinates a non-trivial moneyness m and time to expiry  is called the relative volatility surface (with respect to the moneyness m).
+while the spot is often used by traders, the forward is preferred in theory, as it has better properties, thus f/k will be used in the sequel. in practice, for low interest rates and short tenors, spot versus forward makes little difference.in (call) simple moneyness, atm corresponds to moneyness of 1, while itm corresponds to greater than 1, and otm corresponds to less than 1, with equivalent levels of itm/otm corresponding to reciprocals. this is linearized by taking the log, yielding the log simple moneyness 
+  
+    
+      
+        ln
+        
+        
+          (
+          
+            f
+            
+              /
+            
+            k
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle \ln \left(f/k\right).}
+   in the log simple moneyness, atm corresponds to 0, while itm is positive and otm is negative, and corresponding levels of itm/otm corresponding to switching sign. note that once logs are taken, moneyness in terms of forward or spot differ by an additive factor (log of discount factor), as 
+  
+    
+      
+        ln
+        
+        
+          (
+          
+            f
+            
+              /
+            
+            k
+          
+          )
+        
+        =
+        ln
+        
+        (
+        s
+        
+          /
+        
+        k
+        )
+        +
+        r
+        t
+        .
+      
+    
+    {\displaystyle \ln \left(f/k\right)=\ln(s/k)+rt.}
+  
+the above measures are independent of time, but for a given simple moneyness, options near expiry and far from expiry behave differently, as options far from expiry have more time for the underlying to change. accordingly, one may incorporate time to maturity  into moneyness. since dispersion of brownian motion is proportional to the square root of time, one may divide the log simple moneyness by this factor, yielding: 
+  
+    
+      
+        ln
+        
+        
+          (
+          
+            f
+            
+              /
+            
+            k
+          
+          )
+        
+        
+          
+            /
+          
+        
+        
+          
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \ln \left(f/k\right){\big /}{\sqrt {\tau }}.}
+   this effectively normalizes for time to expiry  with this measure of moneyness, volatility smiles are largely independent of time to expiry.this measure does not account for the volatility  of the underlying asset. unlike previous inputs, volatility is not directly observable from market data, but must instead be computed in some model, primarily using atm implied volatility in the blackscholes model. dispersion is proportional to volatility, so standardizing by volatility yields:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              ln
+              
+              
+                (
+                
+                  f
+                  
+                    /
+                  
+                  k
+                
+                )
+              
+            
+            
+              
+              
+                
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle m={\frac {\ln \left(f/k\right)}{\sigma {\sqrt {\tau }}}}.}
+  this is known as the standardized moneyness (forward), and measures moneyness in standard deviation units.
+in words, the standardized moneyness is the number of standard deviations the current forward price is above the strike price. thus the moneyness is zero when the forward price of the underlying equals the strike price, when the option is at-the-money-forward. standardized moneyness is measured in standard deviations from this point, with a positive value meaning an in-the-money call option and a negative value meaning an out-of-the-money call option (with signs reversed for a put option).
+
+
+=== blackscholes formula auxiliary variables ===
+the standardized moneyness is closely related to the auxiliary variables in the blackscholes formula, namely the terms d+ = d1 and d = d2, which are defined as:
+
+  
+    
+      
+        
+          d
+          
+            
+          
+        
+        =
+        
+          
+            
+              ln
+              
+              
+                (
+                
+                  f
+                  
+                    /
+                  
+                  k
+                
+                )
+              
+              
+              (
+              
+                
+                
+                  2
+                
+              
+              
+                /
+              
+              2
+              )
+              
+            
+            
+              
+              
+                
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle d_{\pm }={\frac {\ln \left(f/k\right)\pm (\sigma ^{2}/2)\tau }{\sigma {\sqrt {\tau }}}}.}
+  the standardized moneyness is the average of these:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              ln
+              
+              (
+              f
+              
+                /
+              
+              k
+              )
+            
+            
+              
+              
+                
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          (
+          
+            
+              d
+              
+                
+              
+            
+            +
+            
+              d
+              
+                +
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle m={\frac {\ln(f/k)}{\sigma {\sqrt {\tau }}}}={\tfrac {1}{2}}\left(d_{-}+d_{+}\right),}
+  and they are ordered as:
+
+  
+    
+      
+        
+          d
+          
+            
+          
+        
+        <
+        m
+        <
+        
+          d
+          
+            +
+          
+        
+        ,
+      
+    
+    {\displaystyle d_{-}<m<d_{+},}
+  differing only by a step of 
+  
+    
+      
+        
+        
+          
+            
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \sigma {\sqrt {\tau }}/2}
+   in each case. this is often small, so the quantities are often confused or conflated, though they have distinct interpretations.
+as these are all in units of standard deviations, it makes sense to convert these to percentages, by evaluating the standard normal cumulative distribution function n for these values. the interpretation of these quantities is somewhat subtle, and consists of changing to a risk-neutral measure with specific choice of numraire. in brief, these are interpreted (for a call option) as:
+
+n(d) is the (future value) price of a binary call option, or the risk-neutral likelihood that the option will expire itm, with numraire cash (the risk-free asset);
+n(m) is the percentage corresponding to standardized moneyness;
+n(d+) is the delta, or the risk-neutral likelihood that the option will expire itm, with numraire asset.these have the same ordering, as n is monotonic (since it is a cdf):
+
+  
+    
+      
+        n
+        (
+        
+          d
+          
+            
+          
+        
+        )
+        <
+        n
+        (
+        m
+        )
+        <
+        n
+        (
+        
+          d
+          
+            +
+          
+        
+        )
+        =
+        
+        .
+      
+    
+    {\displaystyle n(d_{-})<n(m)<n(d_{+})=\delta .}
+  of these, n(d) is the (risk-neutral) "likelihood of expiring in the money", and thus the theoretically correct percent moneyness, with d the correct moneyness. the percent moneyness is the implied probability that the derivative will expire in the money, in the risk-neutral measure. thus a moneyness of 0 yields a 50% probability of expiring itm, while a moneyness of 1 yields an approximately 84% probability of expiring itm.
+this corresponds to the asset following geometric brownian motion with drift r, the risk-free rate, and diffusion , the implied volatility. drift is the mean, with the corresponding median (50th percentile) being r2/2, which is the reason for the correction factor. note that this is the implied probability, not the real-world probability.
+the other quantities  (percent) standardized moneyness and delta  are not identical to the actual percent moneyness, but in many practical cases these are quite close (unless volatility is high or time to expiry is long), and delta is commonly used by traders as a measure of (percent) moneyness. delta is more than moneyness, with the (percent) standardized moneyness in between. thus a 25 delta call option has less than 25% moneyness, usually slightly less, and a 50 delta "atm" call option has less than 50% moneyness; these discrepancies can be observed in prices of binary options and vertical spreads. note that for puts, delta is negative, and thus negative delta is used  more uniformly, absolute value of delta is used for call/put moneyness.
+the meaning of the factor of (2/2) is relatively subtle. for d and m this corresponds to the difference between the median and mean (respectively) of geometric brownian motion (the log-normal distribution), and is the same correction factor in it's lemma for geometric brownian motion. the interpretation of d+, as used in delta, is subtler, and can be interpreted most elegantly as change of numraire. in more elementary terms, the probability that the option expires in the money and the value of the underlying at exercise are not independent  the higher the price of the underlying, the more likely it is to expire in the money and the higher the value at exercise, hence why delta is higher than moneyness.
+
+
+== references ==
+
+
+== external links ==
+renicker, ryan, devapriya mallick. "enhanced call overwriting." lehman brothers equity derivatives strategy. (nov 17, 2005).

@@ -1,0 +1,86 @@
+plastic film is a thin continuous polymeric material.  thicker plastic material is often called a "sheet". these thin plastic membranes are used to separate areas or volumes, to hold items, to act as barriers, or as printable surfaces. 
+plastic films are used in a wide variety of applications.  these include: packaging, plastic bags, labels, building construction, landscaping, electrical fabrication, photographic film, film stock for movies, video tape, etc.
+
+
+== materials ==
+almost all plastics can be formed into a thin film.  some of the primary ones are:
+
+polyethylene  the most common plastic film is made of one of the varieties of polyethylene: low-density polyethylene,  medium-density polyethylene, high-density polyethylene, or linear low-density polyethylene.
+polypropylene  polypropylene can be made a cast film, biaxially oriented film (bopp), or as a uniaxially oriented film.
+polyester  bopet is a biaxially oriented polyester film.
+nylon  bopa/bon is a biaxially oriented polyamide/nylon - (commonly known as nylon)
+polyvinyl chloride  film can be with or without a plasticizer
+cellulose acetate - an early bioplastic.
+cellophane - made of regenerated cellulose.
+a variety of bioplastics and biodegradable plastics are available. 
+semiembossed film  semiembossed film can be used as a liner to the calendered rubber to retain the properties of rubber and also to prevent dust and other foreign matters from sticking to the rubber while calendering and during storage
+
+
+== processes ==
+
+plastic films are usually thermoplastics and are formed by melting for forming the film.
+cast   plastics extrusion can cast film which is cooled or quenched then wound up on a roll.
+extruded film can be stretched, thinned, or oriented in one or two directions. blown or tubular process forces air into an extruded ring to expand the film.  flat tenter frames stretch the extruded film before annealing.
+calender rolls can be used to form film from hot polymers
+solution deposition is another film forming process.
+skiving is used to scrape off a film from a solid core (sometimes used to make ptfe thread seal tape)
+coextrusion involves extruding two or more layers of dissimilar polymers into a single film
+lamination combines two or more films (or other materials) into a sandwich.
+extrusion coating is used to form a film onto another film or substrate
+
+
+== further processing ==
+plastic films are typically formed into rolls by roll slitting.  often additional coating or printing operations are also used.  
+films can be modified by physical vapor deposition to make metallised films. films can be subjected to corona treatment or plasma processing; films can have release agents applied as needed.
+
+
+== see also ==
+converters (industry)
+die cutting (web)
+film base
+film blowing machine
+overwrap
+shrink wrap
+heat sealer
+plastic welding
+plastic wrap
+stretch wrap
+journal of plastic film and sheeting
+
+
+== references ==
+
+
+=== standards by astm international ===
+d882  standard test method for tensile properties of thin plastic sheeting
+d1004   standard test method for tear resistance (graves tear) of plastic film and sheeting
+d1204   standard test method for linear dimensional changes of nonrigid thermoplastic sheeting or film at elevated temperature
+d1593   standard specification for nonrigid vinyl chloride plastic film and sheeting
+d1709  standard test methods for impact resistance of plastic film by the free falling dart method
+d1894  standard test method for static and kinetic coefficients of friction of plastic film and sheeting
+d1922   standard test method for propagation tear resistance of plastic film and thin sheeting by pendulum method
+d1938   standard test method for tear propagation resistance of plastic film and thin sheeting by a single tear method
+d2103  standard specification for polyethylene film and sheeting
+d2582  standard test method for puncture propagation tear resistance of plastic film and thin sheeting
+d2673  standard specification for oriented polypropylene film
+d2732  standard test method for unrestrained linear thermal shrinkage of plastic film and sheeting
+d2838 -standard test method for shrink tension and orientation release stress of plastic film and thin sheeting
+d2923  standard test method for rigidity of polyolefin film and sheeting
+d3420  standard test method for pendulum impact resistance of plastic film
+d3595  standard specification for polychlorotrifluoroethylene (pctfe) extruded plastic sheet and film
+d3664   standard specification for biaxially oriented polymeric resin film for capacitors in electrical equipment
+d3985  standard test method for oxygen gas transmission rate through plastic film and sheeting using a coulometric sensor
+d4321   standard test method for package yield of plastic film
+d5047   standard specification for polyethylene terephthalate film and sheeting
+d6287   standard practice for cutting film and sheeting test specimens
+d6988   standard guide for determination of thickness of plastic film test specimens
+d8136 - standard test method for determining plastic film thickness and thickness variability using a non-contact capacitance thickness gauge
+e1870   standard test method for odor and taste transfer from polymeric packaging film
+f2029- standard practices for making heatseals for determination of heatsealability of flexible webs as measured by seal strength
+f2622   standard test method for oxygen gas transmission rate through plastic film and sheeting using various sensors
+
+
+=== books and general references ===
+hawkins, william e, the plastic film and foil web handling guide crc press  2003
+jenkins, w. a., and osborn, k. r. plastic films: technology and packaging applications, crc press 1992
+yam, k. l., "encyclopedia of packaging technology", john wiley & sons, 2009, isbn 978-0-470-08704-6

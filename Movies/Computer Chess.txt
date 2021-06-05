@@ -1,0 +1,342 @@
+computer chess includes both hardware (dedicated computers) and software capable of playing chess.  computer chess provides opportunities for players to practice even in the absence of human opponents, and also provides opportunities for analysis, entertainment and training.
+computer chess applications that play at the level of a chess master or higher are available on hardware from super-computers to smart phones. standalone chess-playing machines are also available. stockfish, gnu chess, fruit, and other free open source applications are available for various platforms.
+computer chess applications, whether implemented in hardware or software, employ a different paradigm than humans to choose their moves: they use heuristic methods to build, search and evaluate trees representing sequences of moves from the current position and attempt to execute the best such sequence during play. such trees are typically quite large, thousands to millions of nodes. the computational speed of modern computers, capable of processing tens of thousands to hundreds of thousands of nodes or more per second, in conjunction with extension and reduction heuristics that narrow the tree to mostly relevant nodes, make such an approach effective.
+the first chess machines capable of playing chess or reduced chess-like games were software programs running on digital computers early in the vacuum tube computer age (1950s). the early programs played so poorly that even a beginner could defeat them.  within 50 years, in 1997, chess engines running on super-computers or specialized hardware were capable of defeating even the best human players. in 2010, monroe newborn, professor of computer science at mcgill university, declared: "the science has been done". nevertheless, solving chess is not currently possible for modern computers due to the game's extremely large number of possible variations.
+
+
+== availability and playing strength ==
+
+chess machines/programs are available in several different forms: as stand-alone chess machines (usually a microprocessor running a software chess program, but sometimes as a specialized hardware machine), software programs running on standard pcs, web sites, and apps for mobile devices. programs run on everything from super-computers to smartphones.  hardware requirements for programs are minimal: the apps are no larger than a few megabytes on disk, use a few megabytes of memory (but can use much more, if it is available), and any processor 300mhz or faster is sufficient.  performance will vary modestly with processor speed, but sufficient memory to hold a large transposition table (up to several gigabytes or more) is more important to playing strength than processor speed.
+most available commercial chess programs and machines are super-grandmaster playing strength (elo 2700 or more), and take advantage of multi-core and hyperthreaded computer cpu architectures.  top programs such as stockfish have surpassed even world champion caliber players.  most chess engines interface to a gui like winboard or chessbase and playing strength, time controls, and other performance-related settings are adjustable from the gui.  most guis also allow the player to set up and edit positions, take back moves, offer and accept draws (and resign), have a "coach" function to recommend a move when the player is in doubt, and show the engine's analysis as the game progresses.
+there are a few chess engines such as sargon, ippolit, stockfish, crafty, fruit and gnu chess that can be downloaded (or source code otherwise obtained) from the internet free of charge.
+
+
+== types and features of chess software ==
+perhaps the most common type of chess software are programs that simply play chess.  you make a move on the board, and the ai calculates and plays a response, and back and forth until one player resigns.  sometimes the chess engine, which calculates the moves, and the graphical user interface (gui) are separate programs.  a variety of engines can be imported into the gui, so that you can play against different styles.  engines often have just a simple text command-line interface while guis may offer a variety of piece sets, board styles or even 3d or animated pieces.  because recent engines are so strong, engines or guis may offer some way of limiting the engine's strength, so the player has a better chance of winning. universal chess interface (uci) engines such fritz or rybka may have a built in mechanism for reducing the elo rating of the engine (via uci's uci_limitstrength and uci_elo parameters).  some versions of fritz have a handicap and fun mode for limiting the current engine or changing the percentage of mistakes it makes or changing its style. fritz also has a friend mode where during the game it tries to match the level of the player.
+chess databases allow users to search through a large library of historical games, analyze them, check statistics, and draw up an opening repertoire. chessbase (for pc) is perhaps the most common program for this amongst professional players, but there are alternatives such as shane's chess information database (scid)  for windows, mac or linux, chess assistant for pc, gerhard kalab's chess pgn master for android or giordano vicoli's chess-studio for ios.programs such as playchess allow you to play games against other players over the internet.
+chess training programs teach chess. chessmaster had playthrough tutorials by im josh waitzkin and gm larry christiansen. stefan meyer-kahlen offers shredder chess tutor based on the step coursebooks of rob brunia and cor van wijgerden.  world champions magnus carlsen's play magnus company recently released a magnus trainer app for android and ios. chessbase has fritz and chesster for children.  convekta has a large number of training apps such as ct-art and its chess king line based on tutorials by gm alexander kalinin and maxim blokh.
+there is also software for handling chess problems.
+
+
+== computers versus humans ==
+
+after discovering refutation screeningthe application of alphabeta pruning to optimizing move evaluationin 1957, a team at carnegie mellon university predicted that a computer would defeat the world human champion by 1967. it did not anticipate the difficulty of determining the right order to evaluate moves. researchers worked to improve programs' ability to identify killer heuristics, unusually high-scoring moves to reexamine when evaluating other branches, but into the 1970s most top chess players believed that computers would not soon be able to play at a master level. in 1968 international master david levy made a famous bet that no chess computer would be able to beat him within ten years, and in 1976 senior master and professor of psychology eliot hearst of indiana university wrote that "the only way a current computer program could ever win a single game against a master player would be for the master, perhaps in a drunken stupor while playing 50 games simultaneously, to commit some once-in-a-year blunder".in the late 1970s chess programs suddenly began defeating top human players. the year of hearst's statement, northwestern university's chess 4.5 at the paul masson american chess championship's class b level became the first to win a human tournament. levy won his bet in 1978 by beating chess 4.7, but it achieved the first computer victory against a master-class player at the tournament level by winning one of the six games. in 1980 belle began often defeating masters. by 1982 two programs played at master level and three were slightly weaker.the sudden improvement without a theoretical breakthrough surprised humans, who did not expect that belle's ability to examine 100,000 positions a secondabout eight plieswould be sufficient. the spracklens, creators of the successful microcomputer program sargon, estimated that 90% of the improvement came from faster evaluation speed and only 10% from improved evaluations. new scientist stated in 1982 that computers "play terrible chess ... clumsy, inefficient, diffuse, and just plain ugly", but humans lost to them by making "horrible blunders, astonishing lapses, incomprehensible oversights, gross miscalculations, and the like" much more often than they realized; "in short, computers win primarily through their ability to find and exploit miscalculations in human initiatives".by 1982, microcomputer chess programs could evaluate up to 1,500 moves a second and were as strong as mainframe chess programs of five years earlier, able to defeat almost all players. while only able to look ahead one or two plies more than at their debut in the mid-1970s, doing so improved their play more than experts expected; seemingly minor improvements "appear to have allowed the crossing of a psychological threshold, after which a rich harvest of human error becomes accessible", new scientist wrote. while reviewing spoc in 1984, byte wrote that "computersmainframes, minis, and microstend to play ugly, inelegant chess", but noted robert byrne's statement that "tactically they are freer from error than the average human player". the magazine described spoc as a "state-of-the-art chess program" for the ibm pc with a "surprisingly high" level of play, and estimated its uscf rating as 1700 (class b).at the 1982 north american computer chess championship, monroe newborn predicted that a chess program could become world champion within five years; tournament director and international master michael valvo predicted ten years; the spracklens predicted 15; ken thompson predicted more than 20; and others predicted that it would never happen. the most widely held opinion, however, stated that it would occur around the year 2000. in 1989, levy was defeated by deep thought in an exhibition match. deep thought, however, was still considerably below world championship level, as the then reigning world champion garry kasparov demonstrated in two strong wins in 1989. it was not until a 1996 match with ibm's deep blue that kasparov lost his first game to a computer at tournament time controls in deep blue versus kasparov, 1996, game 1. this game was, in fact, the first time a reigning world champion had lost to a computer using regular time controls. however, kasparov regrouped to win three and draw two of the remaining five games of the match, for a convincing victory.
+in may 1997, an updated version of deep blue defeated kasparov 32 in a return match. a documentary mainly about the confrontation was made in 2003, titled game over: kasparov and the machine. ibm keeps a web site of the event.
+
+with increasing processing power and improved evaluation functions, chess programs running on commercially available workstations began to rival top flight players. in 1998, rebel 10 defeated viswanathan anand, who at the time was ranked second in the world, by a score of 53. however, most of those games were not played at normal time controls. out of the eight games, four were blitz games (five minutes plus five seconds fischer delay (see time control) for each move); these rebel won 31. two were semi-blitz games (fifteen minutes for each side) that rebel won as well (1). finally, two games were played as regular tournament games (forty moves in two hours, one hour sudden death); here it was anand who won 1. in fast games, computers played better than humans, but at classical time controls  at which a player's rating is determined  the advantage was not so clear.
+in the early 2000s, commercially available programs such as junior and fritz were able to draw matches against former world champion garry kasparov and classical world champion vladimir kramnik.
+in october 2002, vladimir kramnik and deep fritz competed in the eight-game brains in bahrain match, which ended in a draw. kramnik won games 2 and 3 by "conventional" anti-computer tactics  play conservatively for a long-term advantage the computer is not able to see in its game tree search. fritz, however, won game 5 after a severe blunder by kramnik. game 6 was described by the tournament commentators as "spectacular."  kramnik, in a better position in the early middlegame, tried a piece sacrifice to achieve a strong tactical attack, a strategy known to be highly risky against computers who are at their strongest defending against such attacks. true to form, fritz found a watertight defense and kramnik's attack petered out leaving him in a bad position. kramnik resigned the game, believing the position lost. however, post-game human and computer analysis has shown that the fritz program was unlikely to have been able to force a win and kramnik effectively sacrificed a drawn position. the final two games were draws.  given the circumstances, most commentators still rate kramnik the stronger player in the match.in january 2003, garry kasparov played junior, another chess computer program, in new york city. the match ended 33.
+in november 2003, garry kasparov played x3d fritz.  the match ended 22.
+in 2005, hydra, a dedicated chess computer with custom hardware and sixty-four processors and also winner of the 14th ipccc in 2005, defeated seventh-ranked michael adams 5 in a six-game match (though adams' preparation was far less thorough than kramnik's for the 2002 series).in novemberdecember 2006, world champion vladimir kramnik played deep fritz.  this time the computer won; the match ended 24. kramnik was able to view the computer's opening book. in the first five games kramnik steered the game into a typical "anti-computer" positional contest. he lost one game (overlooking a mate in one), and drew the next four. in the final game, in an attempt to draw the match, kramnik played the more aggressive sicilian defence and was crushed.
+there was speculation that interest in humancomputer chess competition would plummet as a result of the 2006 kramnik-deep fritz match. according to newborn, for example, "the science is done".humancomputer chess matches showed the best computer systems overtaking human chess champions in the late 1990s. for the 40 years prior to that, the trend had been that the best machines gained about 40 points per year in the elo rating while the best humans only gained roughly 2 points per year. the highest rating obtained by a computer in human competition was deep thought's uscf rating of 2551 in 1988 and fide no longer accepts humancomputer results in their rating lists. specialized machine-only elo pools have been created for rating machines, but such numbers, while similar in appearance, should not be directly compared. in 2016, the swedish chess computer association rated computer program komodo at 3361.
+chess engines continue to improve. in 2009, chess engines running on slower hardware have reached the grandmaster level. a mobile phone won a category 6 tournament with a performance rating 2898: chess engine hiarcs 13 running inside pocket fritz 4 on the mobile phone htc touch hd won the copa mercosur tournament in buenos aires, argentina with 9 wins and 1 draw on august 414, 2009. pocket fritz 4 searches fewer than 20,000 positions per second. this is in contrast to supercomputers such as deep blue that searched 200 million positions per second.
+advanced chess is a form of chess developed in 1998 by kasparov where a human plays against another human, and both have access to computers to enhance their strength. the resulting "advanced" player was argued by kasparov to be stronger than a human or computer alone, this has been proven in numerous occasions, at freestyle chess events.
+players today are inclined to treat chess engines as analysis tools rather than opponents. chess grandmaster andrew soltis stated in 2016 "the computers are just much too good" and that world champion magnus carlsen won't play computer chess because "he just loses all the time and there's nothing more depressing than losing without even being in the game."
+
+
+== computer methods ==
+since the era of mechanical machines that played rook and king endings and electrical machines that played other games like hex (game) in the early years of the 20th century, scientists and theoreticians have sought to develop a procedural representation of how humans learn, remember, think and apply knowledge, and the game of chess, because of its daunting complexity, became the "drosophila of artificial intelligence (ai)".  the procedural resolution of complexity became synonymous with thinking, and early computers, even before the chess automaton era, were popularly referred to as "electronic brains".  several different schema were devised starting in the latter half of the 20th century to represent knowledge and thinking, as applied to playing the game of chess (and other games like checkers):
+
+search based (minimax/alphabeta or selective search)
+knowledge based (paradise)
+statistical sampling (monte-carlo tree searching)
+genetic algorithms
+machine learningusing "ends-and-means" heuristics a human chess player can intuitively determine optimal outcomes and how to achieve them regardless of the number of moves necessary, but a computer must be systematic in its analysis. most players agree that looking at least five moves ahead (ten plies) when necessary is required to play well. normal tournament rules give each player an average of three minutes per move. on average there are more than 30 legal moves per chess position, so a computer must examine a quadrillion possibilities to look ahead ten plies (five full moves); one that could examine a million positions a second would require more than 30 years.the earliest attempts at procedural representations of playing chess predated the digital electronic age, but it was the stored program digital computer that gave scope to calculating such complexity.  claude shannon, in 1949, laid out the principles of algorithmic solution of chess.  in that paper, the game is represented by a "tree", or digital data structure of choices (branches) corresponding to moves.  the nodes of the tree were positions on the board resulting from the choices of move.  the impossibility of representing an entire game of chess by constructing a tree from first move to last was immediately apparent: there are an average of 36 moves per position in chess and an average game lasts about 35 moves to resignation (60-80 moves if played to checkmate, stalemate, or other draw).  there are 400 positions possible after the first move by each player, about 200,000 after two moves each, and nearly 120 million after just 3 moves each.  so a limited lookahead (search) to a fixed depth, followed by using domain-specific knowledge to evaluate the resulting terminal positions was proposed.  a kind of middle-ground (later referred to as a "minimax") position, given good moves by both sides, would result, and its evaluation would inform the player about the goodness or badness of the moves chosen.  searching and comparing operations on the tree were well suited to computer calculation; the representation of subtle chess knowledge in the evaluation function was not.  the early chess programs suffered in both areas: searching the vast tree required computational resources far beyond those available, and what chess knowledge was useful and how it was to be encoded would take decades to discover.
+an early search paradigm called alphabeta pruning, a system of defining upper and lower bounds on possible search results and searching until the bounds coincided, reduced the branching factor of the game tree logarithmically, but it still was not feasible for chess programs to exploit the exponential explosion of the tree.  this led naturally to what is referred to as "selective search", using chess knowledge (heuristics) to select a few presumably good moves from each position to search, and prune away the others without searching.  but chess is not a game given to topical inspection, and the goodness or badness of a move may not be determined for many moves into the game, so selective search often resulted in the best move or moves being pruned away. little or no progress was made for the next 25 years dominated by the selective search paradigm.  the best program produced during this time was mac hack vi in 1967; it played at the about the same level as the average amateur (c class on the united states chess federation rating scale).
+in 1974, another search paradigm was implemented for the first time in the northwestern university chess 4.0 program, the alternative described in shannon's 1949 paper, called full-width or "brute force" searching.  in this approach, all alternative moves at a node are searched, and none are pruned away.  they discovered that the time required to simply search all the moves was much less than the time required to apply knowledge-intensive heuristics to select just a few of them, and the benefit of not prematurely or inadvertently pruning away good moves resulted in substantially stronger performance.
+the developers of a chess-playing computer system must decide on a number of fundamental implementation issues. these include:
+
+graphical user interface (gui)  how moves are entered and communicated to the user, how the game is recorded, how the time controls are set, and other interface considerations
+board representation  how a single position is represented in data structures;
+search techniques  how to identify the possible moves and select the most promising ones for further examination;
+leaf evaluation  how to evaluate the value of a board position, if no further search will be done from that position.
+
+
+=== graphical user interface ===
+computer chess programs usually support a number of common de facto standards. nearly all of today's programs can read and write game moves as portable game notation (pgn), and can read and write individual positions as forsythedwards notation (fen). older chess programs often only understood long algebraic notation, but today users expect chess programs to understand standard algebraic chess notation.
+starting in the late 1990s, programmers began to develop separately engines (with a command-line interface which calculates which moves are strongest in a position) or a graphical user interface (gui) which provides the player with a chessboard they can see, and pieces that can be moved.  engines communicate their moves to the gui using a protocol such as the chess engine communication protocol (cecp) or universal chess interface (uci). by dividing chess programs into these two pieces, developers can write only the user interface, or only the engine, without needing to write both parts of the program. (see also chess engines.)
+developers have to decide whether to connect the engine to an opening book and/or endgame tablebases or leave this to the gui.
+
+
+=== board representations ===
+
+the data structure used to represent each chess position is key to the performance of move generation and position evaluation. methods include pieces stored in an array ("mailbox" and "0x88"), piece positions stored in a list ("piece list"), collections of bit-sets for piece locations ("bitboards"), and huffman coded positions for compact long-term storage.
+
+
+=== search techniques ===
+
+computer chess programs consider chess moves as a game tree. in theory, they examine all moves, then all counter-moves to those moves, then all moves countering them, and so on, where each individual move by one player is called a "ply". this evaluation continues until a certain maximum search depth or the program determines that a final "leaf" position has been reached (e.g. checkmate).  at each ply the "best" move by the player is selected; one player is trying to maximize the score, the other to minimize it.  by this alternating process, one particular terminal node whose evaluation
+represents the searched value of the position will be arrived at.  its value is backed up to the root, and that evaluation becomes the valuation of the position on the board.  this search process is called 'minimax'.
+a naive implementation of this approach can only search to a small depth in a practical amount of time, so various methods have been devised to greatly speed the search for good moves.
+the first paper on the subject was by claude shannon in 1950. he predicted the two main possible search strategies which would be used, which he labeled "type a" and "type b", before anyone had programmed a computer to play chess.
+type a programs would use a "brute force" approach, examining every possible position for a fixed number of moves using the minimax algorithm. shannon believed this would be impractical for two reasons.
+first, with approximately thirty moves possible in a typical real-life position, he expected that searching the approximately 109 positions involved in looking three moves ahead for both sides (six plies) would take about sixteen minutes, even in the "very optimistic" case that the chess computer evaluated a million positions every second. (it took about forty years to achieve this speed.)
+second, it ignored the problem of quiescence, trying to only evaluate a position that is at the end of an exchange of pieces or other important sequence of moves ('lines'). he expected that adapting type a to cope with this would greatly increase the number of positions needing to be looked at and slow the program down still further.
+instead of wasting processing power examining bad or trivial moves, shannon suggested that "type b" programs would use two improvements:
+
+employ a quiescence search.
+only look at a few good moves for each position.this would enable them to look further ahead ('deeper') at the most significant lines in a reasonable time. the test of time has borne out the first approach; all modern programs employ a terminal quiescence search before evaluating positions. the second approach (now called forward pruning) has been dropped in favor of search extensions.
+adriaan de groot interviewed a number of chess players of varying strengths, and concluded that both masters and beginners look at around forty to fifty positions before deciding which move to play. what makes the former much better players is that they use pattern recognition skills built from experience. this enables them to examine some lines in much greater depth than others by simply not considering moves they can assume to be poor.
+more evidence for this being the case is the way that good human players find it much easier to recall positions from genuine chess games, breaking them down into a small number of recognizable sub-positions, rather than completely random arrangements of the same pieces. in contrast, poor players have the same level of recall for both.
+the problem with type b is that it relies on the program being able to decide which moves are good enough to be worthy of consideration ('plausible') in any given position and this proved to be a much harder problem to solve than speeding up type a searches with superior hardware and search extension techniques.
+full-width search ("brute force") programs won out for the simple reason that their programs played better chess.  such programs did not try to mimic human thought processes, but relied on full width alphabeta and negascout searches. most such programs (including all modern programs today) also included a fairly limited selective part of the search based on quiescence searches, and usually extensions and pruning (particularly null move pruning from the 1990s onwards) which were triggered based on certain conditions in an attempt to weed out or reduce obviously bad moves (history moves) or to investigate interesting nodes (e.g. check extensions, passed pawns on seventh rank, etc.). extension and pruning triggers have to be used very carefully however. over extend and the program wastes too much time looking at uninteresting positions. if too much is pruned, there is a risk cutting out interesting nodes. chess programs differ in terms of how and what types of pruning and extension rules are included as well as in the evaluation function. some programs are believed to be more selective than others (for example deep blue was known to be less selective than most commercial programs because they could afford to do more complete full width searches), but all have a base full width search as a foundation and all have some selective components (q-search, pruning/extensions).
+though such additions meant that the program did not truly examine every node within its search depth (so it would not be truly brute force in that sense), the rare mistakes due to these selective searches was found to be worth the extra time it saved because it could search deeper. in that way chess programs can get the best of both worlds.
+
+
+==== search heuristics and other optimizations ====
+many other optimizations can be used to make chess-playing programs stronger. for example, transposition tables are used to record positions that have been previously evaluated, to save recalculation of them. refutation tables record key moves that "refute" what appears to be a good move; these are typically tried first in variant positions (since a move that refutes one position is likely to refute another).  the drawback is that transposition tables at deep ply depths can get quite large  tens to hundreds of millions of entries. ibm's deep blue transposition table in 1996, for example was 500 million entries. transposition tables that are too small can result in spending more time searching for non-existent entries due to threshing than the time saved by entries found. many chess engines use pondering, searching to deeper levels on the opponent's time, similar to human beings, to increase their playing strength.
+modern chess programs typically employ a variety of domain-independent extensions and reductions, searching some nodes to arbitrary depth while searching others to reduced depth depending on the configuration and history of moves in the tree.  this is in contrast to the selective search or forward pruning of the early era: all moves are searched to some depth; nodes are pruned only on the basis of what is found, rather than preemptively by applying domain-specific chess knowledge.
+of course, faster hardware and additional memory can improve chess program playing strength.  hyperthreaded architectures can improve performance modestly if the program is running on a single core or a small number of cores.  most modern programs are designed to take advantage of multiple cores to do parallel search.  other programs are designed to run on a general purpose computer and allocate move generation, parallel search, or evaluation to dedicated processors or specialized co-processors.
+
+
+=== knowledge versus search (processor speed) ===
+in the 1970s, most chess programs ran on super computers like control data cyber 176s or cray-1s, indicative that during that developmental period for computer chess, processing power was the limiting factor in performance.  most chess programs struggled to search to a depth greater than 3 ply.  it was not until the hardware chess machines of the 1980s, that a relationship between processor speed and knowledge encoded in the evaluation function became apparent.
+it has been estimated that doubling the computer speed gains approximately fifty to seventy elo points in playing strength (levy & newborn 1991:192).
+
+
+=== leaf evaluation ===
+
+for most chess positions, computers cannot look ahead to all possible final positions. instead, they must look ahead a few plies and compare the possible positions, known as leaves. the algorithm that evaluates leaves is termed the "evaluation function", and these algorithms are often vastly different between different chess programs.
+evaluation functions typically evaluate positions in hundredths of a pawn (called a centipawn), and consider material value along with other factors affecting the strength of each side. when counting up the material for each side, typical values for pieces are 1 point for a pawn, 3 points for a knight or bishop, 5 points for a rook, and 9 points for a queen. (see chess piece relative value.) the king is sometimes given an arbitrary high value such as 200 points (shannon's paper) to ensure that a checkmate outweighs all other factors (levy & newborn 1991:45). by convention, a positive evaluation favors white, and a negative evaluation favors black.
+in addition to points for pieces, most evaluation functions take many factors into account, such as pawn structure, the fact that a pair of bishops are usually worth more, centralized pieces are worth more, and so on.  the protection of kings is usually considered, as well as the phase of the game (opening, middle or endgame).
+the output of the evaluation function is a single scalar, quantized in centipawns or other units, which is a weighted summation of the various factors described.  the evaluation putatively represents or approximates the value of the subtree below the evaluated node as if it had been searched to termination, i.e. the end of the game.  during the search, an evaluation is compared against evaluations of other leaves, eliminating nodes that represent bad or poor moves for either side, to yield a node which by convergence, represents the value of the position with best play by both sides.
+there is no analytical or theoretical framework for what the evaluation function should contain.  nor is it completely ad hoc.
+dozens to hundreds of individual factors are agglomerated into a constant.
+
+
+== endgame tablebases ==
+
+endgame play had long been one of the great weaknesses of chess programs because of the depth of search needed. some otherwise master-level programs were unable to win in positions where even intermediate human players could force a win.
+to solve this problem, computers have been used to analyze some chess endgame positions completely, starting with king and pawn against king. such endgame tablebases are generated in advance using a form of retrograde analysis, starting with positions where the final result is known (e.g., where one side has been mated) and seeing which other positions are one move away from them, then which are one move from those, etc. ken thompson was a pioneer in this area.
+the results of the computer analysis sometimes surprised people. in 1977 thompson's belle chess machine used the endgame tablebase for a king and rook against king and queen and was able to draw that theoretically lost ending against several masters (see philidor position#queen versus rook).  this was despite not following the usual strategy to delay defeat by keeping the defending king and rook close together for as long as possible. asked to explain the reasons behind some of the program's moves, thompson was unable to do so beyond saying the program's database simply returned the best moves.
+most grandmasters declined to play against the computer in the queen versus rook endgame, but walter browne accepted the challenge.  a queen versus rook position was set up in which the queen can win in thirty moves, with perfect play.  browne was allowed 2 hours to play fifty moves, otherwise a draw would be claimed under the fifty-move rule.  after forty-five moves, browne agreed to a draw, being unable to force checkmate or win the rook within the next five moves. in the final position, browne was still seventeen moves away from checkmate, but not quite that far away from winning the rook.  browne studied the endgame, and played the computer again a week later in a different position in which the queen can win in thirty moves.  this time, he captured the rook on the fiftieth move, giving him a winning position (levy & newborn 1991:14448), (nunn 2002:49).
+other positions, long believed to be won, turned out to take more moves against perfect play to actually win than were allowed by chess's fifty-move rule. as a consequence, for some years the official fide rules of chess were changed to extend the number of moves allowed in these endings. after a while, the rule reverted to fifty moves in all positions   more such positions were discovered, complicating the rule still further, and it made no difference in human play, as they could not play the positions perfectly.
+over the years, other endgame database formats have been released including the edward tablebase, the de koning database and the nalimov tablebase which is used by many chess programs such as rybka, shredder and fritz. tablebases for all positions with six pieces are available. some seven-piece endgames have been analyzed by marc bourzutschky and yakov konoval. programmers using the lomonosov supercomputers in moscow have completed a chess tablebase for all endgames with seven pieces or fewer (trivial endgame positions are excluded, such as six white pieces versus a lone black king). in all of these endgame databases it is assumed that castling is no longer possible.
+many tablebases do not consider the fifty-move rule, under which a game where fifty moves pass without a capture or pawn move can be claimed to be a draw by either player. this results in the tablebase returning results such as "forced mate in sixty-six moves" in some positions which would actually be drawn because of the fifty-move rule. one reason for this is that if the rules of chess were to be changed once more, giving more time to win such positions, it will not be necessary to regenerate all the tablebases. it is also very easy for the program using the tablebases to notice and take account of this 'feature' and in any case if using an endgame tablebase will choose the move that leads to the quickest win (even if it would fall foul of the fifty-move rule with perfect play). if playing an opponent not using a tablebase, such a choice will give good chances of winning within fifty moves.
+the nalimov tablebases, which use state-of-the-art compression techniques, require 7.05 gb of hard disk space for all five-piece endings. to cover all the six-piece endings requires approximately 1.2 tb. it is estimated that a seven-piece tablebase requires between 50 and 200 tb of storage space.endgame databases featured prominently in 1999, when kasparov played an exhibition match on the internet against the rest of the world. a seven piece queen and pawn endgame was reached with the world team fighting to salvage a draw. eugene nalimov helped by generating the six piece ending tablebase where both sides had two queens which was used heavily to aid analysis by both sides.
+
+
+== opening book ==
+chess engines, like human beings, may save processing time as well as select strong variations as expounded by the masters, by referencing an opening book stored in a disk database.  opening books cover the opening moves of a game to variable depth, depending on opening and variation, but usually to the first 10-12 moves (20-24 ply).  since the openings have been studied in depth by the masters for centuries, and some are known to well into the middle game, the valuations of specific variations by the masters will usually be superior to the general heuristics of the program.
+while at one time, playing an out-of-book move in order to put the chess program onto its own resources might have been an effective strategy because chess opening books were selective to the program's playing style, and programs had notable weaknesses relative to humans, that is no longer true today.  the opening books stored in computer databases are most likely far more extensive than even the best prepared humans, and playing an early out-of-book move may result in the computer finding the unusual move in its book and saddling the opponent with a sharp disadvantage. even if it does not, playing out-of-book may be much better for tactically sharp chess programs than for humans who have to discover strong moves in an unfamiliar variation over the board.
+
+
+== computer chess rating lists ==
+
+cegt, css, ssdf, and wbec maintain rating lists allowing fans to compare the strength of engines.  various versions of stockfish, komodo and houdini dominate the ipon rating list in the late 2010s.
+ccrl  (computer chess rating lists) is an organisation that tests computer chess engines' strength by playing the programs against each other. ccrl was founded in 2006 to promote computer-computer competition and tabulate results on a rating list.the organisation runs three different lists: 40/40 (40 minutes for every 40 moves played), 40/4 (4 minutes for every 40 moves played), and 40/4 frc (same time control but chess960). pondering (or permanent brain) is switched off and timing is adjusted to the amd64 x2 4600+ (2.4 ghz) cpu by using crafty 19.17 bh as a benchmark. generic, neutral opening books are used (as opposed to the engine's own book) up to a limit of 12 moves into the game alongside 4 or 5 man tablebases.
+
+
+== history ==
+
+
+=== the pre-computer age ===
+the idea of creating a chess-playing machine dates back to the eighteenth century.  around 1769, the chess playing automaton called the turk, became famous before being exposed as a hoax. before the development of digital computing, serious trials based on automata such as el ajedrecista of 1912 which played a king and rook versus king ending, were too complex and limited to be useful for playing full games of chess.  the field of mechanical chess research languished until the advent of the digital computer in the 1950s.
+
+
+=== early software age: selective search ===
+since then, chess enthusiasts and computer engineers have built, with increasing degrees of seriousness and success, chess-playing machines and computer programs. one of the few chess grandmasters to devote himself seriously to computer chess was former world chess champion mikhail botvinnik, who wrote several works on the subject.  he also held a doctorate in electrical engineering.  working with relatively primitive hardware available in the soviet union in the early 1960s, botvinnik had no choice but to investigate software move selection techniques; at the time only the most powerful computers could achieve much beyond a three-ply full-width search, and botvinnik had no such machines.  in 1965 botvinnik was a consultant to the itep team in a us-soviet computer chess match (see kotok-mccarthy).
+
+
+=== the later software age: full-width search ===
+one developmental milestone occurred when the team from northwestern university, which was responsible for the chess series of programs and won the first three acm computer chess championships (197072), abandoned type b searching in 1973. the resulting program, chess 4.0, won that year's championship and its successors went on to come in second in both the 1974 acm championship and that year's inaugural world computer chess championship, before winning the acm championship again in 1975, 1976 and 1977.  the type a implementation turned out to be just as fast: in the time it used to take to decide which moves were worthy of being searched, it was possible just to search all of them. in fact, chess 4.0 set the paradigm that was and still is followed essentially by all modern chess programs today.
+
+
+=== the rise of chess machines ===
+in 1978, an early rendition of ken thompson's hardware chess machine belle, entered and won the north american computer chess championship over the dominant northwestern university chess 4.7.
+
+
+=== the microcomputer revolution ===
+technological advances by orders of magnitude in processing power have made the brute force approach far more incisive than was the case in the early years.  the result is that a very solid, tactical ai player aided by some limited positional knowledge built in by the evaluation function and pruning/extension rules began to match the best players in the world. it turned out to produce excellent results, at least in the field of chess, to let computers do what they do best (calculate) rather than coax them into imitating human thought processes and knowledge.  in 1997 deep blue, a brute-force machine capable of examining 500 million nodes per second, defeated world champion garry kasparov, marking the first time a computer has defeated a reigning world chess champion in standard time control.
+
+
+=== super-human chess ===
+in 2016, npr asked experts to characterize the playing style of computer chess engines. murray campbell of ibm stated that "computers don't have any sense of aesthetics... they play what they think is the objectively best move in any position, even if it looks absurd, and they can play any move no matter how ugly it is." grandmasters andres soltis and susan polgar stated that computers are more likely to retreat than humans are.
+
+
+=== the next generation: neural nets and monte-carlo tree search ===
+the alphazero program uses a variant of monte carlo tree search without rollout. the royal society's venki ramakrishnan states that with deep blue, "we could say that the victorious programs were designed with (chess) algorithms based on our own understanding  using, in this instance, the experience and advice of top grand masters... (deep blue) was just a dumb machine... (but with alphazero), that way of programming is changing dramatically". alphazero has revolutionized computer chess, to the point that all but the bottom-placing of the tcec season 20 premier division participants used a neural-network-based evaluation function.
+
+
+=== timeline ===
+1769  wolfgang von kempelen builds the turk. presented as a chess-playing automaton, it is secretly operated by a human player hidden inside the machine.
+1868  charles hooper presents the ajeeb automaton   which also has a human chess player hidden inside.
+1912  leonardo torres y quevedo builds el ajedrecista, a machine that could play king and rook versus king endgames.
+1941  predating comparable work by at least a decade, konrad zuse develops computer chess algorithms in his plankalkl programming formalism. because of the circumstances of the second world war, however, they were not published, and did not come to light, until the 1970s.
+1948  norbert wiener's book cybernetics describes how a chess program could be developed using a depth-limited minimax search with an evaluation function.
+1950  claude shannon publishes "programming a computer for playing chess", one of the first papers on the algorithmic methods of computer chess.
+1951  alan turing is first to publish a program, developed on paper, that was capable of playing a full game of chess (dubbed turochamp).
+1952  dietrich prinz develops a program that solves chess problems.
+1956  los alamos chess is the first program to play a chess-like game, developed by paul stein and mark wells for the maniac i computer.
+1956  john mccarthy invents the alphabeta search algorithm.
+1957  the first programs that can play a full game of chess are developed, one by alex bernstein and one by russian programmers using a besm.
+1958  nss becomes the first chess program to use the alphabeta search algorithm.
+1962  the first program to play credibly, kotok-mccarthy, is published at mit.
+1963  grandmaster david bronstein defeats an m-20 running an early chess program.
+196667  the first chess match between computer programs is played. moscow institute for theoretical and experimental physics (itep) defeats kotok-mccarthy at stanford university by telegraph over nine months.
+1967  mac hack vi, by richard greenblatt et al. introduces transposition tables and employs dozens of carefully tuned move selection heuristics; it becomes the first program to defeat a person in tournament play.  mac hack vi played about c class level.
+1968  scottish chess champion david levy makes a 500 pound bet with ai pioneers john mccarthy and donald michie that no computer program would win a chess match against him within 10 years.
+1970  monty newborn and the association for computing machinery organize the first north american computer chess championships in new york.
+1971  ken thompson, an american computer scientist at bell labs and creator of the unix operating system, writes his first chess-playing program called "chess" for the earliest version of unix.
+1974  david levy, ben mittman and monty newborn organize the first world computer chess championship which is won by the russian program kaissa.
+1975  after nearly a decade of only marginal progress since the high-water mark of greenblatt's machack vi in 1967, northwestern university chess 4.5 is introduced featuring full-width search, and innovations of bitboards and iterative deepening.  it also reinstated a transposition table as first seen in greenblatt's program.  it was thus the first program with an integrated modern structure and became the model for all future development.  chess 4.5 played strong b-class and won the 3rd world computer chess championship that year. northwestern university chess and its descendants dominated computer chess until the era of hardware chess machines in the early 80's.
+1976  in december, canadian programmer peter r. jennings releases microchess, the first game for microcomputers to be sold.
+1977  in march, fidelity electronics releases chess challenger, the first dedicated chess computer to be sold.  the international computer chess association is founded by chess programmers to organize computer chess championships and report on research and advancements on computer chess in their journal. also that year, applied concepts released boris, a dedicated chess computer in a wooden box with plastic chess pieces and a folding board.
+1978  david levy wins the bet made 10 years earlier, defeating chess 4.7 in a six-game match by a score of 41.  the computer's victory in game four is the first defeat of a human master in a tournament.
+1979  frederic friedel organizes a match between im david levy and chess 4.8, which is broadcast on german television. levy and chess 4.8, running on a cdc cyber 176, the most powerful computer in the world, fought a grueling 89 move draw.
+1980  fidelity computers win the world microcomputer championships each year from 1980 through 1984. in germany, hegener & glaser release their first mephisto dedicated chess computer. the uscf prohibits computers from competing in human tournaments except when represented by the chess systems' creators. the fredkin prize, offering $100,000 to the creator of the first chess machine to defeat the world chess champion, is established.
+1981  cray blitz wins the mississippi state championship with a perfect 50 score and a performance rating of 2258. in round 4 it defeats joe sentef (2262) to become the first computer to beat a master in tournament play and the first computer to gain a master rating.
+1984   the german company hegener & glaser's mephisto line of dedicated chess computers begins a long streak of victories (19841990) in the world microcomputer championship using dedicated computers running programs chessgenius and rebel.
+1986  software country (see software toolworks) released chessmaster 2000 based on an engine by david kittinger, the first edition of what was to become the world's best selling line of chess programs.
+1987  frederic friedel and physicist matthias wllenweber found chessbase, releasing the first chess database program.  stuart cracraft releases gnu chess, one of the first 'chess engines' to be bundled with a separate graphical user interface (gui), chesstool.
+1988  hitech, developed by hans berliner and carl ebeling, wins a match against grandmaster arnold denker 3. deep thought shares first place with tony miles in the software toolworks championship, ahead of former world champion mikhail tal and several grandmasters including samuel reshevsky, walter browne and mikhail gurevich. it also defeats grandmaster bent larsen, making it the first computer to beat a gm in a tournament. its rating for performance in this tournament of 2745 (uscf scale) was the highest obtained by a computer player.
+1989  deep thought demolishes david levy in a 4-game match 04, bringing to an end his famous series of wagers starting in 1968.
+1990  on april 25, former world champion anatoly karpov lost in a simul to hegener & glaser's mephisto portorose m68030 chess computer.
+1991  the chessmachine based on ed schrder's rebel wins the world microcomputer chess championship
+1992  chessmachine wins the 7th world computer chess championship, the first time a microcomputer beat mainframes.  gm john nunn releases secrets of rook endings, the first book based on endgame tablebases developed by ken thompson.
+1993  deep thought-2 loses a four-game match against bent larsen. chess programs running on personal computers surpass mephisto's dedicated chess computers to win the microcomputer championship, marking a shift from dedicated chess hardware to software on multipurpose personal computers.
+1995  fritz 3, running on a 90mhz pentium pc,  beats deep thought-2 dedicated chess machine, and programs running on several super-computers, to win the 8th world computer chess championships in hong kong. this marks the first time a chess program running on commodity hardware defeats specialized chess machines and massive super-computers, indicating a shift in emphasis from brute computational power to algorithmic improvements in the evolution of chess engines.
+1996  ibm's deep blue loses a six-game match against garry kasparov, 24.
+1997  deep(er) blue, a highly modified version of the original, wins a six-game match against garry kasparov, 3.5-2.5.
+2000  stefan meyer-kahlen and rudolf huber draft the universal chess interface, a protocol for guis to talk to engines that would gradually become the main form new engines would take.
+2002  vladimir kramnik draws an eight-game match against deep fritz.
+2003  kasparov draws a six-game match against deep junior and draws a four-game match against x3d fritz.
+2004  a team of computers (hydra, deep junior and fritz) wins 83 against a strong human team formed by veselin topalov, ruslan ponomariov and sergey karjakin, who had an average elo rating of 2681. fabien letouzey releases the source code for fruit 2.1, an engine quite competitive with the top closed-source engines of the time.  this leads many authors to revise their code, incorporating the new ideas.
+2005  rybka wins the ipccc tournament and very quickly afterwards becomes the strongest engine.
+2006  the world champion, vladimir kramnik, is defeated 42 by deep fritz.
+2009  pocket fritz. 4 running on a smartphone, wins copa mercosur, an international master level tournament, scoring 9/10 and earning a performance rating of 2900.  a group of pseudonymous russian programmers release the source code of ippolit, an engine seemingly stronger than rybka. this becomes the basis for the engines robbolito and ivanhoe, and many engine authors adopt ideas from it.
+2010  before the world chess championship 2010, topalov prepares by sparring against the supercomputer blue gene with 8,192 processors capable of 500 trillion (5  1014) floating-point operations per second.  rybka developer, vasik rajlich, accuses ippolit of being a clone of rybka.
+2011  the icga strips rybka of its wccc titles.
+2017  alphazero, a neural net-based digital automaton, beats stockfish 280, with 72 draws, in a 100-game match.
+2019  leela chess zero (lczero v0.21.1-nt40.t8.610), a chess engine based on alphazero, defeats stockfish 19050918 in a 100-game match with the final score 53.5 to 46.5 to win tcec season 15.
+
+
+== categorizations ==
+
+
+=== dedicated hardware ===
+these chess playing systems include custom hardware with approx. dates of introduction (excluding dedicated microcomputers):
+
+belle 1976
+bebe, a strong bit-slice processor 1980
+hitech 1985
+chiptest 1985
+deep thought 1987
+deep thought 2 (deep blue prototype)~1994
+deep blue 1996, 1997
+hydra, predecessor was called brutus 2002
+alphazero 2017 (used google's tensor processing units for neural networks, but the hardware isn't specific to chess or games)
+muzero 2019 (similar hardware to its predecessor alphazero, non-specific to chess or e.g. go), learns the rules of chess
+
+
+=== commercial dedicated computers ===
+in the late 1970s to early 1990s, there was a competitive market for dedicated chess computers. this market changed in the mid-90s when computers with dedicated processors could no longer compete with the fast processors in personal computers.
+
+boris in 1977 and boris diplomat in 1979, chess computers including pieces and board, sold by applied concepts inc.
+chess challenger, a line of chess computers sold by fidelity electronics from 1977 to 1992. these models won the first four world microcomputer chess championships.
+chessmachine, an arm-based dedicated computer, which could run two engines:
+"the king", which later became the chessmaster engine, was also used in the tasc r30 dedicated computer.
+gideon, a version of rebel, in 1992 became the first microcomputer to win the world computer chess championship.
+excalibur electronics sells a line of beginner strength units.
+mephisto, a line of chess computers sold by hegener & glaser. the units won six consecutive world microcomputer chess championships.
+novag sold a line of tactically strong computers, including the constellation, sapphire, and star diamond brands.
+phoenix chess systems makes limited edition units based around strongarm and xscale processors running modern engines and emulating classic engines.
+saitek sells mid-range units of intermediate strength. they bought out hegener & glaser and its mephisto brand in 1994.recently, some hobbyists have been using the multi emulator super system to run the chess programs created for fidelity or hegener & glaser's mephisto computers on modern 64-bit operating systems such as windows 10.  the author of rebel, ed schrder has also adapted three of the hegener & glaser mephisto's he wrote to work as uci engines.
+
+
+=== dos programs ===
+these programs can be run on ms-dos, and can be run on 64-bit windows 10 via emulators such as dosbox or qemu:
+chessmaster 2000
+colossus chess
+fritz 13
+kasparov's gambit
+rebel
+sargon
+socrates ii
+
+
+== notable theorists ==
+well-known computer chess theorists include:
+
+georgy adelson-velsky, a soviet and israeli mathematician and computer scientist
+hans berliner, american computer scientist and world correspondence chess champion, design supervisor of hitech (1988)
+mikhail botvinnik, soviet electrical engineer and world chess champion, wrote pioneer
+alexander brudno, russian computer scientist, first elaborated the alphabeta pruning algorithm
+feng-hsiung hsu, the lead developer of deep blue (198697)
+professor robert hyatt developed cray blitz and crafty
+danny kopec, american professor or computer science and international chess master, developed kopec-bratko test
+alexander kronrod, soviet computer scientist and mathematician
+professor monroe newborn, chairman of the computer chess committee for the association of computing machinery
+claude e. shannon, american computer scientist and mathematician
+alan turing, english computer scientist and mathematician
+
+
+== solving chess ==
+
+the prospects of completely solving chess are generally considered to be rather remote. it is widely conjectured that there is no computationally inexpensive method to solve chess even in the very weak sense of determining with certainty the value of the initial position, and hence the idea of solving chess in the stronger sense of obtaining a practically usable description of a strategy for perfect play for either side seems unrealistic today. however, it has not been proven that no computationally cheap way of determining the best move in a chess position exists, nor even that a traditional alphabeta searcher running on present-day computing hardware could not solve the initial position in an acceptable amount of time. the difficulty in proving the latter lies in the fact that, while the number of board positions that could happen in the course of a chess game is huge (on the order of at least 1043 to 1047), it is hard to rule out with mathematical certainty the possibility that the initial position allows either side to force a mate or a threefold repetition after relatively few moves, in which case the search tree might encompass only a very small subset of the set of possible positions. it has been mathematically proven that generalized chess (chess played with an arbitrarily large number of pieces on an arbitrarily large chessboard) is exptime-complete,  meaning that determining the winning side in an arbitrary position of generalized chess provably takes exponential time in the worst case; however, this theoretical result gives no lower bound on the amount of work required to solve ordinary 8x8 chess.
+martin gardner's minichess, played on a 55 board with approximately 1018 possible board positions, has been solved; its game-theoretic value is 1/2 (i.e. a draw can be forced by either side), and the forcing strategy to achieve that result has been described.
+progress has also been made from the other side: as of 2012, all 7 and fewer pieces (2 kings and up to 5 other pieces) endgames have been solved.
+
+
+== chess engines ==
+
+a "chess engine" is software that calculates and orders which moves are the strongest to play in a given position.  engine authors focus on improving the play of their engines, often just importing the engine into a graphical user interface (gui) developed by someone else.  engines communicate with the gui by following standardized protocols such as the universal chess interface developed by stefan meyer-kahlen and franz huber or the chess engine communication protocol developed by tim mann for gnu chess and winboard. chessbase has its own proprietary protocol, and at one time millennium 2000 had another protocol used for chessgenius.  engines designed for one operating system and protocol may be ported to other os's or protocols.
+
+
+== chess web apps ==
+in 1997, the internet chess club released its first java client for playing chess online against other people inside one's webbrowser.  this was probably one of the first chess web apps. free internet chess server followed soon after with a similar client.  in 2004, international correspondence chess federation opened up a web server to replace their email-based system. chess.com started offering live chess in 2007. chessbase/playchess had long had a downloadable client, but they had a web interface by 2013.another popular web app is tactics training.  the now defunct chess tactics server opened its site in 2006, followed by chesstempo the next year, and chess.com added its tactics trainer in 2008. chessbase added a tactics trainer web app in 2015.chessbase took their chess game database online in 1998.  another early chess game databases was chess lab, which started in 1999. new in chess had initially tried to compete with chessbase by releasing a nicbase program for windows 3.x, but eventually, decided to give up on software, and instead focus on their online database starting in 2002.one could play against the engine shredder online from 2006.  in 2015, chessbase added a play fritz web app, as well as my games for storing one's games.starting in 2007, chess.com offered the content of the training program, chess mentor, to their customers online.  top gms such as sam shankland and walter browne have contributed lessons.
+
+
+== see also ==
+computer go
+computer checkers
+computer othello
+computer shogi
+
+
+== notes ==
+
+
+== references ==
+
+
+== sources ==
+hsu, feng-hsiung (2002), behind deep blue: building the computer that defeated the world chess champion, princeton university press, isbn 0-691-09065-3
+levy, david; newborn, monty (1991), how computers play chess, computer science press, isbn 0-7167-8121-2
+newborn, monty (1975), computer chess, academic press, new york
+newborn, monty (1997), kasparov versus deep blue: computer chess comes of age, springer, isbn 0-387-94820-1 (this book actually covers computer chess from the early days through the first match between deep blue and garry kasparov.)
+nunn, john (2002), secrets of pawnless endings, gambit publications, isbn 1-901983-65-x
+shannon, claude e. (1950), "programming a computer for playing chess" (pdf), philosophical magazine, ser.7, vol. 41 (314), archived from the original (pdf) on 6 july 2010, retrieved 21 june 2009
+mastering the game: a history of computer chess at computer history museum
+bill wall's computer chess history timeline
+
+
+== further reading ==
+new architectures in computer chess  thesis on how to build a chess engine
+coles, l. stephen (october 30, 2002), computer chess: the drosophila of ai, dr. dobb's journal
+huberman (liskov), barbara jane (1968), a program to play chess end games, stanford university department of computer science, technical report cs 106, stanford artificial intelligence project memo ai-65
+lasar, matthew (2011). brute force or intelligence? the slow rise of computer chess". ars technica.
+newborn, monty (1996). outsearching kasparov, american mathematical society's proceeding of symposia in applied mathematics: mathematical aspects of artificial intelligence, v. 55, pp 175205, 1998. based on paper presented at the 1996 winter meeting of the ams, orlando, florida, jan 911, 1996.
+newborn, monty (2000). deep blue's contribution to ai, annals of mathematics and artificial intelligence, v. 28, pp. 2730, 2000.
+newborn, monty (2006). theo and octopus at the 2006 world championship for automated reasoning programs, seattle, washington, august 18, 2006
+stiller, lewis (1996), multilinear algebra and chess endgames (pdf), berkeley, california: mathematical sciences research institute, games of no chance, msri publications, volume 29, retrieved 21 june 2009
+
+
+== external links ==
+list of chess engine ratings and game files in pgn format
+mastering the game: a history of computer chess at the computer history museum
+acm computer chess by bill wall
+computer chess information and resources  blog following the creation of a computer chess engine
+defending humanity's honor, an article by tim krabb about "anti-computer style" chess
+a guide to endgame tablebases
+gamedev.net  chess programming by franois-dominic larame part 1 2 3  4 5 6
+colin frayn's computer chess theory page
+""how rebel plays chess" by ed schrder" (pdf). (268 kb)
+"play chess with god"  for playing chess against ken thompson's endgame database
+chess programming wiki
+computer chess club forums
+the strongest computer chess engines over time
+
+
+=== media ===
+the history of computer chess: an ai perspective  a full lecture featuring murray campbell (ibm deep blue project), edward feigenbaum, david levy, john mccarthy, and monty newborn. at computer history museum

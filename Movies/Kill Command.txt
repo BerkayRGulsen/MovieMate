@@ -1,0 +1,97 @@
+in computing, kill is a command that is used in several popular operating systems to send signals to running processes.
+
+
+== implementations ==
+
+
+=== unix and unix-like ===
+in unix and unix-like operating systems, kill is a command used to send a signal to a process.  by default, the message sent is the termination signal, which requests that the process exit. but kill is something of a misnomer; the signal sent may have nothing to do with process killing.  the kill command is a wrapper around the kill() system call, which sends signals to processes or process groups on the system, referenced by their numeric process ids (pids) or process group ids (pgids).  kill is always provided as a standalone utility as defined by the posix standard. however, most shells have built-in kill commands that may slightly differ from it.there are many different signals that can be sent (see signal for a full list), although the signals in which users are generally most interested are sigterm ("terminate") and sigkill ("kill").  the default signal sent is sigterm.  programs that handle this signal can do useful cleanup operations (such as saving configuration information to a file) before quitting.  however, many programs do not implement a special handler for this signal, and so a default signal handler is called instead.  other times, even a process that has a special handler has gone awry in a way that prevents it from properly handling the signal.
+all signals except for sigkill and sigstop ("stop") can be "intercepted" by the process, meaning that a special function can be called when the program receives those signals.  the two exceptions sigkill and sigstop are only seen by the host system's kernel, providing reliable ways of controlling the execution of processes.  sigkill kills the process, and sigstop pauses it until a sigcont ("continue") is received.unix provides security mechanisms to prevent unauthorized users from killing other processes.  essentially, for a process to send a signal to another, the owner of the signaling process must be the same as the owner of the receiving process or be the superuser.
+the available signals all have different names, and are mapped to certain numbers.  it is important to note that the specific mapping between numbers and signals can vary between unix implementations.  sigterm is often numbered 15 while sigkill is often numbered 9.
+
+
+==== examples ====
+a process can be sent a sigterm signal in four ways (the process id is '1234' in this case):
+
+the process can be sent a sigkill signal in three ways:
+
+other useful signals include hup, trap, int, segv and alrm. hup sends the sighup signal. some daemons, including apache and sendmail, re-read configuration files upon receiving sighup, so the kill command may be used for this too. a sigint signal can be generated very simply by pressing ctrl+c in most unix shells.  it is also common for ctrl+z to be mapped to sigtstp ("terminal stop"), and for ctrl+\ (backslash) to be mapped to sigquit, which can force a program to do a core dump.
+
+
+==== related programs ====
+killall - on some variations of unix, such as solaris, this utility is automatically invoked when the system is going through a shutdown.  it behaves much like the kill command above, but instead of sending a signal to an individual process, the signal is sent to all processes on the system. however, on others such as irix, linux, and freebsd, an argument is supplied specifying the name of the process (or processes) to kill. for instance, to kill a process such as an instance of the xmms music player invoked by xmms, the user would run the command killall xmms.  this would kill all processes named xmms, and is equivalent to kill `pidof xmms` on systems like solaris.
+pkill - signals processes based on name and other attributes. it was introduced in solaris 7 and has since been reimplemented for linux, netbsd and openbsd. pkill makes killing processes based on their name much more convenient: e.g. to kill a process named firefox without pkill (and without pgrep), one would have to type kill `ps --no-headers -c firefox -o pid` whereas with pkill, one can simply type pkill firefox.
+xkill - if called without any parameters, the mouse cursor changes from an arrow to an "x" icon, and the user can click on a window to force the x server to close the connection with the client owning the window. this often causes the process to terminate when it detects that its connection to the x server has been closed.
+
+
+=== microware os-9 ===
+the kill command is also available as a shell builtin in the os-9 shell. it is used to kill another process by process id.
+
+
+==== example ====
+stop the process with the process id "7":
+
+
+=== microsoft windows and reactos ===
+
+in microsoft's command-line interpreter windows powershell, kill is a predefined command alias for the stop-process cmdlet.
+microsoft windows xp, vista and 7 include the command taskkill to terminate processes. the usual syntax for this command is taskkill /im "imagename". an "unsupported" version of kill was included in several releases of the microsoft windows resource kits available for windows 98.gnu versions of kill have been ported via cygwin and run inside of the unix environment subsystem that microsoft windows services for unix provides (microsoft acquired windows services for unix wholesale via their purchase of softway systems and their interix product on september 17, 1999).
+
+the reactos implementation is based on the windows variant. it was developed by andrew riedi, andrew nguyen, and he yang. it is licensed under the gplv2.1  or later.
+
+
+==== examples ====
+find all processes beginning with the letter "p" that were developed by microsoft and use more than 10 mb of memory and kill them:
+
+here is a simpler example, which asks the process explorer.exe to terminate:
+
+this example forces the process to terminate:
+
+processes can also be killed by their pid number:
+
+
+=== microsoft singularity ===
+singularity shell, the standard shell for microsoft research's microkernel operating system singularity includes a kill command to terminate background processes.
+
+
+==== examples ====
+stop the process with the name "sampleprocess":
+
+stop the process with the process identifier "42":
+
+
+=== plan 9 from bell labs ===
+under plan 9 from bell labs, the kill program does not actually perform this termination, nor does it take process ids. rather, it takes the actual names of processes and outputs the commands for rc, the shell used by plan 9, to kill the process.a similar command provided is called slay, which does the same but for processes that refuse to be killed this way.
+
+
+==== examples ====
+for example, to kill all instances of troff, one types:
+
+kill troff | rc
+
+
+=== others ===
+the kill command has also been ported to the ibm i operating system.
+
+
+== see also ==
+signal
+xkill
+killall
+pkill
+signal.h
+
+
+== references ==
+
+
+== further reading ==
+mcelhearn, kirk (2006). the mac os x command line: unix under the hood. john wiley & sons. isbn 978-0470113851.
+
+
+== external links ==
+command: kill  commands & utilities reference, the single unix specification, issue 7 from the open group
+system call: kill  system interfaces reference, the single unix specification, issue 7 from the open group
+kill(1)  plan 9 programmer's manual, volume 1
+kill(1)  inferno general commands manual
+kill(1)  linux user commands manual

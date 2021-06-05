@@ -1,0 +1,199 @@
+when used as a diacritic mark, the term dot is usually reserved for the interpunct (  ), or to the glyphs 'combining dot above' (  ) and 'combining dot below' (  )
+which may be combined with some letters of the extended latin alphabets in use in central european languages and vietnamese.
+
+
+== overdot ==
+
+language scripts or transcription schemes that use the dot above a letter as a diacritical mark:
+
+in some forms of arabic romanization,  stands for ghayin ();  stands for qf ().
+the latin orthography for chechen includes , , , q, and .
+in emilian-romagnol,    are used to represent [, z, ].
+traditional irish typography, where the dot denotes lenition, and is called a ponc simhithe or buailte "dot of lenition":         . alternatively, lenition may be represented by a following letter h, thus: bh ch dh fh gh mh ph sh th. in old irish orthography, the dot was used only for  , while the following h was used for ch ph th; lenition of other letters was not indicated. later the two systems spread to the entire set of lenitable consonants and competed with each other. eventually the standard practice was to use the dot when writing in gaelic script and the following h when writing in antiqua. thus  and ch represent the same phonetic element in modern irish.
+lithuanian:  is pronounced as [e], as opposed to , which is pronounced a lower [] (formerly nasalised), or e, pronounced [, ].
+livonian uses  as one of its eight vowels.
+maltese:  is used for a voiceless palato-alveolar affricate,  for a voiced palato-alveolar affricate, and  for a voiced alveolar sibilant.
+middle english:  was sometimes used to distinguish etymological y from the glyph's use as a replacement for , which did not exist in early press typographies.
+old english: in modernized orthography,  is used for a voiceless palato-alveolar affricate /t/,  for a palatal approximant /j/ (probably a voiced palatal fricative // in the earliest texts), and (more rarely) s for a voiceless palato-alveolar fricative //.
+polish:  is used for a voiced retroflex sibilant //.
+the sioux languages such as lakota and dakota sometimes use the dot above to indicate ejective stops.
+in the canadian aboriginal syllabics orthography for the cree, ojibwe, and inuktitut languages, a dot above a symbol signifies that the symbol's vowel should be a long vowelthe equivalent effect using the roman orthography is achieved by doubling the vowel ( = mi,  = mii ), placing a macron over the vowel ( = ka,  = k), or placing a circumflex over the vowel ( = no,  = n).
+in turkish, the dot above lowercase i and j (and uppercase i) is not regarded as an independent diacritic but as an integral part of the letter. it is called a tittle. i without an overdot is a separate letter.
+in the rheinische dokumenta phonetic writing system overdots denote a special pronunciation of r.
+the ulithian alphabet includes , , and .
+the iso 9 (1968) romanization of cyrillic uses , , and .
+in the iso 259 romanization of hebrew, the overdot is used to transcribe the dagesh:            ;  transcribes the shuruk.
+in iast and national library at calcutta romanization transcribing languages of india,  is used to represent //.
+ungegn romanization of urdu includes .
+in the venda language,  is used to represent //.
+some countries use the overdot as a decimal mark.the overdot is also used in the devanagari script, where it is called anusvara.
+in mathematics and physics, when using newton's notation the dot denotes the time derivative as in 
+  
+    
+      
+        v
+        =
+        
+          
+            
+              x
+              
+            
+          
+        
+      
+    
+    {\displaystyle v={\dot {x}}}
+  . in addition, the overdot is one way used to indicate an infinitely repeating set of numbers in decimal notation, as in 
+  
+    
+      
+        0.
+        
+          
+            
+              3
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0.{\dot {3}}}
+  , which is equal to the fraction 13, and 
+  
+    
+      
+        0.
+        
+          
+            
+              1
+              
+            
+          
+        
+        
+          
+            
+              4
+              
+            
+          
+        
+        
+          
+            
+              2
+              
+            
+          
+        
+        
+          
+            
+              8
+              
+            
+          
+        
+        
+          
+            
+              5
+              
+            
+          
+        
+        
+          
+            
+              7
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0.{\dot {1}}{\dot {4}}{\dot {2}}{\dot {8}}{\dot {5}}{\dot {7}}}
+   or 
+  
+    
+      
+        0.
+        
+          
+            
+              1
+              
+            
+          
+        
+        4285
+        
+          
+            
+              7
+              
+            
+          
+        
+      
+    
+    {\displaystyle 0.{\dot {1}}4285{\dot {7}}}
+  , which is equal to 17.
+
+
+== underdot ==
+
+in inari sami, an underdot denotes a half-long voiced consonant: , j, , , , j, , , and . the underdot is used in dictionaries, textbooks, and linguistic publications only.
+in iast and national library at calcutta romanization, transcribing languages of india, a dot below a letter distinguishes the retroflex consonants , , , , , , while m with underdot () signifies an anusvara. very frequently (in modern transliterations of sanskrit) an underdot is used instead of the ring (diacritic) below the vocalic r and l.
+in romanizations of some afroasiatic languages, particularly semitic languages and berber languages, an underdot indicates an emphatic consonant. the romanization of arabic uses     .
+in the din 31636 and ala-lc romanization of hebrew,  represents vav (), while v without the underdot represents beth ().  represents qoph ()
+the underdot is also used in the pda orthography for domari to show pharyngealizationthe underdotted consonants      represent the emphaticized sounds /d  s t z/.
+in asturian,  (underdotted double ll) represents the voiced retroflex plosive or the voiceless retroflex affricate, depending on dialect, and  (underdotted h) the voiceless glottal fricative.
+in romagnol,   are used to represent [e, o], e.g. part of riminese dialect fradll, cc [fradell, ot] "brothers, eyes".
+in academic notation of old latin,  (e with underdot and macron) represents the long vowel, probably /e/, that developed from the early old latin diphthong ei. this vowel usually became  in classical latin.
+in academic transcription of vulgar latin, used in describing the development of the romance languages,  and  represent the close-mid vowels /e/ and /o/, in contrast with the open-mid vowels // and //, which are represented as e and o with ogonek ( ).
+in o'odham language,  (d with underdot) represents a voiced retroflex stop.
+vietnamese: the nng tone (low, glottal) is represented with a dot below the base vowel:            .
+in igbo, an underdot can be used on i, o, and u to make , , and .  the underdot symbolizes a reduction in the vowel height.
+in yoruba, an underdot can be used on e and o to make  and , symbolizing a reduction in the vowel height, as well as on s to make , symbolizing a postalveolar articulation.
+in americanist phonetic notation, x with underdot x represents a voiceless uvular fricative.
+underdots are used in the rheinische dokumenta phonetic writing system to denote a voiced s and special pronunciations of r and a.
+in the fiero-rhodes orthography for eastern ojibwe and odaawaa, in g, , and , underdot is used to indicate labialization when either o or w following them was lost in syncope.
+in kalabari,  and  are used.
+in marshallese, underdots on consonants represent velarization, such as the velarized bilabial nasal .
+in old irish typography the letters ,  and  are some times written as ,  and .
+ungegn romanization of urdu includes , g, , , , and .
+in mizo,  represents /tr/.
+the underdot is also used in the devanagari script, where it is called nukta.
+
+
+== raised dot ==
+
+number digits in enclosed alphanumerics like          
+in canadian aboriginal syllabics, in addition to the middle dot as a letter, centred dot diacritic, and dot above diacritic, there also is a two-dot diacritic in naskapi language representing /_w_v/ which depending on the placement on the specific syllabic letter may resemble a colon when placed vertically, diaeresis when placed horizontally, or a combination of middle dot and dot above diacritic when placed either at an angle or enveloping a small raised letter .  additionally, in northwestern ojibwe, a small raised /wi/ as /w/, the middle dot is raised farther up as either  or ; there also is a raised dot final , which represents /w/ in some swampy cree and /y/ in some northwestern ojibwe.
+
+
+== encoding ==
+in unicode, the dot is encoded at:
+
+u+0307  combining dot above (html &#775;)and at:
+
+u+0323  combining dot below (html &#803;)
+u+0358  combining dot above right (html &#856;)
+u+1df8  combining dot above left (html &#7672;)there is also:
+
+u+02d9  dot above (html &#729;   &diacriticaldot;, &dot;)
+u+18df  canadian syllabics final raised dotpre-composed characters:
+
+
+== see also ==
+
+
+== references ==
+
+
+== external links ==
+diacritics project  all you need to design a font with correct accents

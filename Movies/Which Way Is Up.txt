@@ -1,0 +1,144 @@
+the toyota t series is a family of inline-4 automobile engines manufactured by toyota beginning in 1970 and ending in 1985. it started as a pushrod overhead valve (ohv) design and later performance oriented twin cam (dohc) variants were added to the lineup. toyota had built its solid reputation on the reliability of these engines.
+the 4t-gte variant of this engine allowed toyota to compete in the world rally championship in the early 1980s, making it the first japanese manufacturer to do so.
+race engines based on the 2t-g include the 100e and 151e.
+
+all t engines utilize a timing chain and have a cast iron block with an alloy cylinder head with hardened valve seats and a hemispherical combustion chamber design (hemi).
+all t engines are carburetted except those with electronic fuel injection, "e" designation.
+all t engines use a 2 valve ohv design except those with a dohc performance head, "g" designation.
+the 12t/13t has a sub-cylinder directly behind the spark plug that leads into a smaller chamber for emission purposes.
+
+
+== features overview ==
+
+
+== t ==
+the first t engine displaced 1.4 l (1,407 cc) and was produced from 1970 through 1979. cylinder bore and stroke is 80 mm  70 mm (3.15 in  2.76 in).
+output is 86 hp (64 kw; 87 ps) at 6,000 rpm and 115 nm (85 lbft) at 3,800 rpm. the more-powerful 95 ps (70 kw; 94 hp) twin-carburetor t-b was produced for the first six years, as well as the single carb t-d which had a somewhat higher compression ratio for 90 ps (66 kw; 89 hp).
+from 1977 there was also a t-j, a version with some simple emissions equipment intended for japanese market commercial vehicles. with an 8.5:1 compression ratio, this produces 80 ps (59 kw; 79 hp) at 6,000 rpm and 11.3 kgm (111 nm; 82 lbfft) at 3,800 rpm.the t-u also appeared in 1977 with even stricter emission equipment for japanese market non-commercial vehicles.
+applications:
+
+19701977 toyota carina ta10/15/16v (first generation)
+19771979 toyota carina van ta16v (second generation, t-j)
+toyota celica ta20
+toyota corolla te20/25
+toyota corolla te30/35/50
+toyota sprinter te40/50
+
+
+== 2t ==
+the larger 1.6 l (1,588 cc) 2t was produced from 1970 through 1984. cylinder bore and stroke is 85 mm  70 mm (3.35 in  2.76 in).
+the 2t engines are usually coupled with either a t40 4 speed/t50 5 speed manual transmission, or an a40 3 speed automatic transmission.
+output for the early 2t-c bigport design is 102 hp (76 kw; 103 ps) which is also due to different sae testing methods, while the later version is 75 hp (56 kw; 76 ps) at 5200 rpm and 116 nm (86 lbft) at 3800 rpm, compression at 9.0:1. the twin-carb 2t-b produces 90105 hp (6778 kw; 91106 ps) and 115138 nm (85102 lbft). the 2t-j, for commercial vehicles with less restrictive emissions standards, produces 93 ps (68 kw; 92 hp) at 6000 rpm and 13.1 kgm (128 nm; 95 lbfft) at 3800 rpm.applications:
+
+toyota corolla e20 to e30 series
+toyota carina a10 to a60 series
+toyota celica a20 to a60 series
+toyota corona tt100/106v/110
+toyota corona tt130/137v
+toyota corona tt140
+daihatsu charmant
+toyota townace tr10v (2t-j)
+daihatsu delta wide tb10this engine was also commonly used in australian formula two race cars during the 1970s and 1980s, where they typically made between 180 and 200 hp (149 kw; 203 ps). the 1979 championship was won by a toyota 2t powered cheetah mk6. in 1984 peter glover borrowed a cheetah mk7 powered by toyota 2t for one round. the car won the round and helped secure the championship.
+
+
+== 12t ==
+the 1.6 l (1,588 cc) 12t and 12t-u (lean burn) was produced from 1970 through 1983. it produces 88 hp (66 kw; 89 ps) at 5,600 rpm and 130 nm (96 lbft) at 3,400 rpm. there was also a 12t-j version for commercial vehicles, which didn't have to meet as stringent emissions standards in japan. in response to honda's cvcc emissions, toyota introduced "ttc-l", using a lean burn implementation.
+applications:
+
+toyota corolla te52
+toyota corolla van te73/74 (12t-j)
+mar 1976jul 1977 toyota carina ta31-a
+aug 1977aug 1981 toyota carina ta41-a
+aug 1979aug 1981 toyota carina van ta49v-a (12t-j)
+aug 1977jun 1981 toyota celica ta41-b
+jan 1980feb 1982 toyota celica camry ta41-c
+aug 1977sep 1978 toyota corona tt120
+sep 1978dec 1981 toyota corona tt130
+dec 1979dec 1981 toyota corona van tt138 (12t-j)
+jan 1982oct 1983 toyota corona van tt147 (12t-j)
+toyota sprinter te66
+toyota townace wagon tr11g
+apr 1978sep 1981 daihatsu charmant a40
+daihatsu delta wide wagon tb11g
+
+
+== 2t-g ==
+
+the 2t-g, produced from 1970 through 1983, is a chain driven 8v dohc version. output is 110125 hp (8293 kw; 112127 ps) and 142147 nm (105108 lbft). variants include the air-injected 2t-gr, japan-spec 2t-gu, and fuel injected 2t-geu. twin sidedraft 40 mm (1.6 in) mikuni-solex phh carburetors were used in non efi versions. all 2t-g cylinder heads were cast by yamaha, however, some are not marked as such.
+the 2t-g was replaced by the 4a-ge in most applications.
+applications:
+
+toyota corolla levin/sprinter trueno e20 through e70 series
+toyota celica a20 through a60 series
+toyota carina a10 through a60 serieslike the 2.0 l 18r-g, the 2t-g was considered the flagship engine of toyota's 1600 class until it was superseded by the 4a-ge in the 1980s. the 2t-g is still a popular engine for conversions to classic celicas and corollas and are often suitable for classic and formula racing series.
+when bored out to a maximum of 89 mm (3.5 in) and combined with a 3t crankshaft, the 2t and 2t-g will have a displacement of almost 2.0 l. the 2t and 3t series use the same connecting rod dimensions, with the different pin heights on the pistons. aftermarket pistons are available from very low (<7.0:1) through to very high (>13.0:1) compression ratios. racing 2t-g engines ("nova") featured 87 mm  84 mm (3.43 in  3.31 in) bore and stroke for a 2.0 l (1,997 cc) displacement. output is around 170 ps (125 kw; 168 hp) at 6,000 rpm with a 12.0:1 compression ratio. this engine was used in formula 3 cars in both europe and japan (where it dominated), as well as in formula pacific (fp).
+
+
+== 3t ==
+the 3t displaces 1.8 l (1,770 cc) and was produced from 1973 through 1985. cylinder bore and stroke is 85 mm  78 mm (3.35 in  3.07 in). the 3t-u was originally compliant with japan's 1976 emissions standards (ttc-c), from october 1977 it used toyota's lean burn system called tgp ("turbulence generating pot") in order to pass the 1978 emissions standards.
+the 3t ohv engines are mated to either of a t40 4-speed, t50 5-speed manual transmission, or an a40 3-speed, or a40d 4-speed automatic transmission.
+output ranges from 70105 hp (5278 kw; 71106 ps) and 126162 nm (93119 lbft) between the california 3t-c and japan-spec fuel injected 3t-eu.
+applications:
+
+toyota carina ta40 series
+toyota carina ta60 series
+toyota corolla te72
+1973.081977.01 toyota corona tt121
+toyota corona tt130 series
+toyota corona tt141
+toyota celica a60 series
+toyota celica camry ta50 series
+toyota mark ii/chaser tx30 series
+
+
+== 13t ==
+the 1.8 l (1,770 cc) 13t-u was produced from 1977 through 1982. it produces 95 ps (70 kw; 94 hp) at 5,400 rpm and 15 kgm (150 nm; 110 lbfft) at 3,400 rpm with a twin barrel carburettor.
+applications:
+
+august 19791982 toyota corolla te70
+toyota celica a40 series
+toyota celica camry ta46
+toyota townace tr15
+toyota townace truck tm20
+1977.071978.09 toyota corona tt126
+toyota cresta tx50
+toyota chaser and toyota mark ii tx60
+daihatsu delta wide wagon tb15g (townace)
+
+
+== 3t-gte ==
+the 3t-gte, first released in september 1982, is the most performance oriented version of the 1.8 l (1,770 cc) 3t engine. it features a hemi chambered 8v twin-cam head with twin-spark (two spark plugs per cylinder) design and swirl inlet ports for better efficiency. the efi system saw the introduction of knock control. it is turbocharged by a toyota ct20 turbo (the same unit as used in the 2l-t diesel) to generate 160 hp (119 kw; 162 ps) at 6,000 rpm and 206 nm (152 lbft) at 4,800 rpm. this was the first turbocharged twin-cam engine built in japan. units built after may 1983 received a water cooled turbocharger. the engine was considerably over-engineered for durability, for instance featuring doubled cam roller chains, as it was also to form the basis for the 4t-gt competition engines. it either came mated to a w55 5speed manual with a larger 225 mm (8.9 in) clutch and lighter 8 kg (18 lb) flywheel or an a43d 4-speed automatic transmission.
+applications:
+
+sept 1982-1985 toyota celica ta63
+sept 1982-? toyota carina ta63
+sept 1982-? toyota corona tt1423t-gte powered vehicles are badged as gt-t or gt-tr. 
+
+
+== 4t-gte ==
+this is the version of the t family which powered toyota's group b and world rally championship cars. the homologation engine, introduced in november 1982, features a 0.5 mm (0.020 in) increase in bore over the 3t, giving 1.8 l (1,791 cc). with a multiplication factor of 1.4 for turbocharged engines, this equalled 2.5 l (2,507 cc) in the eyes of the fia, placing the celica in the 2.53.0 l (2,5013,000 cc) class. the smaller 3t engine would have fit snugly under the 2.5-liter limit, but being in the larger class allowed toyota to stretch the 4t-gt engine to 2.1 l (2,090 cc), 89 mm  84 mm (3.50 in  3.31 in) for a converted displacement of 2.9 l (2,926 cc) which better suited the comparatively heavy celica.in race trim it was a high-performance engine of 2.1 l (2,090 cc) with either a toyota or a kkk/k27 turbocharger, electronic fuel injection, and a twin-spark ignition system, producing 360 to 600 ps (265 to 441 kw; 355 to 592 hp) depending on race trim. the 1984 group b rally version produced 326 ps (240 kw; 322 hp) at 8,000 rpm. the road going homologation version (4t-gteu, 200 built) produces 180 ps (132 kw; 178 hp). the total build number, including modified versions, was 228.applications:
+
+toyota celica twincam turbo ta64 gt-ts
+toyota celica "imsa gto"
+toyota 83c
+toyota 84c
+toyota 85c
+toyota 86c
+eagle mk i
+
+
+== race engines ==
+the '151e' engine used 4 valves per cylinder.the '100e' engine used twin spark plugs with 2 valves per cylinder but was used mainly by a toyota works team.italy nova corporation produced a 2.0 l engine based on the 2t-g that was used in most of the world f3 cars for a long time.the production 1.8 l (1,791 cc) 4t-gte was stretched to 2.1 l (2,090 cc) for race use.
+
+
+== see also ==
+list of toyota engines
+t-g tech notes
+
+
+== external links ==
+toyota 3tc corolla site
+toyota corolla levin 2t-g corolla site
+
+
+== references ==

@@ -1,0 +1,169 @@
+the full moon is the lunar phase when the moon appears fully illuminated from earth's perspective. this occurs when earth is located between the sun and the moon (more exactly, when the ecliptic longitudes of the sun and moon differ by 180). this means that the lunar hemisphere facing earth  the near side  is completely sunlit and appears as a circular disk. the full moon occurs roughly once a month.
+the time interval between a full moon and the next repetition of the same phase, a synodic month, averages about 29.53 days. therefore, in those lunar calendars in which each month begins on the day of the new moon, the full moon falls on either the 14th or 15th day of the lunar month. because a calendar month consists of a whole number of days, a month in a lunar calendar may be either 29 or 30 days long.
+
+
+== characteristics ==
+a full moon is often thought of as an event of a full night's duration, although its phase seen from earth continuously waxes or wanes, and is full only at the instant when waxing ends and waning begins. for any given location, about half of these maximum full moons may be visible, while the other half occurs during the day, when the full moon is below the horizon.
+many almanacs list full moons not only by date, but also by their exact time, usually in coordinated universal time (utc). typical monthly calendars that include lunar phases may be offset by one day when prepared for a different time zone.
+the full moon is generally a suboptimal time for astronomical observation of the moon because shadows vanish. it is a poor time for other observations because the bright sunlight reflected by the moon, amplified by the opposition surge, then outshines many stars.
+on 12 december 2008, the full moon was closer to the earth than it had been at any time in the previous 15 years. this was referred to in popular media as a supermoon.on 19 march 2011, there was another full "supermoon", closer to the earth than at any time in the previous 18 years.on 14 november 2016, there was another full "supermoon"; this time it was closer to the earth than at any time in the previous 68 years.
+
+
+=== formula ===
+the date and approximate time of a specific full moon (assuming a circular orbit) can be calculated from the following equation:
+
+  
+    
+      
+        d
+        =
+        20.362000
+        +
+        29.530588861
+        
+        n
+        +
+        102.026
+        
+        
+          10
+          
+            
+            12
+          
+        
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle d=20.362000+29.530588861\times n+102.026\times 10^{-12}\times n^{2}}
+  where d is the number of days since 1 january 2000 00:00:00 in the terrestrial time scale used in astronomical ephemerides; for universal time (ut) add the following approximate correction to d:
+
+  
+    
+      
+        
+        0.000739
+        
+        (
+        235
+        
+        
+          10
+          
+            
+            12
+          
+        
+        )
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -0.000739-(235\times 10^{-12})\times n^{2}}
+   dayswhere n is the number of full moons since the first full moon of 2000. the true time of a full moon may differ from this approximation by up to about 14.5 hours as a result of the non-circularity of the moon's orbit. see new moon for an explanation of the formula and its parameters.
+the age and apparent size of the full moon vary in a cycle of just under 14 synodic months, which has been referred to as a full moon cycle.
+
+
+=== lunar eclipses ===
+
+when the moon moves into earth's shadow, a lunar eclipse occurs, during which all or part of the moon's face may appear reddish due to the rayleigh scattering of blue wavelengths and the refraction of sunlight through earth's atmosphere. lunar eclipses happen only during a full moon and around points on its orbit where the satellite may pass through the planet's shadow. a lunar eclipse does not occur every month because the moon's orbit is inclined 5.14 with respect to the ecliptic plane of earth; thus, the moon usually passes north or south of earth's shadow, which is mostly restricted to this plane of reference. lunar eclipses happen only when the full moon occurs around either node of its orbit (ascending or descending). therefore, a lunar eclipse occurs about every six months, and often two weeks before or after a solar eclipse, which occurs during a new moon around the opposite node.
+
+
+== in folklore and tradition ==
+
+full moons are traditionally associated with insomnia (inability to sleep), insanity (hence the terms lunacy and lunatic) and various "magical phenomena" such as lycanthropy. psychologists, however, have found that there is no strong evidence for effects on human behavior around the time of a full moon. they find that studies are generally not consistent, with some showing a positive effect and others showing a negative effect. in one instance, the 23 december 2000 issue of the british medical journal published two studies on dog bite admission to hospitals in england and australia. the study of the bradford royal infirmary found that dog bites were twice as common during a full moon, whereas the study conducted by the public hospitals in australia found that they were less likely.
+
+
+=== full moon names ===
+historically, month names are names of moons (lunations, not necessarily full moons) in lunisolar calendars. since the introduction of the solar julian calendar in the roman empire, and later the gregorian calendar worldwide, people no longer perceive month names as "moon" names. the traditional old english month names were equated with the names of the julian calendar from an early time (soon after christianization, according to the testimony of bede around ad 700).
+some full moons have developed new names in modern times, such as "blue moon", as well as "harvest moon" and "hunter's moon" for the full moons of autumn.
+lunar eclipses occur only at a full moon and often cause a reddish hue on the near side of the moon. this full moon has been called a blood moon in popular culture.
+
+
+==== harvest and hunter's moons ====
+
+the "harvest moon" and the "hunter's moon" are traditional names for the full moons in late summer and in the autumn in the northern hemisphere, usually in september and october, respectively.
+the "harvest moon" (also known as the "barley moon" or "full corn moon") is the full moon nearest to the autumnal equinox (22 or 23 september), occurring anytime within two weeks before or after that date. the "hunter's moon" is the full moon following it. the names are recorded from the early 18th century. the oxford english dictionary entry for "harvest moon" cites a 1706 reference, and for "hunter's moon" a 1710 edition of the british apollo, where the term is attributed to "the country people" ("the country people call this the hunters-moon.") the names became traditional in american folklore, where they are now often popularly attributed to native americans. the feast of the hunters' moon is a yearly festival in west lafayette, indiana, held in late september or early october each year since 1968. in 2010, the harvest moon occurred on the night of the equinox itself (some 512 hours after the moment of equinox) for the first time since 1991.all full moons rise around the time of sunset. since the moon moves eastward among the stars faster than the sun, lunar culmination is delayed by about 50.47 minutes (on average) each day, thus causing moonrise to occur later each day.
+due to the high lunar standstill, the harvest and hunter's moons of 2007 were special because the time difference between moonrises on successive evenings was much shorter than average. the moon rose about 30 minutes later from one night to the next, as seen from about 40 n or s latitude (because the full moon of september 2007 rose in the northeast rather than in the east). hence, no long period of darkness occurred between sunset and moonrise for several days after the full moon, thus lengthening the time in the evening when there is enough twilight and moonlight to work to get the harvest in.
+
+
+==== farmers' almanacs ====
+the maine farmers' almanac from around the 1930s began to publish native american "indian" full moon names, some of which had been adopted by colonial americans. the farmers' almanac (since 1955 published in maine, but not the same publication as the maine farmers' almanac) continues to do so.an early list of "indian month names" was published in 1918 by daniel carter beard in his the american boy's book of signs, signals and symbols for use by the boy scouts. beard's "indian" month names were:
+such names have gained currency in american folklore. they appear in print more widely outside of the almanac tradition from the 1990s in popular publications about the moon.
+mysteries of the moon by patricia haddock ("great mysteries series", greenhaven press, 1992) gave an extensive list of such names along with the individual tribal groups they were supposedly associated with. haddock supposes that certain "colonial american" moon names were adopted from algonquian languages (which were formerly spoken in the territory of new england), while others are based in european tradition (e.g. the colonial american names for the may moon, "milk moon", "mother's moon", "hare moon" have no parallels in the supposed native names, while the name of november, "beaver moon" is supposedly based in an algonquian language).
+the individual names (some inconsistent) given in farmers' almanac, which is not authoritative, include the following:
+the long night's moon is the last full moon of the year and the one nearest the winter solstice.
+|}
+"ice moon" is also used to refer to the first full moon of january or february.
+
+
+=== hindu full moon festivals ===
+
+in hinduism, most festivals are celebrated on auspicious days. many of the hindu festivals are celebrated on days with a full moon at night.
+different parts of india celebrate the same day with different names, as listed below:
+
+chaitra purnima  gudi padua, yugadi, ugadi, hanuman jayanti (april 15, 2014)
+vaishakh purnima  narasimh jayanti, buddha jayanthi (buddha's birthday) (may 14, 2014)
+jyeshtha purnima  vat savitri vrat vat purnima (june 8, 2014)
+ashadh purnima  guru purnima, vyas purnima (important day for starting education and honoring teachers)
+shravan purnima   good day for starting upanayana day, avani avittam, raksha bandhan. conceptually onam also comes on this day.
+bhadrapad purnima  start of pitru paksha, madhu purnima
+ashvin purnima  sharad purnima
+kartik poornima  karthikai deepam festival, thrukkarthika (in kerala)
+margasirsha purnima  thiruvathira, dathatreya jayanthi
+pushya purnima  thaipusam, shakambharee purnima
+magha purnima
+phalguna purnima  holi
+
+
+== lunar and lunisolar calendars ==
+
+most pre-modern calendars the world over were lunisolar, combining the solar year with the lunation by means of intercalary months.
+the julian calendar abandoned this method in favour of a purely solar reckoning while conversely the 7th-century islamic calendar opted for a purely lunar one.
+a continuing lunisolar calendar is the hebrew calendar. evidence of this is noted in the dates of passover and easter in judaism and christianity, respectively. passover falls on the full moon on 15 nisan of the hebrew calendar. the date of the jewish rosh hashana and sukkot festivals along with all other jewish holidays are dependent on the dates of the new moons.
+
+
+=== intercalary months ===
+
+in lunisolar calendars, an intercalary month occurs seven times in the 19 years of the metonic cycle, or on average every 2.7 years (19/7). in the hebrew calendar this is noted with a periodic extra month of adar in the early spring.
+
+
+==== blue moon ====
+
+in the modern system of "traditional" american full moon names tied to the solstice and equinox points, a supernumerary full moon in such a period is called a blue moon. the term "blue moon" used in this sense may date to as early as the 16th century, but it became well-known in the united states due to the farmers' almanac (published since 1818).according to the pattern of use in the farmers' almanac, a "blue moon" is the third full moon in any period between either a solstice and an equinox, or between an equinox and a solstice, (calculated using the mean tropical year), which contains four full moons. these seasons are equal in length, unlike the astronomical ones, which vary in length depending on the earth's speed in its elliptical orbit round the sun. to compare, in 1983 the equal-length mean-solar solar points and the actual astronomical (observed) dates are shown in the table below (all dates & times in gmt):
+
+as a consequence of checking an inadequate number of old issues of the farmers' almanac, the author of an article in the march 1946 issue of sky & telescope magazine wrongly concluded that the farmers' almanac had used "blue moon" to denote "the second full moon in any month which contains two full moons".
+the mistaken rule was retracted and declared "erroneous" in a 1999 sky & telescope article, which gave the corrected rule, based on order in seasons.using either meaning, "blue moons" occur with the same average frequency of intercalary months, 7 times in 19 years; the farmers' almanac system of full moon names effectively defines a functioning luni-solar calendar.
+
+
+== see also ==
+
+lunar eclipse
+lunar effect
+lunar phase
+month
+near side of the moon
+new moon
+orbit of the moon
+
+
+== footnotes ==
+
+
+== references ==
+
+
+== external links ==
+moon phase calculator
+neil young  harvest moon on youtube

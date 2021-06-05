@@ -1,0 +1,86 @@
+a steel-toe boot (also known as a safety boot, steel-capped boot, steel toecaps or safety shoe) is a durable boot or shoe that has a protective reinforcement in the toe which protects the foot from falling objects or compression.
+although traditionally made of steel, the reinforcement can also be made of a composite material, a plastic such as thermoplastic polyurethane (tpu) or even aluminum. steel-toe boots are important in construction and manufacturing, as well as a variety of other industries. occupational safety and health legislation or insurance requirements may require the use of such boots in some settings, and may mandate certification of such boots and the display of such certification directly on the boots. the markings on the boot label will indicate the national or international standards that the boot was intended to meet, and identify the level of protection offered for impact, compression, penetration, and electric shock. safety shoes are effective in keeping the feet of industrial workers safe from sharp and heavy objects while working in factories. footwear for use in chemical processing or semiconductor manufacturing may also be rated to dissipate static electricity.
+safety footwear now comes in many styles, including sneakers, clogs, and dress shoes. some are quite formal, for supervising engineers who must visit sites where protective footwear is mandatory.
+some brands of steel-toe footwear have become fashionable within subcultures such as skinhead, punk, and rivethead. while brands that were previously renowned within the fashion industry have also diversified into the safety footwear market, industrial brands like caterpillar, rock fall and jcb have also issued licenses to produce safety footwear.
+
+
+== safety criteria ==
+
+
+=== united states ===
+
+in the united states, the most common standards used by employers for protective footwear are astm international standards f2412-18a (standard test methods for foot protection) and astm f2413-18 (standard specification for performance requirements for foot protection).
+osha previously required compliance of ansi z41.1-1991, "american national standard for personal protection-protective footwear," if purchased after july 5, 1994, or ansi standard "usa standard for men's safety-toe footwear," z41.1-1967, if purchased before that date.
+as of march 1, 2005, ansi z41 has been replaced by astm f2412 and astm f2413astm certified footwear must include a label that indicates which safety standards that particular footwear meets. the various safety standards include:
+
+i - impact
+c - compression
+mt - metatarsal
+cd - conductive
+eh - electrical hazard
+sd - static dissipating
+pr - puncture resistant
+
+
+=== canada ===
+
+in canada, the most common standards used by employers are those of the csa group (formerly the canadian standards association; csa), published in csa standard z195. these standards are similar to the astm international standards commonly used in the united states but the testing methods do vary.
+csa standards on shoe labels feature distinct shapes and colors, represents specific safety criteria for all safety footwear and apparel:
+
+green triangle with csa symbol - sole puncture protection with a grade 1 protective toe. (heavy work environment: construction; machine shops; where sharp objects are present)
+yellow triangle with registered symbol - sole puncture protection with a grade 2 protective toe. (light industrial work environments)
+white rectangle with orange greek letter omega and csa symbol - soles that provide electric shock resistance, with  (capital omega) being the symbol for ohms of electrical resistance.  (any industrial environment where live electrical conductors can occur)
+yellow rectangle with green letters "sd", a grounding symbol and csa symbol - capable of dissipating an electrostatic charge in a controlled manner. (any industrial environment where a static discharge can be a hazard for workers or equipment)
+red rectangle with a black letter c, grounding symbol and csa symbol - soles that are electrically conductive. (any industrial environment where low-power electrical charges can be a hazard for workers or equipment)
+white label with green fir tree symbol and csa symbol - provides protection when using chainsaws. (forestry workers and others required to use a chainsaw)
+blue square with csa symbol - grade 1 protective toe only. (for all other environments not listed above)generally, a safety shoe is a shoe that follows at least one of five criteria. the criteria that a safety shoe adheres to can be found by looking for the csa (canadian standards association) alphanumeric code found inside the shoe. this code is made up of a combination of 5 different symbols:
+
+1, 2 or 0;
+p or 0;
+m or 0;
+e, s or c;
+x or 0.the first code indicates whether the shoe has a steel-toe cap (a metal shell embedded on top of the toes part of the shoe). "0" means there is none. "1" means that there is, and it resists an impact of 125 joules (22.7 kg object falling from 56 cm above). "2" means that it resists an impact of 90 joules.
+the second code indicates whether the shoe has soles that protect the arches of the feet from punctures. "p" means it does. "o" means it doesn't.
+the third code indicates whether the shoe has a metatarsus protection against shocks and collisions. "m" means it does. "o" doesn't.
+the fourth code indicates the shoe's electrical properties. "e" means it resists electrical shocks. "s" means it disperses static electrical. "c" means it conducts electricity.
+this last code is found only on shoes that protect the foot from chainsaws, i.e. chainsaw boots. "x" it does, "o" does not.
+
+
+=== europe ===
+
+the international organization for standardization provides the european standard for safety footwear. the current one is iso 20345:2011 - previously iso 20345:2004.
+the codes applicable to european safety footwear are:
+
+there is also en iso 20346:2004 for protective footwear (must comply to basic safety requirements but toe cap impact resistance requirement is lower - 100 joules) & en iso 20347:2004 for occupational footwear (must comply to basic safety requirements with antistatic or slip-resistant properties. this standard does not require a protective toe cap)
+
+
+=== asia ===
+
+safety shoe standards in asia are :
+
+china : gb 21148 & an1, an2, an3, an4, an5
+indonesia : sni 0111:2009
+japan : jis t8101
+malaysia : sirim ma 1598:1998
+singapore : ss 513-1:2005
+india : is 15298-i: 2011 test methods, is 15298ii for safety footwear, is 15298-iii protective footwear, is 15298-iv occupational footwear
+thailand : tis 523-2011
+
+
+=== australia / new zealand ===
+australia : as/nzs 2210.3:2009
+
+
+== use as a weapon ==
+steel-toe boots have been used in assaults, such as the attack on josie lou ratley, a florida teenager. nightclubs and other entertainment venues frequently include a "no steel toecaps" rule as part of their dress code to mitigate the possibility of serious injury to other patrons if the wearer becomes violent. use of bovver boots in football hooliganism was countered by warnings to fans that they would have to remove such boots in order to attend football matches.
+
+
+== see also ==
+chainsaw safety clothing
+personal protective equipment
+combat boot
+rigger boot
+safety engineering
+
+
+== references ==

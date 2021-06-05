@@ -1,0 +1,139 @@
+public-access television is traditionally a form of non-commercial mass media where the general public can create content television programming which is narrowcast through cable tv specialty channels. public-access television was created in the united states between 1969 and 1971 by the federal communications commission (fcc), under chairman dean burch, based on pioneering work and advocacy of george stoney, red burns (alternate media center), and sidney dean (city club of ny).
+public-access television is often grouped with public, educational, and government access television channels, under the acronym peg. peg channels are typically only available on cable television systems.
+in 2020, the alliance for community media published a directory listing over 1600 organizations operating these channels in the united states.
+
+
+== distinction from pbs ==
+in the united states of america, the public broadcasting service (pbs) produces public television, offering an educational television broadcasting service of professionally produced, highly curated content. it is not public-access television, and has no connection with cable-only peg television channels. although non-commercial educational television bears some resemblance to the e of peg, pbs bears little resemblance to public-access television.
+the pbs generally does not offer local programming content. instead, it broadcasts content produced for a national audience distributed via satellites. there is no generally accepted right of access for citizens to use broadcast studio facilities of pbs member stations, nor right of access by community content producers to the airwaves stewarded by these television stations outside of some universities or technical colleges such as milwaukee's milwaukee area technical college, which owns the area's two pbs member stations and offers students the limited ability (within fcc guidelines) to produce their own programs to air on a public television station for television production experience. these qualities are in stark contrast to peg channel content, which is mostly locally produced, especially in conjunction with local origination studio facilities. and in the case of the p, public-access television, the facilities and channel capacity are uncurated free-speech zones available to anyone for free or little cost.
+since 53% to 60% of public television's revenues come from private membership donations and grants, most stations solicit individual donations by methods including fundraising, pledge drives, or telethons which can disrupt regularly scheduled programming. pbs is also funded by the federal government of the united states.
+peg channels are generally funded by cable television companies through revenues derived from cable television franchise fees, member fees, grants and contributions.
+
+
+== history ==
+in the united states, public-access television is an alternative system of television which originated as a response to disenchantment with the commercial broadcasting system, and in order to fulfill some of the social potential of cable television.
+
+
+=== pioneers ===
+the first experiments in public-access television and/or non-commercial community television began in 1968 with dale city, virginia's dale city television (dctv) and 1970 with bob & janeen burrel at stoughton, wisconsin's wsto tv.
+also, at that same time in new york city, fred friendly, head of the cable tv and communications commission, made recommendations for a leased-access channel for public use. the rent for equipment usage and studio time was opposed and later dropped. this free-access requirement was the contractual beginnings of peg.filmmakers george stoney, and red burns (who had served on the canadian film board), along with sidney dean (city club of ny), were instrumental in developing the theoretical legal basis and the practical need for public-access television, and helped to eventually obtain public-access television requirements in the franchise agreement between the city government and the cable company.the legal basis of the local municipality regulating cable companieswhich use public rights-of-way in order to make profitsto meet certain minimum standards of public service requirements, i.e., facilities and equipment, channel capacity, and funding, came out of this work of these pioneers.
+
+
+=== local origins ===
+the public policy origins begin at the federal level with the concept of local origination. it was the first attempt by officials at the federal communications commission (fcc) to create a service like peg through regulation of the cable industry.
+in 1969, in the first report and order, the fcc stated,
+
+"no catv system having 3,500 or more subscribers shall carry the signal of any television broadcast station unless the system also operates to a significant extent as a local outlet by cablecasting and has available facilities for local production and presentation of programs other than automated services."
+in a report filed with this regulation, the commission said,
+
+"[we] recognize the great potential of the cable technology to further the achievement of long-established regulatory goals in the field of television broadcasting by increasing the number of outlets for community self-expression and augmenting the public's choice of programs and types of services. . . . they also reflect our view that a multi-purpose catv operation combining carriage of broadcast signals with program origination and common carrier services, might best exploit cable channel capacity to the advantage of the public and promote the basic purpose for which this commission was created:"
+in 1971, this rule was rescinded, and replaced with a requirement for peg facilities and channel capacity. the concept of local programming persisted, however the rules have been modified to say
+
+origination cablecasting. programing (exclusive of broadcast signals) carried on a cable television system over one or more channels and subject to the exclusive control of the cable operator.
+in contrast with public-access television, which is government-mandated access for programming, local programming is now usually programming of local interest produced by the cable operator or peg organizations. the term is also generally accepted to refer to television programming that is not produced by a commercial broadcasting company or other media source for national or international distribution.
+also note that at this time, the fcc was considering catv a common carrier which is a term that comes from the bus and shipping industries, where, in exchange for being offered a charter for their operations by the government, companies were required to give all persons passage. thus, if catv operators we considered common carriers, then they certainly would have to give all persons access to carriage on their cable channels. however, this was specifically rejected by the supreme court of the united states in the midwest video decision.
+
+
+=== federal mandate by the fcc ===
+hundreds of public-access television production facilities were launched in the 1970s after the federal communications commission issued its third report and order in 1972, which required all cable systems in the top 100 u.s. television markets to offer three access-channels, one each for public, educational, and local government use. the rule was amended in 1976 to require that cable systems in communities with 3,500 or more subscribers set aside up to 4 cable tv channels and provide access to equipment and studios for use by the public.
+
+
+=== midwest video decisions ===
+cable companies saw this regulation as an unlawful intrusion by the federal government into their business practices, and immediately started challenging the legality of these new rules. two important united states supreme court cases involved a company known as midwest video.
+in united states v. midwest video corp., 406 u.s. 649 (1972), the supreme court upheld the fcc's requirements for local origination facilities. however the public-access television requirement did not survive legal scrutiny seven years later.in 1979 the u.s. supreme court sided against the fcc in the case fcc v. midwest video corp., 440 u.s. 689 (1979), determining that the fcc's new requirements exceeded the agency's statutory powers as granted to them by congress. the supreme court explicitly rejected the notion that cable companies were "common carriers", meaning that all persons must be provided carriage. instead, the supreme court took the stance that cable companies were private persons under the law with first amendment to the united states constitution rights, and that the requirement for public-access television was in fact a burden on these free speech rights.
+this judicial action prompted peg advocates to begin work on what would become the cable communications act of 1984.
+
+
+=== 1984 cable act ===
+congress acted to save peg from the result of the supreme court midwest video decision. however, the legislative imperatives of compromise between the demands of the people and the demands of the cable industry yielded a law with only small benefits for consumers and public-access television advocates.
+the 1984 cable franchise policy and communications act written by senator barry goldwater, said,
+
+"a franchising authority ... may require as part of a cable operator's proposal for a franchise renewal ... that channel capacity be designated for public, educational, or governmental use."  47 usc  531(a)(emph. added)
+this appeared to be a law which creates new rights, allowing local communities to require peg channels, however, it in fact had the opposite effect. since the franchise agreement is a license between the cable operator and the municipality, the municipality could always stipulate a peg channel requirement, and the contracts clause of the united states constitution prevents congress from interfering. so while the intent may have been to correct the omission which led to the midwest video decision, and make peg mandatory, the result was a law which allowed the municipality to opt out of peg requirements, and keep 100% of the cable television franchise fees for their general fund, while providing no peg facilities or television channel capacity. since 1984, many public-access television centers have closed around the country as more municipalities take the opt-out provision.
+however, the cable communications act of 1984 did contain some benefits for peg, as it barred cable operators from exercising editorial control over content of programs carried on peg channels, and absolved them from liability for that content.
+congress passed the cable television protection and competition act of 1992, which gave the fcc authority to create rules requiring cable operators to prohibit certain shows.  the alliance for community media (acm) and others brought suit. the u.s. supreme court, in denver area educational telecommunications consortium v. fcc, 95124 (1996) held the law unconstitutional, in part because it required cable operators to act on behalf of the federal government to control expression based on content.
+currently the acm and others are focusing on operational challenges after new deregulation rules in various states are directly threatening peg access.
+
+
+== principles ==
+peg access may be mandated by local or state government to provide any combination of television production equipment, training and airtime on a local cable system to enable members of the public, accredited educational institutions, and government to produce their own shows and televise them to a mass audience.
+municipalities must take initiative and petition the cable operator to provide the funding for peg access as laid out by law, but municipalities may also choose to take no action and will instead keep the cable television franchise fees in a general fund.  a municipality may also choose to allow government-access television (gatv) but not public-access television or may replace it with governmental access television or may take away public-access television altogether, depending on the disposition of the local government or its voters.
+municipalities have a broad spectrum of franchise agreements with cable television service providers and may not create a monopoly through these agreements.  depending on the size of the community and their contractual agreement the peg and local origination channels may take many forms.  large communities often have a separate organization for each peg type, smaller communities may have a single organization that manages all three. because each organization will develop its own policies and procedures concerning the commercial content of a program, constituent services differ greatly between communities.
+
+
+== structure and programming ==
+peg channels may be run by public grassroots groups, individuals, private non-profits, or government organizations.  policies and regulations are subject to their own ordinances and community standards, initially defined within the individual franchise agreements between community (government) franchise grantor and system operator.  while many of these agreements are similar boilerplate, motivated individuals and groups have been able to make creative stipulations to serve an individual community's needs.
+services available at public-access television organizations are often low cost or free of charge, with an inclusive, content neutral, first-come, first-served, free speech ideology.  monies from cable television franchise fees are paid to government for use of right-of-way use of public property, hopefully allowing other general fund monies to be used to operate the facilities, employ staff, develop curriculum, operate training workshops, schedule, maintain equipment, manage the cablecast of shows and publish promotion materials to build station viewership.  funding and operating budgets vary significantly with the municipality's finances. frequently it is left to the cable franchise to determine how they operate public-access television.  the fcc does not mandate a cable franchise to provide any of the above services mentioned.
+users of public-access television stations may participate at most levels of this structure to make content of their choosing.  generally, anyone may have their programming aired on a public-access television channel.  users are not restricted to cable subscribers, though residency requirements may apply, depending on local franchise agreements or facility policy. many public-access television channels try to favor locally produced programs while others also carry regionally or nationally distributed programming. such programmingregional, national or even internationalis usually aired on a channel curated by the peg operator, which also carries programs produced by professional producers. a show that originates outside the municipality is often referred to as "bicycled", "dub and submit", or "satellite" programming.
+in the event that a public-access television channel becomes filled with programming, a franchise may state that more television channels may be added to satisfy the demand.
+
+
+== educational-access television ==
+educational-access television is the institution set aside for fulfilling the needs of the educational departments and organizations within the municipality.  educational-access television channels may be associated with a specific school, school district or even private organization that is contracted to operate the educational-access television channel for the city.
+educational-access television centers usually operate a cable channel on the local cable system and often include elements and principle that echo public-access television in terms of training and resources.  many school media and video training programs are based in the educational-access television centers.  programming distributed by these centers ranges from student or parent produced media to coverage of local school functions and bodies (such as the school council meetings or committee). there are a number of notable educational-access television organizations that produce programming for a national audience and experiences a very broad distribution.
+
+
+== government-access television ==
+government-access television (gatv) is a resource of the city to address local municipal programming needs.  often the city or town may use the g channel to cablecast city council meetings, election programming, local emergency announcements and other events and programs as valued by the local government.
+
+
+== technologies ==
+equipment available for public-access television broadcasting is evolving quickly.  at its birth, the state of the art peg facilities were composed of racks full of analog videotape decks and an automated video switching system.  recently, the low cost of digital production and distribution equipment, such as cameras, non-linear editing systems, digital video playback servers and new internet technologies have made digital content production the norm.  the dropping cost of digital production and distribution gear has changed the way many peg facilities operate.
+
+
+== challenges ==
+peg television has come under fire from many sources including cable tv providers, local governments and officials, producers, viewers and even corporate litigation from potential copyright infringements.  special interest groups have also frequently applied pressure on peg operations.
+peg often struggles to balance freedom of speech with free, open access to the cable systems and as a result cable operators or peg organizations have occasionally (rightfully or wrongfully) banned producers, discriminated between programming in their allocation of airtime, or have removed or banned programming based upon potential legal problems, the values of the peg organization, or the values or desires of the cable tv provider.
+funding for peg is usually managed from local governments issuing the cable television franchise agreement.  this same government often receives cable television franchise fees that come from the cable companies. negotiation for peg television services can often be hindered by obstructive or restricting behavior from the cable company, a competing cable provider, or the government officials and staff issuing the franchise agreement.
+peg television has been challenged by cable tv operators and telephone companies, who are now expanding into the cable tv business.  these companies have lobbied for significant legislation through the u.s. congress and through various state legislatures to reduce or end peg television.
+in california, the passage of ab2987 or "the digital infrastructure and video competition act of 2006," has changed the laws by which cable tv companies operate and as a result many public-access television studios in the state have closed.  the california public utilities commission now franchises cable television.  however, they do not regulate peg television, which remains the purview of the various city and county governments.
+municipalities, local governments and even residents often confuse the difference between commercial broadcast television and peg television.  peg television has been reported to the fcc about infractions that may apply to broadcast television, even though cable television content (including public-access television) is not subject to the same rules. because cable television is a closed system with elective access there are fewer rules and restrictions about content.
+peg television stations and studios are sometimes poorly managed and/or poorly supported, and give rise to numerous complaints.  station complaints range from poor scheduling and playback, programming playing late or not at all, or signal strength being so weak that the program becomes unwatchable. studio complaints usually focus on the lack of equipment or facilities, poor equipment condition, and staff indifference. accusations are often made that these situations arose as a result of willful neglect on the part of a city, a cable company, or other third party organization, with the intention of making the public-access television facilities so inviable that interest in them will wane and facilities can be closed. complaints may also reflect viewers' general disagreement with other people's viewpoints.  complaints may also reflect discrimination in the resources a peg organization applies to one type of programming vs. another.
+another challenge in maintaining public-access television facilities as a free speech forum can come from within the membership of the peg facility itself, by the overuse of commercial video programmers whose program content contains sponsorship underwriting advertisements like the type permitted on public broadcasting stations. programming could then become very similar to other cable channels and programming without such sponsorship could be deprived of fair treatment by the administrators of a public-access television facility.
+
+
+== future ==
+public-access television organizations remain in service in their municipalities.  in a changing technology industry, many peg organizations began investing in training and technology to distribute media in new ways using the internet.  in the twenty-first century, the consumer media market became flooded with blogs, vlogs, rss syndication and aggregation, mobile-device and cell phone media, and countless new methods for distributing information and ideas. as cable television adopts new technologies, many public-access television centers adapted these new technologies in order to continue serving their missions and goals within their own constituency.
+
+
+== outside the u.s. ==
+there are public-access television or community television channels in other countries, notably in scandinavia, western europe, canada and australia. in germany, norway and sweden there are "open channels". in most countries public-access television channels are broadcast on cable but in australia, denmark and norway terrestrial television transmission is common (uhf or digital). all channels are for profit operations.
+
+
+== notable series ==
+
+
+== notable stations ==
+boston neighborhood network
+bronxnet
+chicago access network television
+citizens television (new haven, connecticut)
+creatv san jose
+fairfax public access (fairfax, virginia)
+manhattan neighborhood network
+people tv (atlanta)
+queens public television
+seattle community access network
+tri-valley community television (tri-valley, california)
+wsto tv (stoughton, wisconsin), early public access station
+york community access television (york, pennsylvania), early public access station
+
+
+== see also ==
+alliance for community media
+
+
+== references ==
+
+
+== external links ==
+"l.i. cable company ordered to restore a public-access program"new york times published: august 14, 1994
+
+massaccess massachusetts advocacy for peg tv stations.
+american community television national advocacy for peg tv
+alliance for community media national organization for peg access centers
+"peg channels" fact sheet  fcc
+global village cat  community television stations around the world
+community media forum europe european network for community radio and television
+rk-tv swedish "riksfrbundet ppna kanaler" organisation, representing local public tv stations in sweden.
+swedish open tv channel

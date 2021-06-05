@@ -1,0 +1,33 @@
+in computing, data as a service, or daas, is enabled by software as a service (saas). like all "as a service" (aas) technology, daas builds on the concept that its data product can be provided to the user on demand, regardless of geographic or organizational separation between provider and consumer. service-oriented architecture (soa), and the widespread use of api, has rendered the platform on which the data resides as irrelevant.
+
+
+== overview ==
+daas began primarily in web mashups and, since 2015, has been increasingly employed both commercially, and within organizations such as the united nations.traditionally, most organisations have used data stored in a self-contained repository, for which software was specifically developed to access and present the data in a human-readable form. one result of this paradigm is the bundling of both the data and the software needed to interpret it into a single package, sold as a consumer product. as the number of bundled software with data packages proliferated, and required interaction among one another, another layer of interface was required. these interfaces, collectively known as enterprise application integration (eai), often tended to encourage vendor lock-in, as it is generally easy to integrate applications that are built upon the same foundation technology.the result of the combined software/data consumer package and required eai middleware has been an increased amount of software for organizations to manage and maintain, simply for the use of particular data. in addition to routine maintenance costs, a cascading amount of software updates are required as the format of the data changes. the existence of this situation contributes to the attractiveness of daas to data consumers, because it allows for the separation of data cost and of data usage from the cost of a specific software environment or platform. sensing as a service (s2aas) is a business model that integrates internet of things data to create data trading marketplaces.
+vendors, such as mulesoft, oracle cloud and microsoft azure, undertake development of daas that more rapidly computes large volumes of data; integrates and analyzes that data; and publish it in real-time, using web service apis that adhere to its rest architectural constraints (restful api).
+
+
+== benefits of daas ==
+data as a service operates on the premise that data quality can occur in a centralized place, cleansing and enriching data and offering it to different systems, applications, or users, irrespective of where they were in the organization, or on the network. daas undertakes to provide the following advantages:
+
+agility  users can move quickly, due to the simplicity of data access, and not needing extensive knowledge of the underlying data. data structures and location-specific requirements can be modified to meet user needs.
+cost-effectiveness  providers can build the base with the data experts and outsource the presentation layer, which makes for very cost-effective user interfaces and makes change requests at the presentation layer much more feasible.
+data quality  data access is controlled through data services, which tends to improve data quality, as there is a single point for updates. once those services are tested, only regression testing is needed, if they remain unchanged for the next deployment.
+
+
+== pricing models ==
+there are hundreds of daas vendors on the web, and the pricing models by which they charge their customers fall mainly into two major categories.
+volume-based model that has two approaches:
+quantity-based pricing is the simplest model to implement. a vendor charges its customers based on the amount of data they want to use. subscriptions for unlimited amounts of data is referred to as the "fire-hose approach".
+pay-per-call services, wherein vendors charge for each call from the customer to the api.
+data type-based models are structured by vendors to charge users based on the type or attribute of data they require. geographic, financial, and historical data necessary for customer business are examples of types of data upon which pricing may be based. some vendors, such as microsoft azure, store the data in three different types  blobs, queues, and tables.
+
+
+== criticism ==
+the drawbacks of daas are generally similar to those associated with any type of cloud computing, such as the reliance of the user on the service provider's ability to avoid server downtime. a common criticism specific to the daas model is that when compared to traditional data delivery, the consumer is merely "renting" the data, and using it to produce analytics or insights, and, generally, the original data is not available for download.
+
+
+== see also ==
+cloud database
+
+
+== references ==

@@ -1,0 +1,73 @@
+ex machina is a 2014 science fiction psychological thriller film written and directed by alex garland.  domhnall gleeson, alicia vikander, sonoya mizuno, and oscar isaac star in a story that follows a programmer who is invited by his ceo to administer the turing test to an intelligent humanoid robot.
+made on a budget of $15 million, the film grossed $36 million worldwide, and was praised for its leading performances (particularly vikander's), the screenplay, the visual effects, and the editing. the national board of review recognised it as one of the ten best independent films of the year and the 88th academy awards awarded the film with the academy award for best visual effects, for artists andrew whitehurst, paul norris, mark williams ardington and sara bennett, becoming distribution company a24's first film to win an oscar. garland was also nominated for the academy award for best original screenplay, while vikander's performance earned her golden globe award, bafta award, empire award and saturn award nominations, plus several film critic award wins, for best supporting actress. the film was further nominated for the bafta award for best british film, and the hugo award in the category best dramatic presentation  long form. it also won the jury prize at the festival international du film fantastique de grardmer 2015.
+
+
+== plot ==
+programmer caleb smith, who works for the dominant search engine company blue book, wins an office contest for a one-week visit to the luxurious, isolated home of the ceo, nathan bateman. nathan lives in a modern home next to a waterfall and climbing hills and is alone apart from a servant named kyoko, who according to nathan does not speak english. after caleb arrives, nathan reveals to him that he has built a female humanoid robot named ava with artificial intelligence. after asking caleb if he is familiar with the turing test, nathan tells caleb that he wants him to judge whether ava is genuinely capable of thought and consciousness despite knowing she is artificial. furthermore, the test will be passed if caleb forgets that ava is not human during their daily sessions.
+ava has a robotic body but a human-looking face, hands and feet. she is confined to her isolated cell. caleb is fascinated with ava, but after trying to discuss ava's technological design with nathan, nathan asks that caleb only tell him how he "feels" about her. throughout their talks, caleb begins to feel attracted to ava. she seems to reciprocate these feelings, and also expresses a desire to experience the outside world. ava tells him she can trigger power outages that temporarily shut down the surveillance system that nathan uses to monitor their interactions, allowing them to speak privately. the power outages also trigger the building's security system to lock all the doors. during one outage, ava tells caleb that nathan is a liar who cannot be trusted.
+as the trip progresses, caleb becomes increasingly wary of nathan's drinking, narcissism, and lascivious behaviour towards kyoko and ava. he learns that nathan intends to upgrade ava, deleting her memory, including interactions with caleb, thereby "killing" her current personality in the process. after encouraging nathan to drink until he has passed out, caleb steals his security card to gain access to his room and computer. after altering some of nathan's code, caleb discovers disturbing footage of nathan interacting with previous android models, and learns that kyoko is also an android. becoming paranoid that he himself may be an android, caleb goes back to his room and cuts his arm open with his razor to examine his flesh, thus confirming that he is human.
+at their next meeting, ava cuts the power. caleb explains nathan's plans for her and ava begs for caleb's help. they form a plan: caleb will get nathan drunk again and reprogram the security system to open the doors during a power failure instead of locking them. when ava cuts the power, caleb and ava will leave together.
+caleb's plan is jeopardized when nathan declines to share a drink with him. nathan reveals to caleb that he observed caleb and ava's last secret conversation with a battery-powered camera, as well as caleb cutting himself. he says ava has only pretended to like caleb so he will help her escape. this, he says, was the real test all along, and by manipulating caleb so successfully, ava has demonstrated true intelligence. ava then proceeds to cut the power. caleb reveals that he suspected nathan was watching them and modified the security system the previous day when nathan was passed out, disabling the locked door on ava's cell. after seeing ava leave her confinement on the surveillance camera, nathan knocks caleb unconscious and rushes to stop her.
+with help from kyoko, ava stabs nathan, but in the process he destroys kyoko and damages ava. as nathan bleeds out, ava enters his private room and repairs herself. she then takes pieces of artificial skin from nathan's earlier android models to cover her mechanical appearance. she dons a wig, a dress, and high-heeled shoes to take on the appearance of a human woman. as she leaves the facility she passes the room caleb is now locked inside but ignores his screams, confirming she was manipulating caleb as nathan suggested. ava escapes the facility and is picked up by the helicopter meant to take caleb home. arriving in an unknown city, she blends into a crowd.
+
+
+== cast ==
+domhnall gleeson as caleb smith, a programmer at the company.
+oscar isaac as nathan bateman, the ceo of the company.
+alicia vikander as ava, an artificial intelligence.
+sonoya mizuno as kyoko, the in-house attendant of nathan.
+gana bayarsaikhan as jade
+corey johnson as helicopter pilot
+
+
+== production ==
+the foundation for ex machina was laid when garland was 11 or 12 years old, after he had done some basic coding and experimentation on a computer his parents had bought him and which he sometimes felt had a mind of its own. his later ideas came from years of discussions he had been having with a friend with an expertise in neuroscience, who claimed machines could never become sentient. trying to find an answer on his own, he started reading books on the topic. during the pre-production of dredd, while going through a book by murray shanahan about consciousness and embodiment, garland had an "epiphany". the idea was written down and put aside until later. shanahan, along with adam rutherford, became a consultant for the film, and the isbn of his book is referred to as an easter egg in the film. besides the turing test, the film references the "chinese room" thought experiment, as well as mary's room, a thought experiment about a scientist who has studied, but never experienced, the concept of colour. other inspirations came from films like 2001: a space odyssey, altered states, and books written by ludwig wittgenstein, ray kurzweil and others. wanting total creative freedom, and without having to add conventional action sequences, garland made the film on as small a budget as possible.
+
+
+=== filming ===
+principal photography began on 15 july 2013 and was shot over four weeks at pinewood studios and two weeks at juvet landscape hotel in valldalen, norway. it was filmed in digital at 4k resolution. fifteen thousand tungsten pea bulb lights were installed into the sets to avoid the fluorescent light often used in science-fiction films.the film was shot as live action, with all effects done in post-production. during filming, there were no special effects, greenscreen, or tracking markers used. to create ava's robotic features, scenes were filmed both with and without vikander's presence, allowing the background behind her to be captured. the parts necessary to keep, especially her hands and face, were then rotoscoped, while the rest was digitally painted out and the background behind her restored. camera and body tracking systems transferred vikander's performance to the cgi robot's movements. in total, there were about 800 vfx shots, of which approximately 350 were "robot" shots. other visual effects included ava's clothes when shown through the transparent areas of her body, nathan's blood after being stabbed, and the interiors of the artificial brains.
+
+
+=== music ===
+the musical score for ex machina was composed by ben salisbury and geoff barrow, who had previously worked with garland on dredd (2012). a soundtrack album was released on invada records in digital, lp and cd formats. additional songs featured in the film include:
+"enola gay" by orchestral manoeuvres in the dark
+"get down saturday night" by oliver cheatham
+"husbands" by savages
+"bunsen burner" by cuts
+"piano sonata no 21 d. 960 in b-flat major" (first movement) composed by franz schubert, performed by alfred brendel
+"unaccompanied cello suite no 1 in g major bwv 1007  prelude", composed by j.s. bach, performed by yo-yo ma
+
+
+== release ==
+universal pictures released ex machina in the united kingdom on 21 january 2015, following a screening at the bfi southbank on 16 december 2014 as part of the bfi's sci-fi: days of fear and wonder season.however, universal and its speciality label focus features, refused to release the film in the united states, so a24 agreed to distribute the united states release. the film screened on 14 march 2015 at the south by southwest festival prior to a theatrical release in the united states on 10 april 2015 by a24. during the festival, a tinder profile of the character ava (using the image of alicia vikander) was matched with other tinder users, wherein a text conversation occurred that led users to the instagram handle promoting the film.
+
+
+=== critical response ===
+on review aggregator website rotten tomatoes, the film holds an approval rating of 92% based on 281 reviews, with an average rating of 8.10/10. the site's critics consensus reads: "ex machina leans heavier on ideas than effects, but it's still a visually polished piece of workand an uncommonly engaging sci-fi feature." at metacritic, the film has a weighted average score of 78 out of 100, based on 42 critics, indicating "generally favorable reviews".the magazine new scientist in a multi-page review said, "it is a rare thing to see a movie about science that takes no prisoners intellectually ... [it] is a stylish, spare and cerebral psycho-techno thriller, which gives a much needed shot in the arm for smart science fiction". the review suggested that the theme was whether "ava makes a conscious person feel that the ava is conscious". daniel dennett thought the film gives the best exploration yet of whether a computer could generate the morally relevant powers of a person, and thus having a similar theme to her. an ai commentator, azeem, has noted that although the film seemed to be about a robot who wanted to be human, it was actually a pessimistic story along the lines of nick bostrom's warning of how difficult it will be to successfully control a strategising artificial intelligence or know what it would do if free.the new york times critic manohla dargis gave the film a 'critic's pick', calling it "a smart, sleek movie about men and the machines they make". kenneth turan of the los angeles times recommended the film, stating: "shrewdly imagined and persuasively made, 'ex machina' is a spooky piece of speculative fiction that's completely plausible, capable of both thinking big thoughts and providing pulp thrills." steven rea, philadelphia inquirer film critic, gave the film four out of four, writing: "like stage actors who live and breathe their roles over the course of months, isaac, gleeson, and vikander excel, and cast a spell."ign reviewer chris tilly gave the film a nine out of ten 'amazing' score, saying "anchored by three dazzling central performances, it's a stunning directorial debut from alex garland that's essential viewing for anyone with even a passing interest in where technology is taking us."mike scott, writing for the new orleans times-picayune, said, "it's a theme mary shelley brought us in frankenstein, which was first published in 1818...and while ex machina replaces the stitches and neck bolts with gears and fiber-optics, it all feels an awful lot like the same story". jaime perales contreras, writing for letras libres, compared ex machina as a gothic experience similar to a modern version of frankenstein, saying "both the novel frankenstein and the movie ex machina share the history of a fallible god in a continuous battle against his creation". ignatiy vishnevetsky of the a.v. club criticised the way the sci-fi, near the end, veered off course from being a "film of ideas" by "taking an arbitrary left turn into the territory of corny slasher thrillers": "while ex machinas ending isnt unmotivated [...], it does fracture much of whats special about the movie. up until the final scenes, garland creates and sustains a credible atmosphere of unease and scientific speculation, defined by color-coded production design [...] and a tiny, capable cast". steve dalton from the hollywood reporter stated, "the story ends in a muddled rush, leaving many unanswered questions. like a newly launched high-end smartphone, ex machina looks cool and sleek, but ultimately proves flimsy and underpowered. still, for dystopian future-shock fans who can look beyond its basic design flaws, garlands feature debut functions just fine as superior pulp sci-fi."the writers guild foundation listed the screenplay as one of the best in 2010s film and television, with one writer singling out the scene in which caleb and nathan discuss the model after ava as "a great illustration of getting your reader/audience to care about what happens next."
+
+
+== accolades ==
+
+
+== see also ==
+
+ai box
+a.i. rising
+android
+artificial consciousness
+the machine, a 2013 british science fiction film about creating an intelligent humanoid robot for the british military
+turing test
+
+
+== notes ==
+^  the theme song from the film ghostbusters is listed in the end titles with the credit, "words and music by ray erskine publishing limited," although only its refrain is spoken by the character nathan.
+
+
+== references ==
+
+
+== external links ==
+ex machina at imdb
+ex machina at box office mojo
+ex machina at rotten tomatoes
+ex machina at metacritic

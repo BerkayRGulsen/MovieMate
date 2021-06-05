@@ -1,0 +1,24 @@
+solitaire is any tabletop game which one can play by oneself, usually with cards, but also with dominoes. the term "solitaire" is also used for single-player games of concentration and skill using a set layout tiles, pegs or stones. these games include peg solitaire and mahjong solitaire.  the game is most often played by one person, but can incorporate others.
+
+
+== history ==
+the origins of card solitaire or patience are unclear, but the earliest records appear in the late 1700s across northern europe and scandinavia. the term patiencespiel appears in das neue knigliche lhombre-spiel, a german book published in 1798. books were also reported to appear in sweden and russia in the early 1800s. there are additional references to patience in french literature. in the united states, the first card solitaire book, patience: a series of thirty games with cards, was published by ednah cheney in 1870.the card game that many people identify with solitaire is klondike solitaire, which is the most played solitaire game.   although it was originally played with a physical deck of cards, it was especially popularized by microsoft solitaire, a digital implementation that was included with the windows operating system from 1990 onwards. 
+forks of pysol are platform-independent, open-source implementations of hundreds of solitaire games. many other software implementations of solitaire exist, and it is still frequently played on computers, mobile devices, and online as a recreational game.
+
+
+== types of solitaire games ==
+patience or card solitaire, also known as "solitaire with cards", generally involves placing cards in a layout, and sorting them according to specific rules. the most common solitaire card game is klondike. other popular variations include spider, yukon, and freecell.
+mahjong solitaire is a single-player matching game that uses a set of mahjong tiles rather than playing cards. it is more commonly played on a computer, than as a physical tabletop game.
+peg solitaire is a board game where the goal is to empty the board of pegs through movement and capturing.  it is more of a puzzle than a game, since it is repeatable once it is solved.
+concentration also known as memory, pelmanism, shinkei-suijaku, pexeso or simply pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. the object of the game is to turn over pairs of matching cards.
+
+
+== see also ==
+list of patience games
+
+
+== external links ==
+david parlett. historic card games: patience playing-card solitaires
+
+
+== references ==

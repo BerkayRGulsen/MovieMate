@@ -1,0 +1,35 @@
+under the english common law, an accomplice is a person who actively participates in the commission of a crime, even if they take no part in the actual criminal offense.  for example, in a bank robbery, the person who points the gun at the teller and demands the money is guilty of armed robbery.  anyone else directly involved in the commission of the crime, such as the lookout or the getaway car driver, is an accomplice, even if in the absence of an underlying offense keeping a lookout or driving a car would not be an offense.
+an accomplice differs from an accessory in that an accomplice is present at the actual crime, and could be prosecuted even if the main criminal (the principal) is not charged or convicted. an accessory is generally not present at the actual crime, and may be subject to lesser penalties than an accomplice or principal.
+at law, an accomplice has lesser guilt than the person he or she is assisting, is subject to lesser prosecution for the same crime, and faces the smaller criminal penalties.  as such, the three accomplices to the bank robbery above can also to a degree be found guilty of armed robbery even if only one stole money.
+the fairness of the doctrine that the accomplice is still guilty has been subject to much discussion, particularly in cases of capital crimes.  accomplices have been prosecuted for felony murder even if the actual person who committed the murder died at the crime scene or otherwise did not face capital punishment.
+in jurisdictions based on the common law, the concept of an accomplice has often been heavily modified by statute, or replaced by new concepts entirely.
+
+
+== canada ==
+criminal law in canada is governed by the criminal code, a federal statute.  parliament has abolished the concepts of accomplice and accessory, and instead created a single statutory concept, namely being party to an offence:
+
+21. (1) everyone is a party to an offence who(a) actually commits it;(b) does or omits to do anything for the purpose of aiding any person to commit it; or(c) abets any person in committing it.(2) where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commission of the offence would be a probable consequence of carrying out the common purpose is a party to that offence.a person can become a party to an offence where they encourage another (the principal) with words or acts, and intend to encourage.mere presence at the scene of an offence  is not sufficient grounds for liability. more involvement is needed, such as: 
+
+encouragement of the principal
+an act or omission that facilitates the commission of the offence
+an act or omission which tends to prevent or hinder interference with the accomplishment of the offence.however, presence at the commission of the offence is evidence of aiding or abetting if accompanied by other factors.
+
+
+== united kingdom ==
+one of the most notorious cases of this type was the 1952 case in england involving derek bentley, a mentally challenged man who was in police custody when his sixteen-year-old companion, christopher craig, shot and killed a police constable during a botched break-in.  craig was sentenced to be detained at her majesty's pleasure, since as a juvenile offender he could not be sentenced to death (he was released after serving ten years), but bentley was hanged despite popular protest.  the incident was dramatized in the film let him have it, which is what bentley allegedly said to craig during the incident, which can be interpreted either as telling craig to shoot the policeman, or to give him the gun.  the hanging of bentley led to public outrage and sparked the mp sydney silverman's campaign to abolish capital punishment in the united kingdom, achieved c. 1965.
+
+
+== united states ==
+aiding and abetting is a provision in united states criminal law, for situations where it cannot be shown the party personally carried out the criminal offense, but where another person may have carried out the illegal act(s) as an agent of the charged, working together with or under the direction of the charged party, who is an accessory to the crime.it is derived from the united states code (u.s.c.), section two of title 18:
+
+(a) whoever commits an offense against the united states is punishable as a principal.
+(b) whoever knowingly and willfully causes an act to be done which if directly performed by him or another would be an offense against the united states, is punishable as a principal.where the term "principal" refers to any actor who is primarily responsible for a criminal offense.
+an accomplice was often referred to as an abettor. this term is not in active use in the united states, having been replaced by accomplice.
+
+
+== see also ==
+accessory (legal term)
+felony murder rule
+
+
+== references ==

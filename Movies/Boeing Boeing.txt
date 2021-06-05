@@ -1,0 +1,284 @@
+the boeing 737 is a narrow-body aircraft produced by boeing at its renton factory in washington.
+developed to supplement the boeing 727 on short and thin routes, the twinjet retains the 707 fuselage cross-section and nose with two underwing turbofans.  envisioned in 1964, the initial 737-100 made its first flight in april 1967 and entered service in february 1968 with lufthansa.
+the lengthened 737-200 entered service in april 1968.
+it evolved through four generations, offering several variants for 85 to 215 passengers.
+the 737-100/200 original variants were powered by pratt & whitney jt8d low-bypass engines and offered seating for 85 to 130 passengers. launched in 1980 and introduced in 1984, the 737 classic -300/400/500 variants were upgraded with cfm56-3 turbofans and offered 110 to 168 seats. introduced in 1997, the 737 next generation (ng) -600/700/800/900 variants have updated cfm56-7s, a larger wing and an upgraded glass cockpit, and seat 108 to 215 passengers. the latest generation, the 737 max, 737-7/8/9/10 max , powered by improved cfm leap-1b high bypass turbofans and accommodating 138 to 204 people, entered service in 2017.
+boeing business jet versions are produced since the 737ng, as well as military models.
+as of december 2019, 15,156 boeing 737s have been ordered and 10,571 delivered.
+initially, its main competitor was the mcdonnell douglas dc-9, followed by its md-80/md-90 derivatives. it was the highest-selling commercial aircraft until being surpassed by the competing airbus a320 family in october 2019, but maintains the record in total deliveries. the 737 max, designed to compete with the a320neo, was grounded worldwide between march 2019 and november 2020 following two fatal crashes.
+
+
+== development ==
+
+
+=== initial design ===
+boeing had been studying short-haul jet aircraft designs, and saw a need for a new aircraft to supplement the 727 on short and thin routes. preliminary design work began on may 11, 1964, based on research that indicated a market for a fifty to sixty passenger airliner flying routes of 50 to 1,000 mi (100 to 1,600 km).the initial concept featured podded engines on the aft fuselage, a t-tail as with the 727, and five-abreast seating. engineer joe sutter relocated the engines to the wings which lightened the wing structure and simplified the accommodation of six-abreast seating in the fuselage. the engine nacelles were mounted directly to the underside of the wings, without pylons, allowing the landing gear to be shortened, thus lowering the fuselage to improve baggage and passenger access. relocating the engines from the aft fuselage also allowed the horizontal stabilizer to be attached to the aft fuselage instead of as a t-tail. many designs for the engine attachment strut were tested in the wind tunnel and the optimal shape for high speed was found to be one which was relatively thick, filling the narrow channels formed between the wing and the top of the nacelle, particularly on the outboard side.
+at the time, boeing was far behind its competitors; rival aircraft in service se 210 caravelle and in development, the bac one-eleven (bac-111), douglas dc-9, and fokker f28 were already into flight certification. to expedite development, boeing used 60% of the structure and systems of the existing 727, the most notable being the fuselage, which differs in length only. this 148-inch (3.76 m) wide fuselage cross-section permitted six-abreast seating compared to the rivals' five-abreast. the 727's fuselage was derived from the 707.the proposed wing airfoil sections were based on those of the 707 and 727, but somewhat thicker; altering these sections near the nacelles achieved a substantial drag reduction at high mach numbers. the engine chosen was the pratt & whitney jt8d-1 low-bypass ratio turbofan engine, delivering 14,500 lbf (64 kn) thrust.the concept design was presented in october 1964 at the air transport association maintenance and engineering conference by chief project engineer jack steiner, where its elaborate high-lift devices raised concerns about maintenance costs and dispatch reliability.
+
+
+=== major design developments ===
+
+the original 737 continued to be developed into thirteen passenger, cargo, corporate and military variants. these were later divided into what has become known as the four generations of the boeing 737 family:
+
+the first "original" generation: the 737-100 and -200, also the military t-43 and c-43, launched february 1965.
+the second "classic" generation: 737-300, -400 and 500 series, launched in 1979.
+the third generation "ng" series: 737-600, -700, -800 and 900 series, also the military c-40 and p-8, launched late 1993.
+the fourth generation 737 max series, launched august 2011.
+
+
+=== launch ===
+the launch decision for the $150 million development was made by the board on february 1, 1965. lufthansa became the launch customer on february 19, 1965, with an order for 21 aircraft, worth $67 million after the airline had been assured by boeing that the 737 project would not be canceled. consultation with lufthansa over the previous winter had resulted in the seating capacity being increasd to 100.on april 5, 1965, boeing announced an order by united airlines for 40 737s. united wanted a slightly larger capacity than the 737-100, so the fuselage was stretched 36 in (91 cm) ahead of, and 40 in (102 cm) behind the wing. the longer version was designated the 737-200, with the original short-body aircraft becoming the 737-100. detailed design work continued on both variants simultaneously.
+
+
+=== introduction ===
+
+the first -100 was rolled out on january 17, 1967, and took its maiden flight on april 9, 1967, piloted by brien wygle and lew wallick. after several test flights the federal aviation administration (faa) issued type certificate a16we certifying the 737-100 for commercial flight on december 15, 1967. it was the first aircraft to have, as part of its initial certification, approval for category ii approaches, which refers to a precision instrument approach and landing with a decision height between 98 to 197 feet (30 to 60 m). lufthansa received its first aircraft on december 28, 1967, and on february 10, 1968, became the first non-american airline to launch a new boeing aircraft. lufthansa was the only significant customer to purchase the 737-100 and only 30 aircraft were produced.the -200 was rolled out on june 29, 1967, and had its maiden flight on august 8, 1967. it was then certified by the faa on december 21, 1967. the inaugural flight for united airlines took place on april 28, 1968, from chicago to grand rapids, michigan. the lengthened -200 was widely preferred over the -100 by airlines. the improved version, the 737-200 advanced, was introduced into service by all nippon airways on may 20, 1971.the 737 original model with its variants, known later as the boeing 737 original, initially competed with se 210 caravelle and bac-111 due to their earlier entry into service and later primarily with the mcdonnell douglas dc-9, then its md-80 derivatives as the three european short-haul single aisles slowly withdraw from the competition. sales were low in the early 1970s and, after a peak of 114 deliveries in 1969, only 22 737s were shipped in 1972 with 19 in backlog. the us air force saved the program by ordering t-43s, which were modified boeing 737-200s. african airline orders kept the production running until the 1978 us airline deregulation act, which improved demand for six-abreast narrow-body aircraft. demand further increased after being re-engined with the cfm56.  the 737 went on to become the highest-selling commercial aircraft until surpassed by the competing airbus a320 family in october 2019, but maintains the record in total deliveries.
+the fuselage is manufactured in wichita, kansas, by boeing spin-off company spirit aerosystems, before being moved by rail to renton.
+
+
+== generations and variants ==
+
+
+=== 737 original (first generation) ===
+the boeing 737 original is the name given to the -100/200 and -200 advanced series of the boeing 737 family.
+
+
+==== 737-100 ====
+
+the initial model was the 737-100, the smallest variant of the 737 aircraft family, which was launched in february 1965 and entered service with lufthansa in february 1968. in 1968, its unit cost was us$3.7m (1968), $27.2m today. a total of 30 737-100s were ordered: 22 by lufthansa, 5 by malaysiasingapore airlines (msa) and 2 by avianca with the final commercial aircraft delivered to msa on october 31, 1969. the first aircraft used by boeing as prototype under registration n73700 was later ordered by and delivered to nasa on july 26, 1973, which then operated it under registration n515na and retired after 30 years on september 27, 2003. this was the last operated 737-100 and is the only remaining worldwide, which is on the static display in the museum of flight in seattle.the original engine nacelles incorporated thrust reversers taken from the 727 outboard nacelles. they proved to be relatively ineffective and tended to lift the aircraft up off the runway when deployed. this reduced the downforce on the main wheels thereby reducing the effectiveness of the wheel brakes. in 1968, an improvement to the thrust reversal system was introduced. a 48-inch tailpipe extension was added and new, target-style, thrust reversers were incorporated. the thrust reverser doors were set 35 degrees away from the vertical to allow the exhaust to be deflected inboard and over the wings and outboard and under the wings. the improvement became standard on all aircraft after march 1969, and a retrofit was provided for active aircraft. boeing fixed the drag issue by introducing new longer nacelle/wing fairings, and improved the airflow over the flaps and slats. the production line also introduced an improvement to the flap system, allowing increased use during takeoff and landing. all these changes gave the aircraft a boost to payload and range, and improved short-field performance.
+
+
+==== 737-200 ====
+
+the 737-200 was a 737-100 with an extended fuselage, launched by an order from united airlines in 1965 and entered service with the launch customer in april 1968. its unit cost was us$4.0m (1968) ($29.4m today). the -200's unit cost was us$5.2m (1972) ($31.8m today). the 737-200 advanced is an improved version of the -200, introduced into service by all nippon airways on may 20, 1971. after aircraft #135, the 737-200 advanced has improved aerodynamics, automatic wheel brakes, more powerful engines, more fuel capacity, and hence a 15% increase in payload and range over the original -200s and respectively -100s.  the 737-200 advanced became the production standard in june 1971. boeing also provided the 737-200c (combi), which allowed for conversion between passenger and cargo use and the 737-200qc (quick change), which facilitated a rapid conversion between roles. the 1,095th and last delivery of a -200 series aircraft was in august 1988 to xiamen airlines.nineteen 737-200s, designated t-43, were used to train aircraft navigators for the u.s. air force. some were modified into ct-43s, which are used to transport passengers, and one was modified as the nt-43a radar test bed. the first was delivered on july 31, 1973, and the last on july 19, 1974. the indonesian air force ordered three modified 737-200s, designated boeing 737-2x9 surveiller. they were used as maritime reconnaissance (mpa)/transport aircraft, fitted with slammar (side-looking multi-mission airborne radar). the aircraft were delivered between may 1982 and october 1983.after 40 years, in march 2008, the final 737-200 aircraft in the u.s. flying scheduled passenger service were phased out, with the last flights of aloha airlines. the variant still sees regular service through north american charter operators such as sierra pacific.
+with the improved short-field capabilities of the 737-200, boeing offered the option of the gravel kit modification features preventing foreign object damage, which enables this aircraft to operate on remote, unimproved or unpaved runways, such as gravel runways, that other similarly sized jetliner cannot. until retiring its -200 fleet in 2007, alaska airlines used this option for some of its combi aircraft rural operations to serve many unimproved runways in alaska. gravel-kitted 737-200 combis are still used by canadian north, air inuit, nolinor, chrono and air north in northern canada where gravel runways are common.
+in july 2019, there were 46 boeing 737-200s in service, mostly with "second and third tier" airlines, and those of developing nations.
+
+
+=== 737 classic (second generation) ===
+
+the boeing 737 classic is the name given to the 737-300/400/500 series after the introduction of the -600/700/800/900 series of the boeing 737 family. produced from 1984 to 2000, a total of 1,988 classic series were delivered.the main development was to re-engine with the high pressure ratio cfm56-7.  by the early 1990s, while the md-80 slowly withdraw from the competition leading to introduction of the md-90, it had become clear that the new a320 family was a serious threat to boeing's market share, as airbus won previously loyal 737 customers such as lufthansa and united airlines. in november 1993, to keep the hand in the single aisle competition, boeing's board of directors authorized the next generation program to mainly upgrade the 737 classic series. in late 1993, after engineering trade studies and discussions with major customers, boeing proceeded to launch a second derivative of the boeing 737, the 737 next generation (ng) -600/700/800/900 series. it featured a redesigned wing with a wider wingspan and larger area, greater fuel capacity, longer range and higher mtows. it was equipped with cfm56-7 high pressure ratio engines, a glass cockpit, and upgraded interior configurations. the four main models of the series can accommodate seating for 108 to 215 passengers. it was further developed into additional versions such as the corporate boeing business jet (bbj) and military p-8 poseidon aircraft. following the merger between boeing with mcdonnell douglas in 1997, the primary competitor for the 737ng series remained only the a320 family.
+close to the next major upgrade of single aisle aircraft at airbus and boeing, the price of jet fuel reached a peak in 2008, when airlines devoted 40% of the retail price of an air ticket to pay for fuel, versus 15% in 2000. consequently, in that year carriers retired boeing 737 classic aircraft to reduce fuel consumption; replacements consisted of more efficient 737 next generation or a320 family aircraft. on june 4, 2008, united airlines announced it would retire all 94 of its classic 737 aircraft (64 737-300 and 30 737-500 aircraft), replacing them with a320 family jets taken from its ted subsidiary, which has been shut down. this intensified the competition between the two giant aircraft manufacturers, which has since become a duopoly competition.
+an optional upgrade with winglets became available for the classic and ng series.
+
+the 737-300 can be retrofitted with aviation partners boeing winglets. the 737-300 retrofitted with winglets is designated the -300sp (special performance).
+westjet was to launch the 737-600 with winglets, but dropped them in 2006.
+
+
+==== 737-300 ====
+
+development began in 1979 for the 737's first major revision, which was originally introduced as the 'new generation' of the 737. boeing wanted to increase capacity and range, incorporating improvements to upgrade the aircraft to modern specifications, while also retaining commonality with previous 737 variants. in 1980, preliminary aircraft specifications of the variant, dubbed 737-300, were released at the farnborough airshow. this first major upgrade series was later renamed to the 737 classic series. it competed primarily with md-80, later its derivative md-90 and the newcomer airbus a320 family.
+boeing engineer mark gregoire led a design team, which cooperated with cfm international to select, modify and deploy a new engine and nacelle that would make the 737-300 into a viable aircraft. they chose the cfm56-3b-1 high-bypass turbofan engine to power the aircraft, which yielded significant gains in fuel economy and a reduction in noise, but also posed an engineering challenge, given the low ground clearance of the 737 and the larger diameter of the engine over the original pratt & whitney engines. gregoire's team and cfm solved the problem by reducing the size of the fan (which made the engine slightly less efficient than it had been forecast to be), placing the engine ahead of the wing, and by moving engine accessories to the sides of the engine pod, giving the engine a distinctive non-circular "hamster pouch" air intake. earlier customers for the cfm56 included the u.s. air force with its program to re-engine kc-135 tankers.
+the passenger capacity of the aircraft was increased to 149 by extending the fuselage around the wing by 9 feet 5 inches (2.87 m). the wing incorporated several changes for improved aerodynamics. the wingtip was extended 9 in (23 cm), and the wingspan by 1 ft 9 in (53 cm). the leading-edge slats and trailing-edge flaps were adjusted. the tailfin was redesigned, the flight deck was improved with the optional efis (electronic flight instrumentation system), and the passenger cabin incorporated improvements similar to those developed on the boeing 757. the prototype -300, the 1,001st 737 built, first flew on february 24, 1984, with pilot jim mcroberts. it and two production aircraft flew a nine-month-long certification program. the 737-300 retrofitted with aviation partners' winglets was designated the -300sp (special performance). the 737-300 was replaced by the 737-700 of the next generation series.
+
+
+==== 737-400 ====
+
+the 737-400 was launched in 1985 to fill the gap between the 737-300 and the 757-200. in june 1986, boeing announced the development of the 737-400, which stretched the fuselage a further 10 ft (3.0 m), increasing the capacity to 188 passenger and required a tail bumper to prevent tailstrikes during take-off, and a strengthened wing spar. the -400s first flight was on february 19, 1988, and, after a seven-month/500-hour flight-testing run, entered service with piedmont airlines that october. the last two -400s, i.e. the last 737 classics series, were delivered to csa czech airlines on february 28, 2000. the 737-400 was replaced by the 737-800 of the next generation series. the 737-400sf was a 737-400 converted to freighter, though it was not a model delivered by boeing and hence the nickname special freighter (sf). alaska airlines was the first to convert one of their 400s from regular service to an aircraft with the ability to handle 10 pallets. the airline had also converted five more into fixed combi aircraft for half passenger and freight. these 737-400 combi aircraft were retired in 2017 and replaced by the 737-700f of the next generation series.
+
+
+==== 737-500 ====
+
+the 737-500 was offered as a modern and direct replacement of the 737-200. it was launched in 1987 by southwest airlines, with an order for 20 aircraft, and it flew for the first time on june 30, 1989. a single prototype flew 375 hours for the certification process, and on february 28, 1990, southwest airlines received the first delivery.the -500 incorporated the improvements of the 737 classic series, allowing longer routes with fewer passengers to be more economical than with the 737-300. the fuselage length of the 737-500 is 1 ft 7 in (48 cm) longer than the 737-200, accommodating up to 140 passengers. both glass and older-style mechanical cockpits arrangements were available. using the cfm56-3 engine also gave a 25% increase in fuel efficiency over the older 737-200s p&w engines.
+the 737-500 has faced accelerated retirement due to its smaller size, after 21 years in service compared to 24 years for the -300. while a few 737-300s were slated for freighter conversion, no demand at all existed for a -500 freighter conversion. the 737-500 was replaced by the 737-600 of the next generation series, though the -600 was not as successful in total orders as the -500.
+
+
+=== 737 ng (third generation) ===
+
+the boeing 737 next generation, abbreviated as 737 next gen or 737ng, is the name given to the main models 737-600/700/800/900 series and the extended range -700er/900er variants of the boeing 737 family. it has been produced since 1996 and introduced in 1997, with a total order of 7,097 aircraft, of which 7,031 have been delivered as of may 2019.
+
+
+==== 737-600 ====
+
+the 737-600, the smallest model of the next-generation, was launched by scandinavian airlines (sas) in march 1995 with the first aircraft delivered in september 1998. a total of 69 aircraft without winglets have been produced with the last one delivered to westjet in 2006. the 737-600 replaced the 737-500 and is similar to the airbus a318.
+
+
+==== 737-700 ====
+
+the 737-700, the first variant of the next-generation, was launched in november 1993 with an order of 63 aircraft. the -700 seats 126 passengers in a two-class or 149 passengers in a one-class layout. the launch customer southwest airlines took the first delivery in december 1997. the 737-700 replaced the 737-300 and competes with the airbus a319.
+the 737-700c is a convertible version where the seats can be removed to carry cargo instead. there is a large door on the left side of the aircraft. the united states navy was the launch customer for the 737-700c under the military designation c-40 clipper.the 737-700er (extended range) was launched on january 31, 2006, and featured the fuselage of the 737-700 and the wings and landing gear of the 737-800. a 737-700er can typically accommodate 126 passengers in two classes with a range similar to the airbus a319lr.
+
+
+==== 737-800 ====
+
+the boeing 737-800 was a stretched version of the 737-700 launched on september 5, 1994. the -800 seats 162 passengers in a two-class or 189 passengers in a high-density, one-class layout. launch customer hapag-lloyd flug (now tuifly) received the first one in april 1998. the -800 replaced directly the -400 and aging 727-200 of us airlines. it filled also the gap left by boeing's decision to discontinue the md-80 and md-90 aircraft, following boeing's merger with mcdonnell douglas. the 737-800 is the most widely used narrowbody aircraft and competes primarily with the airbus a320.
+
+
+==== 737-900 ====
+
+the 737-900 was launched in 1997. it retains the mtow, fuel capacity, trading range for payload and also the exit configuration of the -800, limiting its seat capacity to approximately 177 in a two class and 189 in a high-density, one class layout. the launch customer alaska airlines received the delivery on may 15, 2001.
+the 737-900er (extended range) is the newest and largest variant of the 737ng generation. an additional pair of exit doors and a flat rear pressure bulkhead increased its seating capacity to 180 passengers in a two-class and up to 220 passengers in a one-class configuration. the -900er was introduced to meet the range and passenger capacity of the discontinued 757-200 and to directly compete with the airbus a321.
+
+
+=== 737 max (fourth generation) ===
+
+the boeing 737 max is the name given to the main max 737-7/8/9/10 series and high-density max 200 variant of the boeing 737 family. it is offered in four main variants, typically offering 138 to 230 seats and a range of 3,215 to 3,825 nmi (5,954 to 7,084 km). the 737 max 7, max 8 (including the denser, 200-seat max 200), and max 9 replace the 737-700, -800, and -900 respectively. the further stretched 737 max 10 has also been added to the series.
+the main development was to re-engine with cfm leap-1b very high bypass ratio.  on july 20, 2011, boeing announced plans for a third major upgrade and respectively fourth generation of 737 series to be powered by the cfm leap-1b engine, with american airlines intending to order 100 of these aircraft.on august 30, 2011, boeing confirmed the launch of the 737 new engine variant, to be called the boeing 737 max.
+it was based on earlier 737 designs with more efficient leap-1b power plants, aerodynamic improvements (most notably split-tip winglets), and airframe modifications. it competes with the airbus a320neo family that was launched in december 2010 and reached 1,029 orders by june 2011, breaking boeing's monopoly with american airlines, which had an order for 130 a320neos that july. the 737 max had its first flight on january 29, 2016, and gained faa certification on march 8, 2017. the first delivery was a max 8 on may 6, 2017, to lion air's subsidiary malindo air, which put it into service on may 22, 2017. as of january 2019, the series has received 5,011 firm orders.in march 2019, aviation authorities around the world grounded the 737 max following two hull loss crashes which caused 346 deaths. on december 16, 2019, boeing announced that it would suspend production of the 737 max from january 2020, which was resumed in may 2020. in the midyear 2020, the faa and boeing conducted a series of recertification test flights. on november 18, 2020, the faa cleared the max to return to service. before the aircraft can fly again, repairs must be implemented and airlines' training programs must be approved. passenger flights in the u.s. are expected to resume before the end of the year. 
+worldwide, the first airline to resume passenger service was brazilian low-cost gol, on december 9, 2020.
+
+
+==== 737 max 7 ====
+
+the 737 max 7, a shortened variant of the max 8, was originally based on the 737-700, flying 1,000 nmi (1,900 km) farther and accommodating two more seat rows at 18% lower fuel costs per seat. the redesign uses the 737-8 wing and landing gear; a pair of over-wing exits rather than the single-door configuration; a 46-inch longer aft fuselage and a 30-inch longer forward fuselage; structural re-gauging and strengthening; and systems and interior modifications to accommodate the longer length. entry into service with launch operator southwest airlines was expected in january 2019' but the airline deferred these orders until 20232024. the 737 max 7 replaced the 737-700 and was predicted to carry 12 more passengers and fly 400 nmi (740 km) farther than airbus a319neo with 7% lower operating costs per seat.
+
+
+==== 737 max 8 ====
+
+the max 8, the first variant of the 737 max, has a longer fuselage than the max 7. on july 23, 2013, boeing completed the firm configuration for the 737 max 8. its first commercial flight was operated by malindo air on may 22, 2017. the max 8 replaced the 737-800 and competed with the a320neo.
+the 737 max 200, a high-density version of the 737 max 8, was launched in september 2014 and named for seating for up to 200 passengers in a single-class layout with slimline seats requiring an extra pair of exit doors. the max 200 would be 20% more cost-efficient per seat, including 5% lower operating costs than the max 8 and would be the most efficient narrow-body on the market when entering service. in mid-november 2018, the first max 200 of the 135 ordered by ryanair rolled out, in a 197-seat configuration. it was first flown from renton on january 13, 2019, and was due to enter service in april 2019.
+
+
+==== 737 max 9 ====
+
+the 737 max 9, the stretched variant of the max 8, was launched with an order of 201 aircraft in february 2012. it made its roll-out on march 7, 2017, and first flight on april 13, 2017; it was certified by february 2018. the launch customer, lion air group, took the first max 9 on march 21, 2018, before entering service with thai lion air. the 737 max 9 replaced the 737-900 and competed with airbus a321neo.
+
+
+==== 737 max 10 ====
+
+the max 10 was proposed as a stretched max 9 in mid-2016, enabling seating for 230 in a single class or 189 in two-class layout, compared to 193 in two-class seating for the a321neo. the modest 66 in (1.7 m) stretch of fuselage enables the max 10 to retain the existing wing and cfm leap 1b engine from the max 9 with a trailing-link main landing gear as the only major change. the max 10 was launched on june 19, 2017, with 240 orders and commitments from more than ten customers. the variant configuration with a predicted 5% lower trip cost and seat cost compared to the a321neo was firmed up by february 2018, and by mid-2018, the critical design review was completed. the max 10 has similar capacity as a321xlr, but shorter range and much poorer field performance in smaller airports than a321xlr. it was unveiled in boeing's renton factory on november 22, 2019, and scheduled for the first flight in 2020. boeing also considered a parallel development along with the 757 replacement, similar to the development of the 757 and 767 in the 1970s.in the late 2010s, boeing worked on a medium-range boeing new midsize airplane (nma) with two variants seating 225 or 275 passengers and targeting the same market segment as the 737 max 10 and the airbus a321 neo. a future small airplane (fsa) was also touted during this period.
+the nma project was set aside in january 2020, as boeing focused on returning the 737 max to service and announced that it would be taking a new approach to future projects.
+
+
+== design ==
+the 737 continued to evolve into many variants but still remains recognisable as the 737. these are divided into four generations but all are based on the same basic design.
+
+
+=== airframe ===
+the fuselage cross section and nose is derived from that of the boeing 707 and boeing 727. early 737 cockpits also inherited the "eyebrow windows" positioned above the main glareshield, which were a feature of the original 707 and 727 to allow for better crew visibility. contrary to popular belief, these windows were not intended for celestial navigation (only the military t-43a had a sextant port for star navigation, which the civilian models lacked.) with modern avionics, the windows became redundant, and many pilots actually placed newspapers or other objects in them to block out sun glare. they were eliminated from the 737 cockpit design in 2004, although they are still installed on customer request. the eyebrow windows were sometimes removed and plugged, usually during maintenance overhauls, and can be distinguished by the metal plug which differs from the smooth metal in later aircraft that were not originally fitted with the windows.the 737's main landing gear, under the wings at mid-cabin, rotates into wheel wells in the aircraft's belly. the legs are covered by partial doors, and "brush-like" seals aerodynamically smooth (or "fair") the wheels in the wells. the sides of the tires are exposed to the air in flight. "hub caps" complete the aerodynamic profile of the wheels. it is forbidden to operate without the caps, because they are linked to the ground speed sensor that interfaces with the anti-skid brake system. the dark circles of the tires are clearly visible when a 737 takes off, or is at low altitude.from july 2008 the steel landing gear brakes on new ngs were replaced by messier-bugatti carbon brakes, achieving weight savings up to 550700 lb (250320 kg) depending on whether standard or high-capacity brakes. on a 737-800 this gives a 0.5% improvement in fuel efficiency.737s are not equipped with fuel dump systems. the original design was too small to require this, and adding a fuel dump system to the later, larger variants would have incurred a large weight penalty. boeing instead demonstrated an "equivalent level of safety". depending upon the nature of the emergency, 737s either circle to burn off fuel or land overweight. if the latter is the case, the aircraft is inspected by maintenance personnel for damage and then returned to service if none is found.
+
+		
+		
+		
+
+
+=== engines ===
+engines on the 737 classic series (-300, -400, -500) and next-generation series (-600, -700, -800, -900) do not have circular inlets like most aircraft but rather a planform on the lower side, which has been dictated largely by the need to accommodate ever larger engine diameters. the 737 classic series featured cfm56 high bypass turbofan engines, which yielded significant gains in fuel economy and a reduction in noise over the jt8d low bypass engines used on the 737 original series (-100 and -200), but also posed an engineering challenge given the low ground clearance of the boeing 737 family. boeing and engine supplier cfm international (cfmi) solved the problem by placing the engine ahead of (rather than below) the wing, and by moving engine accessories to the sides (rather than the bottom) of the engine pod, giving the 737 classic and later generations a distinctive non-circular air intake.the wing also incorporated changes for improved aerodynamics. the engines' accessory gearbox was moved from the 6 o'clock position under the engine to the 4 o'clock position (from a front/forward looking aft perspective). this side-mounted gearbox gives the engine a somewhat rounded triangular shape. because the engine is close to the ground, 737-300s and later models are more prone to engine foreign object damage (fod). the improved, higher pressure ratio cfm56-7 turbofan engine on the 737 next generation is 7% more fuel-efficient than the previous cfm56-3 on the 737 classic with the same bypass ratio. the newest 737 variants, the 737 max series, feature leap-1b engines from cfmi with a 68 inches (1.73 m) fan diameter. these engines were expected to be 10-12% more efficient than the cfm56-7b engines on the 737 next generation series.
+
+
+=== flight systems ===
+the 737 is unusual in that it still uses a hydro-mechanical flight control system, similar to the boeing 707 and typical of the period, that transmits pilot commands to control surfaces by steel cables run through the fuselage and wings rather than by an electrical fly-by-wire system as used in all of the airbus fleet and all later boeing models. this has been raised as a safety issue because of the impracticality of duplicating such a mechanical cable-based system in the way that an electrical or electronic system can be. this leaves the flight controls as a single point of failure, for example by metal fragments from an uncontained engine failure penetrating the wings or fuselage.the primary flight controls have mechanical backups.  in the event of total hydraulic system failure or double engine failure, they will automatically and seamlessly revert to control via servo tab. in this mode, the servo tabs aerodynamically control the elevators and ailerons; these servo tabs are in turn controlled by cables running to the control yoke. the pilot's muscle forces alone control the tabs.
+the 737 next generation series introduced a six-screen lcd glass cockpit with modern avionics but designed to retain crew commonality with previous 737 generations.
+
+
+=== aerodynamic ===
+the original -100 and -200 series were built without wingtip devices but these were later introduced to improve fuel efficiency. the 737 has evolved four winglet types: the 737-200 mini-winglet, 737 classic/ng blended winglet, 737 split scimitar winglet, and 737 max advanced technology winglet. the 737-200 mini-winglets are part of the quiet wing corp modification kit that received certification in 2005.blended winglets were standard on the 737 ng and are available for retrofit on 737 classic models. these winglets stand approximately 8 feet (2.4 m) tall and are installed at the wing tips. they improve fuel efficiency by up to 5% through lift-induced drag reduction achieved by moderating wingtip vortices.split scimitar winglets became available in 2014 for the 737-800, 737-900er, bbj2 and bbj3, and in 2015 for the 737-700, 737-900 and bbj1. split scimitar winglets were developed by aviation partners, the same seattle-based corporation that developed the blended winglets; the split scimitar winglets produce up to a 5.5% fuel savings per aircraft compared to 3.3% savings for the blended winglets. southwest airlines flew their first flight of a 737-800 with split scimitar winglets on april 14, 2014. the next generation 737, 737 max, will feature an advanced technology (at) winglet that is produced by boeing. the boeing at winglet resembles a cross between the blended winglet and the split scimitar winglet.an optional enhanced short runway package was developed for use on short runways.
+
+
+=== interior ===
+the first generation original series 737 cabin was replaced for the second generation classic series with a design based on the boeing 757 cabin. the classic cabin was then redesigned once more for the third, next generation, 737 with a design based on the boeing 777 cabin. boeing later offered the redesigned sky interior on the ng.
+the principle features of the sky interior include: sculpted sidewalls, redesigned window housings, increased headroom and led mood lighting, larger pivot-bins based on the 777 and 787 designs and generally more luggage space, and claims to have improved cabin noise levels by 24 db.
+the first 737 equipped boeing sky interior was delivered to flydubai in late 2010. continental airlines, alaska airlines, malaysia airlines, and tuifly have also received sky interior-equipped 737s.
+
+
+== other variants ==
+
+
+=== 737 aew&c ===
+
+the boeing 737 aew&c is a 737-700igw roughly similar to the 737-700er. this is an airborne early warning and control (aew&c) version of the 737ng. australia is the first customer (as project wedgetail), followed by turkey and south korea.
+
+
+=== t-43/ct43a ===
+
+the t-43 was a 737-200 modified for use by the united states air force for training navigators, now known as usaf combat systems officers. informally referred to as the gator (an abbreviation of "navigator") and "flying classroom", nineteen of these aircraft were delivered to the air training command at mather afb, california during 1973 and 1974.  two additional aircraft were delivered to the colorado air national guard at buckley angb (later buckley afb) and peterson afb, colorado, in direct support of cadet air navigation training at the nearby u.s. air force academy.
+two t-43s were later converted to ct-43as, similar to the ct-40a clipper below, in the early 1990s and transferred to air mobility command and united states air forces in europe, respectively, as executive transports. a third aircraft was also transferred to air force material command for use as a radar test bed aircraft and was redesignated as an nt-43a. the t-43 was retired by the air education and training command in 2010 after 37 years of service.
+
+
+=== c-40 clipper ===
+
+the boeing c-40 clipper is a military version of the 737-700c ng. it is used by both the united states navy and the united states air force, and has been ordered by the united states marine corps. technically, only the navy c-40a variant is named "clipper", whereas the usaf c-40b/c variants are officially unnamed.
+
+
+=== p-8 poseidon ===
+
+the p-8 poseidon (formerly multimission maritime aircraft) developed for the united states navy by boeing defense, space & security, based on the next generation 737-800erx.  the p-8 can be operated in the anti-submarine warfare (asw), anti-surface warfare (asuw), and shipping interdiction roles. it is armed with torpedoes, harpoon anti-ship missiles and other weapons, and is able to drop and monitor sonobuoys, as well as operate in conjunction with other assets such as the northrop grumman mq-4c triton maritime surveillance unmanned aerial vehicle (uav).
+
+
+=== boeing business jet (bbj) ===
+
+in the late 1980s, boeing marketed the 77-33 jet, a business jet version of the 737-300. the name was short-lived. after the introduction of the next generation series, boeing introduced the boeing business jet (bbj) series. the bbj1 was similar in dimensions to the 737-700 but had additional features, including stronger wings and landing gear from the 737-800, and had increased range over the other 737 models through the use of extra fuel tanks. the first bbj rolled out on august 11, 1998, and flew for the first time on september 4.on october 11, 1999, boeing launched the bbj2. based on the 737-800, it is 19 feet 2 inches (5.84 m) longer than the bbj, with 25% more cabin space and twice the baggage space, but has slightly reduced range. it is also fitted with auxiliary belly fuel tanks and winglets. the first bbj2 was delivered on february 28, 2001.boeing's bbj3 is based on the 737-900er. the bbj3 has 1,120 square feet (104 m2) of floor space, 35% more interior space, and 89% more luggage space than the bbj2. it has an auxiliary fuel system, giving it a range of up to 4,725 nautical miles (8,751 km), and a head-up display. boeing completed the first example in august 2008. this aircraft's cabin is pressurized to a simulated 6,500-foot (2,000 m) altitude.
+
+
+=== boeing converted freighter program ===
+the boeing converted freighter program (bcf), or the 737-800bcf program, was launched by boeing in 2016. it converts old 737-800 passenger jets to dedicated freighters. the first 737-800bcf was delivered in 2018 to gecas, which is leased to west atlantic. boeing has signed an agreement with chinese yto cargo airlines to provide the airline with 737-800bcfs pending a planned program launch.
+
+
+== competition ==
+
+the boeing 737 classic, next generation and max series have faced significant competition from the airbus a320 family first introduced in 1988. the relatively recent airbus a220 family now also competes against the smaller capacity end of the 737 variants. the a320 was developed to compete also with the mcdonnell douglas md-80/90 and 95 series; the 95 later becoming the boeing 717. since july 2017, airbus had a 59.4% market share of the re-engined single aisle market, while boeing had 40.6%; boeing had doubts on over-ordered a320neos by new operators and expected to narrow the gap with replacements not already ordered. however, in july 2017, airbus had still 1,350 more a320neo orders than boeing had for the 737 max.boeing delivered 8,918 of the 737 family between march 1988 and december 2018, while airbus delivered 8,605 a320 family aircraft over a similar period since first delivery in early 1988.
+
+
+== operators ==
+
+
+=== civilian ===
+
+the 737 is operated by more than 500 airlines, flying to 1,200 destinations in 190 countries: over 4,500 are in service and at any given time there are on average 1,250 airborne worldwide. on average, somewhere in the world, a 737 took off or landed every five seconds in 2006. since entering service in 1968, the 737 has carried over 12 billion passengers over 74 billion miles (120 billion km; 65 billion nm), and has accumulated more than 296 million hours in the air. the 737 represents more than 25% of the worldwide fleet of large commercial jet airliners.
+
+
+=== military ===
+many countries operate the 737 passenger, bbj, and cargo variants in government or military applications. users with 737s include:
+
+
+=== orders and deliveries ===
+
+boeing delivered the 5,000th 737 to southwest airlines on february 13, 2006, the 6,000th 737 to norwegian air shuttle in april 2009, the 8,000th 737 to united airlines on april 16, 2014. the 10,000th 737 was ordered in july 2012, and rolled out on march 13, 2018, as over 4,600 orders were pending.by 2006, there were an average of 1,250 boeing 737s airborne at any given time, with two either departing or landing somewhere every five seconds.
+the 737 was the most commonly flown aircraft in 2008, 2009, and 2010.in 2016, there were  6,512 737 airliners in service (5,567 737ngs plus 945 737-200s and 737 classics), more than the 6,510 a320 family. in 2017, there were  6,858 737 airliners in service (5,968 737ngs plus 890 737-200s and classics), less than the 6,965 a320 family.the 737 had the highest, cumulative orders for any airliner until surpassed by the a320 family in october 2019. as of april 2021, 14,693 units of the boeing 737 family had been ordered, with 4,012 units to be delivered, or 3,239 when including "additional criteria for recognizing contracted backlog with customers beyond the existence of a firm contract" (asc 606 adjustment).
+
+
+=== model summary ===
+in 2019, 737 orders dropped by 90%, as 737 max orders dried up after the march grounding. the 737 max backlog fell by 182, mainly due to the jet airways bankruptcy, a drop in boeing's airliner backlog was a first in at least the past 30 years.
+
+
+== accidents and incidents ==
+
+as of january 2021, there has been a total of 502 aviation accidents and incidents involving all 737 aircraft, including 218 hull losses resulting in a total of 5,585 fatalities.a boeing analysis of commercial jet airplane accidents between 1959 and 2013 found that the hull loss rate for the original series was 1.75 per million departures, for the classic series 0.54, and the next generation series 0.27.during the 1990s, a series of rudder issues on series -200 and -300 aircraft resulted in multiple incidents. in two total loss accidents, united airlines flight 585 (a -200 series) and usair flight 427, (a -300), the pilots lost control of the aircraft following a sudden and unexpected deflection of the rudder, killing everyone aboard, a total of 157 people. similar rudder issues led to a temporary loss of control on at least five other 737 flights before the problem was ultimately identified. the national transportation safety board determined that the accidents and incidents were the result of a design flaw that could result in an uncommanded movement of the aircraft's rudder. as a result of the ntsb's findings, the federal aviation administration ordered that the rudder servo valves be replaced on all 737s and mandated new training protocols for pilots to handle an unexpected movement of control surfaces.following the crashes of two 737 max 8 aircraft, lion air flight 610 in october 2018 and ethiopian airlines flight 302 in march 2019, which caused 346 deaths, national aviation authorities around the world grounded the 737 max series.
+on december 16, 2019, boeing announced that it would suspend production of the 737 max from january 2020. production of the max series resumed on may 27, 2020.
+
+
+== aircraft on display ==
+
+owing to the 737's long production history and popularity, many older 737s have found use in museums after reaching the end of useful service.
+
+19437/1: 737-130 registered n515na on static display at the museum of flight in seattle, washington. it was the first 737 built and is painted in nasa markings.
+19047/14: 737-222 registered n9009u preserved by southern illinois university carbondale at southern illinois airport.
+20213/160: 737-201 registered n213us forward fuselage on static display at the museum of flight in seattle, washington, in usair livery.
+20561/292: 737-281 registered lv-wtx on static display at the national museum of aeronautics in morn, buenos aires.
+20562/293: 737-281 registered cc-csk fuselage preserved at motel baha in concn, chile.
+21262/470: 737-2h4 registered c-gwjt on static display at the british columbia institute of technology aerospace technology campus in richmond, british columbia. it is used for ground instructional training. the aircraft was donated by westjet and bears its livery.
+21340/499: 737-2h4 registered n29sw on static display at the kansas aviation museum in wichita, kansas. it was formerly operated by ryan international airlines and prior to that southwest airlines.
+21712/557: 737-275 registered c-gipw preserved in operational condition at alberta flying heritage museum in villeneuve, alberta. painted in pacific western airlines livery.
+22578/767: 737-290c registered n740as on static display at the alaska aviation heritage museum in anchorage, alaska. it was formerly operated by alaska airlines.
+22826/878: 737-2h4 registered yv1361 preserved at a hotel in santiago, chile. it was formerly operated by avior airlines.
+23059/980: 737-2z6 registered 22222 on static display at the royal thai air force museum in bangkok.
+22940/1037: 737-3h4 registered n300sw on static display at the frontiers of flight museum in dallas, texas. it was the first such aircraft delivered to southwest airlines in november 1984.
+23257/1124: 737-301 registered pk-awu on static display at ite college central in singapore.
+23472/1194: 737-219 registered zs-smd on static display at the south african airways museum in germiston, gauteng.
+23660/1294: 737-377 registered g-cels (nickname elsie) on static display at norwich international aviation academy, as an aircraft maintenance trainer. it is painted in the silver & red jet2.com colour scheme, without the logo branding.
+27286/2528: 737-3q8 registered n759ba on static display at the pima air & space museum in tucson, arizona. it is painted in china southern airlines markings, and was previously operated by the airline as b-2921.
+
+
+== specifications ==
+
+
+== see also ==
+
+related development
+
+aircraft of comparable role, configuration, and era
+
+
+== references ==
+
+
+=== citations ===
+
+
+=== bibliography ===
+
+
+== external links ==
+737 page on boeing.com
+the 737 story on flightinternational.com
+"737-200" (pdf). boeing. 2007.

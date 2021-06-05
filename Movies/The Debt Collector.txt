@@ -1,0 +1,159 @@
+debt collection is the process of pursuing payments of debts owed by individuals or businesses. an organization that specializes in debt collection is known as a collection agency or debt collector. most collection agencies operate as agents of creditors and collect debts for a fee or percentage of the total amount owed.
+
+
+== history ==
+
+debt collection has been around as long as there has been debt and is older than the history of money itself, as it existed within earlier systems based on bartering.  debt collection goes back to the ancient civilizations, starting in sumer in 3000 bc.  in these civilizations if a debt was owed that could not be paid back, the debtor and the debtor's spouse, children or servants were forced into "debt slavery", until the creditor recouped losses via their physical labor. under babylonian law, strict guidelines governed the repayment of debts, including several basic debtor protections.
+in some societies debts would be carried over into subsequent generations and debt slavery would continue.  however some early societies provided for periodic debt forgiveness such as a jubilees or would set a time limit on a debt.both the bible and quran issue stern restrictions regarding how much interest to charge on a loan.  the abrahamic religions discouraged lending and prohibited creditors from collecting interest on debts owed. by the middle ages, laws came into being to deal specifically with debtors.  if creditors were unable to collect a debt they could take the debtor to court and obtain a judgment against the debtor. this resulted in either the bailiff of the court going to the house of debtor and collecting goods in lieu of the debt, or the debtor being remitted to debtors prison until the debtor's family could pay off the debt or until the creditor forgave it.
+in occupied territories of the roman empire, tax collectors were frequently associated with extortion, greed, and abuse of power.
+in medieval england, a catchpole, formerly a freelance tax collector, was a legal official, working for the bailiff, responsible for collecting debts, using often coercive methods.during the great depression of the 1930s in the united states, large financial institutions relied heavily upon foreclosure to collect outstanding mortgage debts, which gained an overwhelmingly negative public perception.
+
+
+== debtors ==
+the person who owes the bill or debt is the debtor. debtors may fail to pay (default) for various reasons: because of a lack of financial planning or overcommitment on their part; due to an unforeseen eventuality such as the loss of a job or health problems; dispute or disagreement over the debt or what is being billed for; or dishonesty on the part of either the creditor or the debtor. the debtor may be either a person or an entity such as a company. collection of debts from individual people is subject to much more restrictive rules than enforcement against a business.
+
+
+=== development of debt collecting agencies ===
+
+once debtors prisons were abolished during the early 1800s, creditors had no solid recourse against delinquent debtors.
+if collateral was involved in the debt, such as with a mortgage, the creditor could take the property in order to indemnify themselves. however, for unsecured debt, creditors could not collect on their investments if the debtors had no money. even if a creditor obtains a judgment against the debtor in court, collection remains dependent on the debtor's being able to repay the judgment. in a transaction involving the sale of goods, the court could potentially order the goods to be seized and returned to the seller, but many lenders and creditors had limited recourse beyond trying to verify a borrower or customer's creditworthiness before entering into a loan or transaction.
+
+
+== types of debt collector ==
+there are many types of collection agencies. first-party agencies are often subsidiaries of the original company the debt is owed to. third-party agencies are separate companies contracted by a company to collect debts on their behalf for a fee. debt buyers purchase the debt at a percentage of its value, then attempt to collect it. each country has its own rules and regulations regarding them.
+
+
+=== first-party agencies ===
+some collection agencies are departments or subsidiaries of the company that owns the original debt. first-party agencies typically get involved earlier in the debt collection process and have a greater incentive to try to maintain a constructive customer relationship. because they are a part of the original creditor, first-party agencies may not be subject to legislation that governs third-party collection agencies.
+these agencies are called "first-party" because they are part of the first party to the contract (i.e. the creditor). the second party is the consumer (or debtor). typically, first-party agencies try to collect debts for several months before passing it to a third-party agency or selling the debt and writing off most of its value.
+
+
+=== third-party agencies ===
+a collection agency is a third-party agency, called such because such agencies were not a party to the original contract. the creditor assigns accounts directly to such an agency on a contingency-fee basis, which usually initially costs nothing to the creditor or merchant, except for the cost of communications. this however is dependent on the individual service level agreement (sla) that exists between the creditor and the collection agency. the agency takes a percentage of debts successfully collected; sometimes known in the industry as the "pot fee" or potential fee upon successful collection. this does not necessarily have to be upon collection of the full balance; very often this fee must be paid by the creditor if they cancel collection efforts before the debt is collected. the collection agency makes money only if money is collected from the debtor (often known as a "no collection - no fee" basis). depending on the type of debt, the age of the account and how many attempts have already been made to collect on it, the fee could range from 10% to 50% (though more typically the fee is 25% to 40%).some debt purchasers who purchase sizable portfolios use a master servicer to assist in managing their portfolios (often ranging in thousands of files) across multiple collection agencies. given the time-sensitive nature of these assets, many in the accounts receivable management (arm) industry believe there is a competitive advantage in utilizing this technique as it gives the debt purchaser more control and flexibility to maximize collections. master servicing fees may range from 4% to 6% of gross collections in addition to collection agency fees.
+some agencies offer a flat fee "pre-collection" or "soft collection" service. the service sends a series of increasingly urgent letters, usually ten days apart, instructing debtors to pay the amount owed directly to the creditor or risk a collection action and negative credit report. depending on the terms of the sla, these accounts may revert to "hard collection" status at the agency's regular rates if the debtor does not respond.in many countries there is legislation to limit harassment and practices deemed unfair, for example limiting the hours during which the agency may telephone the debtor, prohibiting communication of the debt to a third party, prohibiting false, deceptive or misleading representations, and prohibiting threats, as distinct from notice of planned and not illegal steps.
+in the united states, consumer third-party agencies are subject to the federal fair debt collection practices act of 1977 (fdcpa), which is administered by the federal trade commission (ftc).
+in the united kingdom third-party collection agencies that pursue debts regulated by the consumer credit act must be approved and regulated by the financial conduct authority.
+
+
+=== sale of debts ===
+debt collection may involve the sale of a debt to a third party company, sometimes referred to as a "factor" or "debt buyer". the debt buyer purchases accounts and debts from creditors for a percentage of the value of the debt and may subsequently pursue the debtor for the full balance due, including any interest that accrues under the terms of the original loan or credit agreement. the sale of debts and accounts provides a creditor with immediate revenue, albeit reduced from the face value of the debt, while shifting the work and risk of debt collection to the debt buyer.in the united states during the savings and loan crisis of the 1980s, there was a huge resurgence of foreclosures and written-off accounts, similar, although on a much smaller scale, to that of the great depression. some financial innovators decided that there may be some profit in buying up delinquent accounts and attempting to collect a small portion of the amount due. they purchased these accounts from the original lenders at pennies on the dollar, and turned profit by collecting a fraction of what was owed by the debtor.
+some states have specific laws regarding debt buying.  for example, massachusetts requires companies that buy debt to be licensed whereas california does not.
+
+
+== collection practices ==
+debt collectors who work on commission may be highly motivated to convince debtors to pay the debt. these practices may be regulated by the nation in which the collection activity occurs. collection agencies are sometimes allowed to contact individuals other than the debtor, usually in an attempt to locate the debtor but without mentioning the debt.
+at times a person with no connection to the debt or the debtor may be contacted by a collector by error. examples include victims of identity theft and people erroneously targeted due to a similar name. alternatively, the alleged debtor may dispute that the debt is payable. in such cases the alleged debtor can require that the collector or creditor prove that the debt is payablein no jurisdiction does a debt exist merely because a collector says so.
+relatives of deceased people do not necessarily themselves have to pay the debts of the deceased, but debts must be paid by the deceased person's estate. however, where a deceased person is the co-owner of property that is secured by their debt, it may be possible for the creditor to force the sale of the property to satisfy the debt.
+international debt collection is a specialised field. not many companies specialize in this sort of collection as collection may require that their employees communicate in multiple languages and have a knowledge of the legal systems, laws and regulations of all nations in which they operate. communication with a foreign debtor may occur in a language different from that used in the creditor's nation. some debt collectors will network or partner with foreign debt collection agencies, with each agency involved in the collection process being familiar with the laws and languages of the nation in which it operates, allowing debt collection to occur through a local agency even when the debtor is in a different nation.
+
+
+=== collection account ===
+a collection account is a person's loan or debt that has been submitted to a collection agency through a creditor.
+
+
+=== credit record ===
+a credit record is a record of the credit history of a person or business entity, potentially including payment history, default and bankruptcy. information about debts, late payments and default may be placed by a borrower's credit record, and usually remain for several years. reports to credit reporting agencies may not necessarily be properly authenticated or checked for accuracy.
+
+
+=== re-aging of debt ===
+in some instances, a debt collector will attempt to revive a debt that has expired due to the statute of limitations by themselves making a payment on the debt, "to re-age the account in order to have more time to collect". such a payment, usually in a relatively small amount, may appear on a credit card statement as an "agency payment" or "transactional payment", and may also be referred to as a "phantom payment" since it is made by the collection agency, without the knowledge or permission of the debtor. because this payment is not made by the debtor, an agency payment does not extend the statute of limitations beyond the last date when the debtor personally made a payment on the debt, and will likely be disregarded by a court when a debtor claims that the debt is expired under an applicable statute of limitations.
+
+
+== regulation of debt collection ==
+
+
+=== canada ===
+in canada, regulation is provided by the province or territory in which they operate.
+the law is typically called the collection agencies act and usually affords a government ministry power to make regulations as needed. regulations include calling times, frequency of calls and requirements for mailing correspondence prior to making telephone contact. most debts in ontario and alberta are subject to a limitation period of two years. in most other provinces the limitation period is six years. after the corresponding (two or six, depending on province) anniversary of the last formal intention to pay the debt, neither the collection agency nor anyone else has legal authority to collect it.  credit bureaus will retain both the debt and collection history on the debtor's credit file for 67 years, depending on province. although the collection agency can continue to collect or attempt to collect the debt, they cannot garnish or place a lien on the debtor past the limitation period unless the court upholds a new date of last activity on the account based on other factors. further information may be found in the regulations for the province of ontario relating to on prohibited debt collection practices.in manitoba, the governing document is the manitoba consumer protection act. complaints regarding violations of the act should be directed to the manitoba consumer protection board who will either mediate or enforce the act when it is broken.
+province-specific statutes:
+alberta  collection practices act
+british columbia  business practices and consumer protection act
+manitoba  consumer protection act
+new brunswick  collection agencies act
+newfoundland and labrador  collections act
+nova scotia  collection agencies act
+ontario  collection agencies act and debt collectors act
+prince edward island  collection agencies act
+quebec  act respecting the collection of certain debts
+saskatchewan  collection agents act
+
+
+=== spain ===
+if talking to the debtor is unfruitful, a creditor can write a letter to the debtor outlining the following details:
+
+the holder of the debt
+the amount of the debt
+the purpose of the debt
+previous steps taken to recover the debt
+steps that will be taken to recover the debt
+a date by which payment of the debt is expected (a minimum of seven days)
+a request for any disputed issues to be put in writingthe assignment of the claim against the debt shall not be effective if the assigned debt is not real, legitimate, receivable arises from a crime or the debtor is a public institution, political party or homeless individual.
+a collection agency is usually better and faster. some dress in costumes just to underline the message.
+
+
+=== united arab emirates ===
+pursuant to the uae laws for financial debt collection, an extrinsic value asset needs to be shown to the creditor or the bank. that makes sure that if the debtor does not pay the unpaid invoices, his extrinsic asset can be taken by the creditor. if the debtor does not provide an extrinsic asset or pay back the financial amount, he is accountable to the civil and criminal liabilities.according to the uae financial laws, it is stated under the article 401 of the penal code that if the person provides a bounced cheque, he shall be fined for this criminal activity or given the punishment of imprisonment.as a creditor, you should communicate with the bank to know if the defaulter lacked funds before the provision of the cheque. if that is true, then a case is filed in the police station against the defaulter, after which they will investigate the matter and referred to the public prosecutor office. also, you should know that the report cannot be filed after six months of the cheque issuance.
+the public prosecutor takes the case in its hand and investigates from both sides (creditor and debtor) for clarity of the case of bounced cheque. upon the investigation, it is then decided if the defaulter has to pay the bail "kafala" as to pay the amount of the asset of that worth the amount or deposit his passport. if the bail does not happen, then the defaulter is put behind the bars.
+
+
+=== united kingdom ===
+in the uk, debt collection agencies are licensed and regulated by the financial conduct authority (fca). the fca sets guidelines on how debt collection agencies can operate and lists examples of unfair practices. these guidelines are not law but they represent a summary and interpretation of various legal areas. compliance with these guidelines are also used as a test of whether the agency is considered fit to hold a credit licence.
+examples of unfair practices include misrepresenting enforcement powers (e.g., claiming that property may be seized), falsely claiming to be acting in an official capacity, harassment, claiming unenforceable or excessive charges, misrepresenting the legal position to a debtor, and falsely claiming that a court judgement has been obtained when it has not. the legal basis for these practices comes from section 40 of the administration of justice act 1970.collection agencies and their debt collectors in the uk are not the same as court-appointed bailiffs.
+
+
+==== scotland ====
+collection agencies and debt collectors based in the uk are permitted to invite debtors to attempt to repay debts but have no statutory authority in law to enforce debts unless they obtain a decree (scottish term for judgement) against the debtor, although enforcement of the decree is carried out, usually under instruction of a creditor or their appointed agent, by a sheriff officer or a messenger-at-arms. likewise the creditor may move to inhibit, attach or arrest in the hands of a third party with the assistance of an officer of the court. scotland does not have a pre-action protocol and creditor agents need only be licensed if pursuing a consumer debt that is protected under the consumer credit act.
+
+
+=== united states ===
+within the united states, debt collection and debt collectors are subject to both state and federal regulation. within the federal government, the federal trade commission is the primary federal regulator of collection agencies. the bureau of consumer financial protection, housed within the u.s. federal reserve, also has regulatory power over collection agencies. the cfpb announced on 24 october 2012, that it had finalized the rule for supervising debt collection agencies and debt buyers under a definition that would include about 175 u.s. companies.many u.s. states and a few cities require collection agencies be licensed and/or bonded. in addition, many states have laws regulating debt collection, to which agencies must adhere (see fair debt collection).
+
+
+==== fair debt collection practices act ====
+
+the fair debt collection practices act (fdcpa) is the primary federal law governing debt collection practices. the fdcpa allows aggrieved consumers to file private lawsuits against a collection agency that violates the act. alternatively, the federal trade commission or a state attorney general may take action against a noncompliant collection agency and, in the event a violation is found, may impose penalties including fines, damages, restriction of the debt collector's operations or closing down its operations, as occurred with camco in 2006. between 2010 and 2016 the federal trade commission banned more than 60 companies that did not follow the fair debt collection practices act.the fdcpa specifies that if a state law is more restrictive than the federal law, the state law will supersede the federal portion of the act. thus, the more restrictive state laws will apply to any agency that is located in that state or makes calls to debtors inside such a state.
+among the protections provided by the fdcpa are the following:
+
+a debtor has the right to request written validation of the debt;
+a debtor may demand that the collector cease communication. section 809 of the act directs that for disputed debts "the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt". when consumers resort to lawsuits against collectors who fail to verify debts, the collector is liable for the complainant's legal costs if the debt is found to be bogus.
+a debt collection may not place a call to the debtor if the call will cost the debtor toll charges (in most other countries recipients of telephone calls are not charged, so this issue does not arise).
+limits are placed on the time of day that debt collection calls can be made, to whom, and where. if a person answers, the call center may track statistics (e.g., the times and days when someone answers) in order to place calls at times when the debtor is more likely to be home; typically this is done by an automated dialing system between the times of 8 a.m. and 9 p.m. local standard time. the collector may not use illegal and deceptive practices (e.g., threatening the debtor with arrest or impersonating law enforcement).
+the collector cannot use obscene language and must inform the debtor of the nature of the call, their name, and the name of the collection company when requested.
+collectors must state their name and must give the name of their employer if the person specifically asks. they may only contact each person once, unless it is believed that the person gave the collector incorrect or incomplete information at the time, but now has complete or updated information.collectors may contact a debtor at the workplace unless the collector has been informed the employer prohibits such calls. the fdcpa allows a collector to call a neighbor or relative for help in locating the debtor, but they may only ask for "address, home phone number, and place of work" and are "not permitted to discuss [the] debt with anyone other than [the debtor], [their] spouse, or [their] attorney". the debtor may grant a debt collector permission to the collection agency to speak to other people, but otherwise contact with an unauthorized person violates the fdcpa.
+
+
+==== fair credit reporting act ====
+
+in the united states, the fair credit reporting act (fcra) is a federal law that regulates the manner in which consumer credit reporting agencies may maintain credit information. among the protections the fcra offers to consumers:
+
+if an error occurs in the reporting of debt, the credit reporting agencies and information suppliers have a 21-day safe harbor period to correct the error and the safe harbor period can be used as an affirmative defense in a lawsuit.
+if a debtor pays off a collection account, the item may remain on the debtor's credit report but must be marked "paid".
+if information about debt that appears on a credit report is disputed by the debtor, the credit reporting agency must investigate the dispute. unless the dispute is deemed frivolous, the credit reporting agency must normally complete its investigation within thirty days.
+
+
+==== voluntary standards ====
+in addition to state and federal laws, many u.s. collection agencies belong to trade association called aca international and agree to abide by its code of ethics as a condition of membership. aca's standards of conduct require its members to treat consumers with dignity and respect, and to appoint an officer with sufficient authority to handle consumer complaints. consumers may attempt to resolve disputes with a collection agency who is a member of aca through that organization's consumer complaint resolution program.
+
+
+== see also ==
+bankruptcy
+credit risk
+debt relief
+forensic corporate collections
+distraint  "the seizure of someones property in order to obtain payment of rent or other money owed"
+dunning (process)
+tax refund interception
+predictive analytics
+repossession
+
+
+== references ==
+
+
+== external links ==
+national association of collection agents (naca).
+debt collection in uk
+fair debt collection practices act - federal trade commission.
+bill and account collectors - u.s. department of labor, bureau of labor statistics.
+aca international, the association of credit and collection professionals.
+"inside the dark, labyrinthine, and extremely lucrative world of consumer debt collection", the new york times

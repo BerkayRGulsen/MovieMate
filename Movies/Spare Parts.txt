@@ -1,0 +1,66 @@
+spare parts is a 2015 american drama film directed by sean mcnamara and produced by david alpert, rick jacobs, leslie kolins small, george lopez, and ben odell. it is based on the wired magazine article "la vida robot" by joshua davis, about the true story of a group of students from a mainly latino high school, who won the first place over m.i.t. in the 2004 mate rov competition. the film was released by lions gate entertainment on january 16, 2015.
+
+
+== plot ==
+in 2004, four latino teenagers arrive at the marine advanced technology education robotics competition at the university of california, santa barbara (uscb); born in mexico, raised in phoenix, arizona, where they attend an underfunded public high school.
+oscar vazquez goes to an armed forces career center to enlist into the u.s. army; while he is waiting for his interview, he sees a video announcement and brochures about a marine underwater robotics competition, an event sponsored by nasa and the united states armed forces. although he distinguishes himself as part of the carl hayden high school junior reserve officer training corps, he is forbidden to join because of his status as an undocumented immigrant; he is recommended not to present himself to any government office to avoid being reported to the immigration and customs enforcement (ice) agency. vazquez lies to his mother about his progress in the army; looking for another way to move ahead in life, he investigates the underwater robotics competition.
+with no previous formal teaching experience and between jobs, fredi cameron interviews for a vacant substitute teacher position at carl hayden high school. the principal questions his job stability record, but eventually hires cameron because of his phd and engineer credentials. after the interview, while in the school's parking lot, lorenzo santillan overrides cameron's car temperature safety sensor for $20 to avoid a more costly repair job.
+as part of his normal teaching responsibilities, cameron is assigned to oversee an engineering club, where he meets vazquez, who is looking for help to build a remotely operated underwater robot for the ucsb robotics competition. cameron grudgingly accepts to help, even though he doesn't feel he is going to remain at the school for long.
+vazquez, looking for more kids to join the engineering club, talks to teacher gwen kolinsky, who recommends cristian arcega. after agreeing to help, arcega takes the technical lead of the project and sketches an early design of the potential robot. before starting to build it, cameron suggests a prototype so they can do a proof of concept model.
+cameron starts to learn about the competition rules and requirements, which demands the robot to successfully complete a series of underwater tasks. kolinsky offers to help teaching him about the pbasic programming language, to implement the robot's intelligence module.
+after catching santillan stealing from the principal's car, cameron forces him to join the team and the now named robotics academic club, so he can help with the mechanical design and building of the prototype. they later recruit luis aranda, for being strong enough to help lift the machine in and out of the pool.
+because of a lack of funds to see the project through, the team starts looking for spare parts and asking for donations from the local businesses, which raise $663.53, plus $134.63 given by cameron himself. the small budget forces them to scale back the original design and to innovate in how the robot is constructed, including the glue which gives the robot its name, "stinky".
+needing to go from phoenix to santa barbara creates problems because three of the four boys were undocumented immigrants from mexico. the day before the competition, they have to fix a critical electrical problem, due to a leak in the case that protected the intelligence module, by using tampons to contain the water.
+they face several highly funded college teams; the team from mit is backed by a $10,000 grant from exxonmobil. the phoenix teenagers scraped together less than $1,000 and built their robot out of scavenged parts. yet their robot finishes the practical segment of the competition in fourth place with 75 points after missing three tasks. they are still hopeful for a chance to make it into third place because 30% of the total score would be based on the judges' technical evaluation and interview of the teams.
+the night of the awards ceremony, they are given a special achievement award, which the team assumes is their final result. they are later surprised when they are announced as the champions of the event.
+
+
+== cast ==
+george lopez as fredi cameron
+jamie lee curtis as principal karen lowry
+marisa tomei as gwen kolinsky
+carlos penavega as oscar vazquez
+jos julin as lorenzo santillan
+david del rio as cristian arcega
+esai morales as mr. pablo santillan
+oscar gutierrez as luis aranda
+alexa penavega as karla
+alessandra rosaldo as mrs. vazquez
+aubrey k. miller as maddy kolinsky
+
+
+== production ==
+spare parts is the first production under lopez's recently announced film and tv deal with pantelion films and south shore, the film and tv venture between lionsgate and latin american media giant televisa. much of the shooting of the film was done on location in albuquerque, new mexico.
+
+
+== reception ==
+
+
+=== box office ===
+spare parts cost $3.6 million. the film opened in north america on january 16, 2015, earning $1.3 million on its opening weekend and finishing 17th at the box office.
+
+
+=== critical reception ===
+on rotten tomatoes, the film holds an approval rating of 56% based on 32 reviews, with an average rating of 5.5/10. the site's critics consensus reads: "spare parts is effective enough to do in a pinch for inspirational sports drama fans - although most of them will have seen these story beats hit more powerfully before." according to metacritic, which calculated a weighted average score of 50 out of 100 based on 15 critics, the film received "mixed or average reviews".
+
+
+== differences between real life and film ==
+although spare parts was based on real life events surrounding the formation and competition of a group of high school kids, there were creative liberties taken by the filmmakers in order to complete the story.
+in real life, the explorer division of the competition was not dominated by private universities, as in the movie. in fact, its entrants consisted of four high schools (including carl hayden), four community colleges, two public universities, and mit. three of the teams depicted in the moviecornell, virginia tech, and dukedid not enter the 2004 mate competition at all. they instead entered the 2004 robosub competition, where remote control was not allowed. all vehicles were required to be fully autonomous, navigating using sensors and software algorithms. in that competition, another team from mit received first place, followed by cornell in second.
+in addition, the students were led by teachers fredi lajvardi and allan cameron and not just one as depicted in the film. the teachers are not of hispanic descent.
+
+
+== other media ==
+there is also a book with the same title (isbn 978-0374534981) and a documentary named underwater dreams, that chronicle the story of the carl hayden team.
+
+
+== references ==
+
+
+== external links ==
+la vida robot wired magazine
+the true story behind spare parts
+spare parts at imdb
+spare parts at box office mojo
+spare parts at rotten tomatoes
+spare parts at metacritic

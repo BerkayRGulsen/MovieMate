@@ -1,0 +1,129 @@
+apollo 13 is a 1995 american space docudrama film directed by ron howard and starring tom hanks, kevin bacon, bill paxton, ed harris and gary sinise. the screenplay by william broyles jr. and al reinert dramatizes the aborted 1970 apollo 13 lunar mission and is an adaptation of the 1994 book lost moon: the perilous voyage of apollo 13,  by astronaut jim lovell and jeffrey kluger. the film depicts astronauts lovell, jack swigert and fred haise aboard apollo 13 for america's fifth crewed mission to the moon, which was intended to be the third to land. en route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces nasa's flight controllers to abort the moon landing and turns the mission into a struggle to get the three men home safely.
+howard went to great lengths to create a technically accurate movie, employing nasa's assistance in astronaut and flight-controller training for his cast and obtaining permission to film scenes aboard a reduced gravity aircraft for realistic depiction of the weightlessness experienced by the astronauts in space.
+released to cinemas in the united states on june 30, 1995, apollo 13 received critical acclaim and was nominated for nine academy awards, including best picture (winning for best film editing and best sound). the film also won the screen actors guild award for outstanding performance by a cast in a motion picture, as well as two british academy film awards. in total, the film grossed over $355 million worldwide during its theatrical releases.
+
+
+== plot ==
+on july 20, 1969, astronaut jim lovell hosts a house party where guests watch neil armstrong's televised first human steps on the moon from apollo 11. afterward, lovell, who had orbited the moon on apollo 8 in december 1968, tells his wife marilyn that he intends to return to the moon to walk on its surface.
+three months later, as lovell conducts a vip tour of nasa's vehicle assembly building, his boss deke slayton informs him that because of problems with alan shepard's crew, his crew will fly apollo 13 instead of apollo 14. lovell, ken mattingly, and fred haise train for their new mission. a few days before launch, mattingly is exposed to german measles, and the flight surgeon demands his replacement with mattingly's backup, jack swigert. lovell resists breaking up his team but relents when slayton threatens to bump his crew to a later mission. marilyn has a nightmare about her husband getting killed in space as the launch date approaches but goes to the kennedy space center the night before launch to see him off.
+on april 11, 1970, flight director gene kranz gives the go-ahead from houston's mission control center for the apollo 13 launch. as the saturn v rocket climbs through the atmosphere, a second stage engine cuts off prematurely, but the craft reaches its earth parking orbit. after the third stage fires to send apollo 13 to the moon, swigert performs the maneuver to connect the command module odyssey to the lunar module aquarius and pull it away from the spent rocket.
+three days into the mission, the crew makes a television transmission, which the networks decline to broadcast live. after swigert turns on the liquid oxygen tank stirring fans as requested by mission control, one of the tanks explodes, emptying its contents into space and sending the craft tumbling. the other tank is soon found to be leaking. they attempt to stop the leak by shutting off fuel cells #1 and #3, but to no avail. with the fuel cells closed, the moon landing must be aborted. lovell and haise must hurriedly power up aquarius to use as a "lifeboat" for the return to earth, as swigert shuts down odyssey before its battery power runs out. in houston, kranz rallies his team to come up with a plan to bring the astronauts home safely, declaring "failure is not an option." controller john aaron recruits mattingly to help him invent a procedure to restart odyssey for the landing on earth.
+as swigert and haise watch the moon pass beneath them, lovell laments his lost chance of walking on its surface, then turns their attention to the business of getting home. with aquarius running on minimal electrical power, the crew suffers freezing conditions, and haise begins to feel ill and runs a moderate fever. swigert suspects mission control is withholding their inability to get them home; haise angrily blames swigert's inexperience for the accident, and lovell quickly squelches the argument. when carbon dioxide approaches dangerous levels, ground control must quickly invent a way to make the command module's square filters work in the lunar module's round receptacles. with the guidance systems on aquarius shut down, the crew must make a difficult but vital course correction by manually igniting the lunar module's engine.
+mattingly and aaron struggle to find a way to turn on the command module systems without drawing too much power, and finally transmit the procedure to swigert, who restarts odyssey by transferring extra power from aquarius. when the crew jettisons the service module, they are surprised to see the extent of the damage, bringing on a new fear that the heat shield was damaged from the explosion. as they release aquarius and re-enter the earth's atmosphere, no one is sure that odyssey's heat shield is intact. the tense period of radio silence due to ionization blackout is longer than normal, but the astronauts report all is well, everyone around the world celebrates their safe return and watch odyssey splash down in the pacific ocean.
+as helicopters bring the three men aboard the recovery ship uss iwo jima for a hero's welcome, lovell's voice-over describes the subsequent investigation into the explosion, and the careers of haise, swigert, mattingly, and kranz. he wonders if and when mankind will return to the moon.
+
+
+== cast ==
+
+apollo flight crew:
+
+tom hanks as apollo 13 commander jim lovell: jim lovell stated that before his book lost moon was even written, the movie rights were being shopped to potential buyers and that his first reaction was that kevin costner would be a good choice to play him. however, by the time howard acquired the director's position, costner's name never came up in serious discussion, and hanks had already been interested in doing a film based on apollo 13. when hanks' representative informed him that a script was being passed around, he had the script sent to him. john travolta was initially offered the role of lovell, but declined.
+kevin bacon as apollo 13 backup command module pilot jack swigert
+bill paxton as apollo 13 lunar module pilot fred haisemission control:
+
+ed harris as white team flight director gene kranz: harris described the film as "cramming for a final exam." harris described gene kranz as "corny and like a dinosaur", but respected by the crew. apollo 13 would be harris' second space travel-themed movie; he had starred as pioneering astronaut john glenn in 1983's the right stuff.
+gary sinise as apollo 13 prime command module pilot ken mattingly: sinise was invited by howard to read for any of the characters, and chose mattingly.
+chris ellis as director of flight crew operations deke slayton
+joe spano as "nasa director", a composite character loosely based on chris kraft
+marc mcclure as black team flight director glynn lunney
+clint howard as white team electrical, environmental and consumables manager (eecom) sy liebergot
+ray mckinnon as white team flight dynamics officer (fido) jerry bostick
+todd louiso as white team flight activities officer (fao)
+loren dean as eecom john aaron
+jim meskimen as white team telemetry, electrical, eva mobility unit officer (telmu)
+david andrews as apollo 12 commander pete conrad
+christian clemenson as flight surgeon dr. charles berry
+ben marley as apollo 13 backup commander john young
+brett cullen as capsule communicator (capcom) 1
+ned vaughn as capcom 2
+carl gabriel yorke as sim (simulator) 1
+arthur senzy as sim 2civilians:
+
+kathleen quinlan as marilyn gerlach lovell, jim's wife
+xander berkeley as henry hurt, a fictional nasa office of public affairs staff member
+tracy reiner as haise's wife mary
+michele little as jane conrad
+mark wheeler as neil armstrong, apollo 11 commander
+larry williams as buzz aldrin, apollo 11 lunar module pilot
+mary kate schellhardt as lovell's older daughter barbara
+max elliott slade as lovell's older son james (jay), who attended military school at the time of the flight
+emily ann lloyd as lovell's younger daughter susan
+miko hughes as lovell's younger son jeffreythe real jim lovell appears as captain of the recovery ship uss iwo jima; howard had intended to make him an admiral, but lovell himself, having retired as a captain, chose to appear in his actual rank. horror film director roger corman, a mentor of howard, appears as a congressman being given a vip tour by lovell of the vehicle assembly building, as it had become something of a tradition for corman to make a cameo appearance in his protgs' films. the real marilyn lovell appeared among the spectators during the launch sequence. cbs news anchor walter cronkite appears in archive news footage and can be heard in newly recorded announcements, some of which he edited himself to sound more authentic.in addition to his brother, clint howard, several other members of ron howard's family appear in the movie:
+
+rance howard (his father) appears as the lovell family minister.
+jean speegle howard (his mother) appears as lovell's mother blanch.
+cheryl howard (his wife) and bryce dallas howard (his daughter) appear as uncredited background performers in the scene where the astronauts wave goodbye to their families.brad pitt was offered a role in the film, but turned it down to star in se7en.  reportedly, the real pete conrad expressed interest in appearing in the film.jeffrey kluger appears as a television reporter.
+
+
+== production ==
+
+
+=== preproduction and props ===
+the screenplay by william broyles jr. and al reinert was rewritten by john sayles after tom hanks had been cast and construction of the spacecraft sets had begun. producers had written the role of jim lovell with kevin costner in mind because of his facial similarities with the main character. ultimately, hanks was cast instead in that role because of his knowledge of apollo and space histories.while planning the film, director ron howard decided that every shot of the film would be original and that no mission footage would be used. the spacecraft interiors were constructed by the kansas cosmosphere and space center's space works, which also restored the apollo 13 command module. two individual lunar modules and two command modules were constructed for filming. while each was a replica, composed of some of the original apollo materials, they were built so that different sections were removable, which enabled filming to take place inside the capsules. space works also built modified command and lunar modules for filming inside a boeing kc-135 reduced-gravity aircraft, and the pressure suits worn by the actors, which are exact reproductions of those worn by the apollo astronauts, right down to the detail of being airtight. when suited up with their helmets locked in place, the actors were cooled by air pumped into the suits, and so that they could breathe, exactly as in launch preparations for the real apollo missions.the real mission control center consisted of two control rooms located on the second and third floors of building 30 at the johnson space center in houston, texas. nasa offered the use of the control room for filming, but howard declined, opting instead to make his own replica from scratch. production designer michael corenblith and set decorator merideth boswell were in charge of the construction of the mission control set at universal studios. the set was equipped with giant rear-screen projection capabilities and a complex set of computers with individual video feeds to all the flight controller stations. the actors playing the flight controllers were able to communicate with each other on a private audio loop. the mission control room built for the film was on the ground floor. one nasa employee, who was a consultant for the film, said that the set was so realistic that he would leave at the end of the day and look for the elevator before remembering he was not in mission control. by the time the film was made, the uss iwo jima had been scrapped, so her sister ship, the uss new orleans, was used as the recovery ship instead.
+
+howard anticipated difficulty in portraying weightlessness in a realistic manner. he discussed this with steven spielberg, who suggested using a kc-135 airplane, which can be flown in such a way as to create about 23 seconds of weightlessness, a method nasa has always used to train its astronauts for space flight. howard obtained nasa's permission and assistance in filming in the realistic conditions aboard multiple kc-135 flights.
+
+
+=== cast training and filming ===
+in los angeles, ed harris and all the actors portraying flight controllers enrolled in a flight controller school led by gerry griffin, an apollo 13 flight director, and flight controller jerry bostick. the actors studied audiotapes from the mission, reviewed hundreds of pages of nasa transcripts, and attended a crash course in physics.  astronaut dave scott was impressed with their efforts, stating that each actor was determined to make every scene technically correct, word for word. scott was the chief technological consultant for the film.
+
+
+== soundtrack ==
+the score to apollo 13 was composed and conducted by james horner. the soundtrack was released in 1995 by mca records and has seven tracks of score, eight period songs used in the film, and seven tracks of dialogue by the actors at a running time of nearly seventy-eight minutes. the music also features solos by vocalist annie lennox and tim morrison on the trumpet. the score was a critical success and garnered horner an academy award nomination for best original score.
+all music is composed by james horner, except where noted.
+
+
+== release ==
+the film was released on june 30, 1995 in north america and on september 22, 1995 in the uk.
+in september 2002 the film was re-released in imax. it was the first film to be digitally remastered using imax dmr technology.
+
+
+=== box-office performance ===
+the film was a box-office success, bringing in $355,237,933 worldwide. the film's widest release was 2,347 theaters.
+the film's opening weekend and the following two weeks placed it at #1 with a us gross of $25,353,380, which made up 14.7% of the total us gross.
+
+
+=== reception ===
+review aggregator rotten tomatoes reports that the film has an overall approval rating of 96%, based on 92 reviews, with a weighted average rating of 8.17/10. the site's critical consensus reads, "in recreating the troubled space mission, apollo 13 pulls no punches: it's a masterfully told drama from director ron howard, bolstered by an ensemble of solid performances." metacritic, which assigns a normalized rating to reviews from mainstream critics, gave the film an average score of 77 out of 100, based on 22 critics, indicating "generally favorable reviews". audiences surveyed by cinemascore gave the film a grade "a" on scale of a+ to f.roger ebert of the chicago sun-times praised the film in his review saying: "a powerful story, one of the year's best films, told with great clarity and remarkable technical detail, and acted without pumped-up histrionics." richard corliss of time highly praised the film, saying: "from lift-off to splashdown, apollo 13 gives one hell of a ride." edward guthmann of san francisco chronicle gave a mixed review and wrote: "i just wish that apollo 13 worked better as a movie, and that howard's threshold for corn, mush and twinkly sentiment weren't so darn wide." peter travers of rolling stone praised the film and wrote: "howard lays off the manipulation to tell the true story of the near-fatal 1970 apollo 13 mission in painstaking and lively detail. it's easily howard's best film."janet maslin made the film an nyt critics' pick, calling it an "absolutely thrilling" film that "unfolds with perfect immediacy, drawing viewers into the nail-biting suspense of a spellbinding true story." according to maslin, "like quiz show, apollo 13 beautifully evokes recent history in ways that resonate strongly today. cleverly nostalgic in its visual style (rita ryack's costumes are especially right), it harks back to movie making without phony heroics and to the strong spirit of community that enveloped the astronauts and their families. amazingly, this film manages to seem refreshingly honest while still conforming to the three-act dramatic format of a standard hollywood hit. it is far and away the best thing mr. howard has done (and far and away was one of the other kind)." the academic critic raymond malewitz focuses on the diy aspects of the "mailbox" filtration system to illustrate the emergence of an unlikely hero in late 20th-century american culture"the creative, improvisational, but restrained thinkerwho replaces the older prodigal cowboy heroes of american mythology and provides the country a better, more frugal example of an appropriate 'husband'."marilyn lovell praised quinlan's portrayal of her, stating she felt she could feel what quinlan's character was going through, and remembered how she felt in her mind.
+
+
+=== home media ===
+a 10th-anniversary dvd of the film was released in 2005; it included both the theatrical version and the imax version, along with several extras.  the imax version has a 1.66:1 aspect ratio.in 2006, apollo 13 was released on hd dvd and on april 13, 2010 it was released on blu-ray as the 15th-anniversary edition on the 40th anniversary of the apollo 13 accident. the film was released on 4k uhd blu-ray on october 17, 2017.
+
+
+== accolades ==
+
+
+== technical and historical accuracy ==
+
+the film depicts the crew hearing a bang quickly after swigert followed directions from mission control to stir the oxygen and hydrogen tanks. in reality, the crew heard the bang 95 seconds later.the film portrays the saturn v launch vehicle being rolled out to the launch pad two days before launch. in reality, the launch vehicle was rolled out on the mobile launcher using the crawler-transporter two months before the launch date.the movie depicts swigert and haise arguing about who was at fault.  the show the real story: apollo 13 broadcast on the smithsonian channel includes haise stating that no such argument took place and that there was no way anyone could have foreseen that stirring the tank would cause problems.the dialogue between ground control and the astronauts was taken nearly verbatim from transcripts and recordings, with the exception of one of the taglines of the film, "houston, we have a problem." (this quote was voted #50 on the list "afi's 100 years... 100 movie quotes".) according to audio of the air-to-ground communications, the actual words uttered by jack swigert were "okay, houston, we've had a problem here". ground control responded by saying, "this is houston. say again, please." jim lovell then repeated, "houston, we've had a problem."one other incorrect dialogue is after the re-entry blackout. in the movie, tom hanks (as lovell) says "hello houston... this is odyssey... it's good to see you again." in the actual re-entry, the command module's transmission was finally acquired by a sikorsky sh-3d sea king recovery helicopter which then relayed communications to mission control. capcom and fellow astronaut joe kerwin (not mattingly, who serves as capcom in this scene in the movie) then made a call to the spacecraft "odyssey, houston standing by. over." jack swigert, not lovell, replied "okay, joe," and unlike in the movie, this was well before the parachutes deployed; the celebrations depicted at mission control were triggered by visual confirmation of their deployment.the tagline "failure is not an option", stated in the film by gene kranz, also became very popular, but was not taken from the historical transcripts. the following story relates the origin of the phrase, from an e-mail by apollo 13 flight dynamics officer jerry bostick:
+
+as far as the expression "failure is not an option," you are correct that kranz never used that term. in preparation for the movie, the script writers, al reinart and bill broyles, came down to clear lake to interview me on "what are the people in mission control really like?" one of their questions was "weren't there times when everybody, or at least a few people, just panicked?" my answer was "no, when bad things happened, we just calmly laid out all the options, and failure was not one of them. we never panicked, and we never gave up on finding a solution." i immediately sensed that bill broyles wanted to leave and assumed that he was bored with the interview. only months later did i learn that when they got in their car to leave, he started screaming, "that's it! that's the tag line for the whole movie, failure is not an option. now we just have to figure out who to have say it." of course, they gave it to the kranz character, and the rest is history.
+in the film, flight director gene kranz and his white team are portrayed as managing all of the essential parts of the flight, from liftoff to landing.  consequently, the actual role of the other flight directors and teams, especially glynn lunney and his black team, were neglected.  in fact, it was flight director lunney and his black team who got apollo 13 through its most critical period in the hours immediately after the explosion, including the mid-course correction that sent apollo 13 on a "free return" trajectory around the moon and back to the earth.  astronaut ken mattingly, who was replaced as apollo 13 command module pilot at the last minute by jack swigert, later said:
+
+if there was a hero, glynn lunney was, by himself, a hero, because when he walked in the room, i guarantee you, nobody knew what the hell was going on.  glynn walked in, took over this mess, and he just brought calm to the situation.  i've never seen such an extraordinary example of leadership in my entire career.  absolutely magnificent.  no general or admiral in wartime could ever be more magnificent than glynn was that night.  he and he alone brought all of the scared people together.  and you've got to remember that the flight controllers in those days werethey were kids in their thirties.  they were good, but very few of them had ever run into these kinds of choices in life, and they weren't used to that.  all of a sudden, their confidence had been shaken.  they were faced with things that they didn't understand, and glynn walked in there, and he just kind of took charge.
+a dvd commentary track, recorded by jim and marilyn lovell and included with both dvd versions, mentions several inaccuracies included in the film, all done for reasons of artistic license:
+
+in the film, mattingly plays a key role in solving a power consumption problem that apollo 13 was faced with as it approached re-entry. lovell points out in his commentary that mattingly was a composite of several astronauts and engineersincluding charles duke (whose rubella led to mattingly's grounding)all of whom played a role in solving that problem.
+when jack swigert is getting ready to dock with the lm, a concerned nasa technician says: "if swigert can't dock this thing, we don't have a mission." lovell and haise also seem worried. in his dvd commentary, the real jim lovell says that if swigert had been unable to dock with the lm, he or haise could have done it. he also says that swigert was a well-trained command module pilot and that no one was really worried about whether he was up to the job, but he admitted that it made a nice subplot for the film. what the astronauts were really worried about, lovell says, was the expected rendezvous between the lunar module and the command module after lovell and haise left the surface of the moon.
+a scene set the night before the launch, showing the astronauts' family members saying their goodbyes while separated by a road, to reduce the possibility of any last-minute transmission of disease, depicted a tradition that did not begin until the space shuttle program.
+the film depicts marilyn lovell accidentally dropping her wedding ring down a shower drain. according to jim lovell, this did occur, but the drain trap caught the ring and his wife was able to retrieve it.  lovell has also confirmed that the scene in which his wife had a nightmare about him being "sucked through an open door of a spacecraft into outer space" also occurred, though he believes the nightmare was prompted by her seeing a scene in marooned, a 1969 film they saw three months before apollo 13 launched.
+
+
+== see also ==
+from the earth to the moon, a 1998 docudrama mini-series based around the apollo missions
+gravity, a 2013 film about astronauts stranded in earth orbit
+survival film
+
+
+== references ==
+
+ this article incorporates public domain material from websites or documents of the national aeronautics and space administration.
+
+
+== external links ==
+apollo 13 at imdb
+apollo 13 at the tcm movie database
+apollo 13 at allmovie
+apollo 13 at rotten tomatoes
+apollo 13 at box office mojo

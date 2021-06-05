@@ -1,0 +1,39 @@
+the enemy of my enemy is my friend is an ancient proverb which suggests that two parties can or should work together against a common enemy. the earliest known expression of this concept is found in a sanskrit treatise on statecraft, the arthashastra, which dates to around the 4th century bc, while the first recorded use of the current english version came in 1884.
+
+
+== rajamandala ==
+in his arthashastra: book vi, "the source of sovereign states", kautilya writes:
+the king who is situated anywhere immediately on the circumference of the conqueror's territory is termed the enemy.the king who is likewise situated close to the enemy, but separated from the conqueror only by the enemy, is termed the friend (of the conqueror).
+a neighboring power would be the first to dispute control of territory, and therefore kautilya finds neighboring kings to be natural enemies of any conqueror. a king whose territories border those of the enemy would also have this relationship with them, and therefore be a natural ally. this system of relationships was termed rajamandala (meaning circle of kings) and informed the foreign policy of  chandragupta's empire. this early theory of geopolitics is still recognized today as the mandala theory of foreign relations.
+
+
+== world war ii ==
+
+the idea that "the enemy of my enemy is my friend" functioned in various guises as foreign policy by the allies during world war ii. in europe, tension was common between the western allies and the soviet union. despite their inherent differences, they recognized a need to work together to meet the threat of nazi aggression under the leadership of adolf hitler. both u.s. president franklin d. roosevelt and british prime minister winston churchill were wary of the soviet union under the leadership of joseph stalin. however, both developed policies with an understanding that soviet cooperation was necessary for the allied war effort to succeed. there is a quote from winston churchill made to his personal secretary john colville on the eve of germany's invasion of the soviet union (operation barbarossa). he was quoted as saying, "if hitler invaded hell, i would make at least a favourable reference to the devil in the house of commons." the soviet leader reciprocated these feelings towards his western allies. he was distrustful and feared that they would negotiate a separate peace with nazi germany. however, he also viewed their assistance as critical in resisting the nazi invasion.the doctrine of "the enemy of my enemy is my friend" was employed by nation states in regions outside of the european theater as well. in the second sino-japanese war, within the pacific theater, an alliance was formed between chinese communists and chinese nationalists. leading up to this, these forces had battled each other throughout the chinese civil war. however, they formed an alliance, the second united front in response to the mutual threat of japanese aggression. similarly, the malayan communist party and the british empire agreed a truce for the malayan campaign and subsequent japanese occupation.
+
+
+== cold war ==
+the doctrine was also used extensively during the cold war between western bloc nations and the soviet union. the soviets and the chinese aided north korea during the korean war as well as the viet cong/north vietnamese during the vietnam war to oppose american foreign policy goals. likewise, the united states and its allies supported the afghan mujahideen after the soviet invasion in the hopes of thwarting the spread of communism. in the third world, both superpowers supported regimes whose values were at odds with the ideals espoused by their governments. these ideals were capitalism and liberal democracy in the case of the united states, and the marxistleninist interpretation of communism and proletarian democracy in the case of the soviet union. in order to oppose the spread of communism, the united states government supported dictatorial regimes, such as mobutu sese seko in zaire, suharto in indonesia, and augusto pinochet in chile.the support provided by the soviet union towards nations with overtly anti-communist governments, such as gamal abdul nasser in egypt, in order to oppose american influence, is another example of "the enemy of my enemy is my friend" as policy on an international scale. the soviets also backed india to counter both the pro-american pakistani government and the people's republic of china (following the sino-soviet split), despite the fact that india had a democratic government. similarly, china, following the split, lent support to nations and factions that embraced an anti-soviet, often maoist form of communism, but whose governments nonetheless embraced sinophobic policies at home, such as the khmer rouge-ruled regime of democratic kampuchea.
+
+
+== middle east ==
+in an example of this doctrine at work in middle eastern foreign policy, united states backed the iraqi government under saddam hussein during the iraniraq war, as a strategic response to the anti-american iranian revolution of 1979. a 2001 study of international relations in the middle east used the proverb as the basis of its main thesis, examining how enmity between adverse nations evolve and alliances develop in response to common threats.
+
+
+== balance theory ==
+
+in mathematical sociology a signed graph may be used to represent a social network that may or may not be balanced, depending upon the signs found along cycles. fritz heider considered a pair of friends with a common enemy as a balanced triangle. the full spectrum of changes induced by unbalanced networks was described by anatol rapoport:
+
+the hypothesis implies roughly that attitudes of the group members will tend to change in such a way that ones friends friends will tend to become ones friends and ones enemies enemies also ones friends, and ones enemies friends and ones friends enemies will tend to become ones enemies, and moreover, that these changes tend to operate even across several removes (ones friends friends enemies enemies tend become friends by an iterative process).frank harary described how balance theory can predict coalition formation in international relations:
+one can draw the signed graph of a given state of events and examine it for balance. if it is balanced there will be a tendency for the status quo. if it is not balanced, one should examine each of the bonds between pairs of nations in a cycle with regard to relative strength in the situation. one might then predict that the weakest such bond will change sign.harary illustrated the method as a gloss on some events in the middle east using several signed graphs, one of which represented eight nations.
+
+
+== see also ==
+frenemy
+you're either with us, or against us
+law of excluded middle
+lesser of two evils principle
+unholy alliance (geopolitical)
+
+
+== references ==

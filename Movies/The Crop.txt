@@ -1,0 +1,104 @@
+a spinning top, or simply a top, is a toy with a squat body and a sharp point at the bottom, designed to be spun on its vertical axis, balancing on the tip due to the gyroscopic effect.
+once set in motion, a top will usually wobble for a few seconds, spin upright for a while, then start to wobble again with increasing amplitude as it loses energy (angular momentum), and finally tip over and roll on its side.
+tops exist in many variations and materials, chiefly wood, metal, and plastic, often with a metal tip. they may be set in motion by twirling a handle with the fingers, by pulling a rope coiled around the body, or by means of a built-in auger (spiral plunger).
+such toys have been used since antiquity in solitary or competitive children games, where each player tries to keep one's top spinning for as long as possible, or achieve some other goal. some tops have faceted bodies with symbols or inscriptions, and are used like dice to inject randomness into games, or for divination and ritual purposes.
+the ubiquity of spinning tops lends to the fact that the toy is used to name many living things such as cyclosa turbinata, whose name comes from the latin roots for spinning top. 
+
+
+== history ==
+
+
+=== origins ===
+the top is one of the oldest recognizable toys found on archaeological sites. spinning tops originated independently in cultures all over the world.besides toys, tops have also historically been used for gambling and prophecy. some role-playing games use tops to augment dice in generating randomized results; it is in this case referred to as a spinner.
+gould mentions maple seeds, celts (leading to rattlebacks), the fire-drill, the spindle whorl, and the potter's wheel as possible predecessors to the top, which he assumes was invented or discovered multiple times in multiple places.
+
+
+=== color demonstrations with tops ===
+a top may also be used to demonstrate visual properties, such as by james david forbes and james clerk maxwell in maxwell's disc (see color triangle). by rapidly spinning the top, forbes created the illusion of a single color that was a mixture of the primaries:[the] experiments of professor j. d. forbes, which i witnessed in 1849 [established] that blue and yellow do not make green, but a pinkish tint, when neither prevails in the combination[and the] result of mixing yellow and blue was, i believe, not previously known.
+
+maxwell took this a step further by using a circular scale around the rim with which to measure the ratios of the primaries, choosing vermilion, emerald, and ultramarine.
+
+
+== spinning methods ==
+
+
+=== finger twirling ===
+smaller tops have a short stem, and are set in motion by twirling it using the fingers. a thumbtack may also be made to spin on its tip in the same way.
+
+
+=== strings and whips ===
+
+a typical fist-sized model, traditionally made of wood with a blunt iron tip, is meant to be set in motion by briskly pulling a string or rope tightly coiled around the body.  the rope is best wound starting near the tip and progressing up along the widening body, so that the tension of the string will remain roughly constant while the top's angular speed increases.
+these tops may be thrown forward while firmly grasping the end of the string and pulling it back.  the forward momentum of the top contributes to the string's tension and thus to the final spin rate.
+in some throwing styles, the top is thrown upside-down, but the first loop of the rope is wound around a stubby "head".  then, the sudden yank on the head as the string finishes unwinding causes the spinning top to flip over and land on its tip.
+alternatively, tops of this class may be started by hand but then accelerated and kept in motion by striking them repeatedly with a small whip.
+
+
+=== augers ===
+some larger models are set in motion by means of a built-in metal auger (spiral plunger).  in these models, the actual top may be enclosed in a hollow metal shell, with the same axis but decoupled from it; so that the toy may appear to be stationary but "magically" balanced on its tip.
+
+
+=== magnetic fields ===
+some modern tops are kept perpetually in motion by spinning magnetic fields from a special ground plate.
+
+
+== notable types ==
+
+gould classifies tops into six main types : twirler, supported top, peg-top, whip-top, buzzer, and yo-yo.
+competing tops
+battling tops
+beigoma, in japan
+beyblade
+gasing pangkah, in malaysia
+spin fighters
+tuj lub, among hmong people
+gaming and other tops
+dreidel, traditionally played during the jewish holiday of hanukkah.
+bambaram
+levitating top
+bhawra, a gaming top used in maharashtra in india
+perinola, a six-sided top, very similar to the dreidel, that is used for a similar game in latin america.
+rattleback, or celt, a top that reverses its spin direction
+teetotum
+tippe top
+trompo, or "whipping top"
+wizzzermodern tops may have several sophisticated improvements, such as a relatively sharp tip made of ruby or a hard ceramic like tungsten carbide, that reduces the friction with the ground surface. in addition, plastic and metal have largely supplanted the use of wood in tops.
+
+
+== physics ==
+
+the motion of a top is described by equations of rigid body dynamics, specifically the theory of rotating rigid bodies. 
+because of the small contact area between the tip and the underlying surface, and the large rotational inertia of its body, a top that is started on a hard surface will usually keep spinning for tens of seconds or more, even without additional energy input.
+typically the top will at first wobble until friction and torque between the tip and the underlying surface force it to spin with the axis steady and upright.  contrary to what is sometimes assumed, longstanding scientific studies (and easy experimentations reproducible by anyone) show that reducing the friction increases the time needed to reach this stable state  (unless the top is so unbalanced that it falls over before reaching it). after spinning upright (in the so-called "sleep" position) for an extended period, the angular momentum will gradually lessen (mainly due to friction), leading to ever increasing precession, finally causing the top to topple and roll some distance on its side. in the "sleep" period, and only in it, provided it is ever reached, less friction means longer "sleep" time (whence the common error that less friction implies longer global spinning time).
+the total spinning time of a top is generally increased by increasing its moment of inertia and lowering its center of gravity.  these variables however are constrained by the need to prevent the body from touching the ground.
+asymmetric tops of virtually any shape can also be created and designed to balance.
+
+
+== competitions ==
+there are many official competitions of top spinning, such as the u. s. national championships in chico, california and in the world championships in orlando, florida.
+
+
+== in popular culture ==
+the jean shepherd story "scut farkas and the murderous mariah" revolves around top-spinning in the fictional depression-era american city of hohman, indiana. the bully and the named top in the title are challenged by shepherd's ongoing protagonist ralph and a so-called "gypsy top" of similar design to mariah named wolf.the top is a short story by bohemian writer franz kafka.
+the top is a focal element and metaphysical symbol in the movie inception, directed by christopher nolan and starring leonardo dicaprio. in the final shot, the camera moves over the spinning top just before it appears to be wobbling.
+
+
+== see also ==
+bauernroulette
+diabolo
+fidget spinner
+gee-haw whammy diddle
+foreverspin
+lagrange, euler, and kovalevskaya tops
+jacks are spun as tops upon one of their points or used to play knucklebones.
+
+
+== references ==
+
+
+== further reading ==
+crabtree, h. "an elementary treatment of the theory of spinning tops and gyroscopic motion". longman, green and c), 1909. reprinted by michigan historical reprint series.
+perry j. "spinning tops". london society for promoting christian knowledge, 1870. reprinted by project gutemberg ebook, 2010.
+provatidis, christopher, g. (2012). revisiting the spinning top, international journal of materials and mechanical engineering, vol. 1, no. 4, pp. 7188 (issn online: 2164-280x, issn print: 2162-0695)
+a forum discussing all things related to the art of top spinning: itopspin.com
+"top" . the new student's reference work . 1914.

@@ -1,0 +1,48 @@
+enigma is a 2001 espionage thriller film directed by michael apted from a screenplay by tom stoppard. the script was adapted from the 1995 novel enigma by robert harris, about the enigma codebreakers of bletchley park in the second world war.
+although the story is highly fictionalised, the process of encrypting german messages during world war ii and decrypting them with the enigma is discussed in detail, and the historical event of the katyn massacre is highlighted. it was the last film scored by john barry.
+
+
+== plot ==
+the story, loosely based on actual events, takes place in march 1943, when the second world war was at its height. the cryptanalysts at bletchley park, buckinghamshire, have a problem: the nazi u-boats have changed one of their code reference books used for enigma machine ciphers, leading to a blackout in the flow of vital naval signals intelligence. the british cryptanalysts have cracked the "shark" cipher once before, and they need to do it again in order to keep track of u-boat locations.
+the film begins with tom jericho returning to bletchley after a month recovering from a nervous breakdown brought on by his failed love affair with a coworker named claire romilly. jericho immediately seeks to see her again and finds that she mysteriously disappeared a few days earlier. he enlists the help of claire's housemate, hester wallace, to follow the trail of clues and learn what has happened to claire.
+mr. jericho and miss wallace, as they formally address each other, work to decipher intercepts stolen by claire and determine why she took them. jericho is closely watched by an mi5 agent, wigram (jeremy northam), who plays cat and mouse with him throughout the film. meanwhile, u-boats are closing in on a convoy of thirty seven ships from america, giving the code-breakers less than four days to find a solution to reading the changed shark cipher.
+but someone else at bletchley has a personal interest in the stolen intercepts, and may be responsible for claire's disappearance.
+
+
+== cast ==
+
+
+== production and premiere ==
+
+the film was shot on location in england, scotland and the netherlands, with bletchley park mansion substituted by chicheley hall. other locations include the great central railway, loughborough and tigh beg croft, near oban, scotland. interiors were filmed at elstree film studios.the film was produced by mick jagger of the rolling stones. jagger makes a cameo appearance as an raf officer at a dance. he also lent the film's design department a four-rotor enigma encoding machine he owned to ensure the historical accuracy of one of the props. the festivities around the london premiere of the film are shown in the 2001 documentary being mick.
+
+
+== reception ==
+
+critical reviews were largely positive, but there was criticism of the largely fictional storyline, which neither mentions the real codebreaker, alan turing, nor gives due credit to the polish cryptanalysis foundation, the biuro szyfrw (cipher bureau). the film holds a 'fresh' 72% rating on review aggregator rotten tomatoes, with the consensus reading, 'the well-crafted, twist-filled enigma is a thinking person's spy thriller.' joe leydon of variety compared the film to works by alfred hitchcock, and remarked that, 'overall, "enigma" plays fair and square while generating suspense with its twisty plot. and while it requires a generous suspension of disbelief to accept a few action-hero gestures by the deeply troubled jericho, scott is persuasive and compelling enough as his complex character to drive the narrative.'roger ebert of the chicago sun-times gave the film three stars and said, 'what i like about the movie is its combination of suspense and intelligence. if it does not quite explain exactly how decryption works (how could it?), it at least gives us a good idea of how decrypters work, and we understand how crucial bletchley wasso crucial its existence was kept a secret for 30 years.' on the other end, owen gleiberman of entertainment weekly was far less impressed, saying, 'the legend of how the british cracked the almighty enigma must have sounded, on paper, like a nifty mathematical thrillera historic wargames set at the formative moment of the computer age. on screen, however, enigma plays as if the scriptwriter, tom stoppard, and the director, michael apted, were themselves cryptographers; they seem to be making hunt-and-peck stabs at how to translate a tale of arcane numeric formulas into drama.'the film grossed $6.6 million in the united kingdom. it grossed $4.3 million in the united states and canada and $4.8 million in other markets for a worldwide total of $15.7 million.
+
+
+== historical accuracy ==
+the film and, by association, the book have attracted criticism for their portrayal of the polish role in enigma decryption. the historian norman davies argues that in the film the fictitious traitor turns out to be polish, but only slight mention is made of the contributions of prewar polish cipher bureau cryptologists to allied enigma decryption efforts, but historically, the only known traitor active at bletchley park was british spy john cairncross, who passed crucial secrets to the soviet union.the film hints that dougray scott's character, the brilliant cambridge mathematician thomas jericho is the main code-breaker at bletchley, equating him with alan turing, the original creator of the british bombe, with the words of mr wigram, played by jeremy northam:
+"but what if someone tells them just how we do do it? your thinking machine, clackity-clack, day and night, programmed with a menu, thanks to your big brain, that reduces the odds to just a few million-to-one until it locks on to the winning combination. there goes the war
+of course jericho is a totally fictional character, given that turing was homosexual and only had a platonic relationship with his short-lived fianc joan clarke, who knew about his sexual orientation. in reality it was unlikely that turing was involved in code-breaking the naval four-rotor enigma shark in 1943. notes by tony sale do not mention turing as the "someone in bletchley park [who] realised that short weather signals were sent in the three wheel mode" and explained "the central met. station had collated the u-boat and other reports, [and] they broadcast a general synoptic in their own met. code", which used the standard international met. code further encoded using bigram tables, as discovered by mr archer from the met. section of bletchley park. according to hugh alexander, from june 1943 joan clarke, mahon, pendered and noskwith were responsible for the whole of the cryptographic work until the end of the war. strangely, joan clarke is not present in the film as none of the team of cryptanalysts are female.
+in the film, cave, from naval intelligence, played by matthew macfadyen, mentioned fasson and grazier gave their lives to rescue the code books from a sinking submarine. there were actually three men who retrieved the books: first lieutenant anthony fasson, able seaman colin grazier and 16-year-old tommy brown from the canteen. fasson and grazier did drown while attempting to retrieve electrical equipment from a u-boat u-559 (which cave describes as its four-rotor enigma) on 30 october 1942, while brown survived only to die in a house fire during shore-leave before the end of the war. fasson and grazier were awarded the george cross posthumously and brown was awarded the george medal. fictional character cave states he was completing his last posting on a destroyer, in november '42, when the books were acquired.
+there are historical records of the break in the ability of the british to decode the naval enigma from 10 to 19 march 1943 when the third edition of the weather short signal codebook was deployed.the katyn massacre, revealed after the discovery of mass graves of 4,500 polish officers as depicted in the film, is a historical atrocity committed by stalinist russia in 1940. there is no evidence that details of the mass graves were intercepted by british intelligence, although it is possible. the first announcement of the discovery was broadcast by radio berlin on 13 april 1943.
+
+
+== see also ==
+the imitation game - a 2014 biopic of alan turing and his involvement in cracking the enigma.
+u-571 - a 2000 war film involving the capture of an enigma machine.
+cryptanalysis of the enigma
+ultra
+german submarine u-505 - a captured submarine - now on display in chicago - that yielded an enigma machine.
+
+
+== references ==
+
+
+== external links ==
+enigma at imdb
+enigma at rotten tomatoes
+enigma at box office mojo
+review by andrew hodges

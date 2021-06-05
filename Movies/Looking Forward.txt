@@ -1,0 +1,81 @@
+forward-looking infrared (flir) cameras, typically used on military and civilian aircraft, use a thermographic camera that senses infrared radiation.the sensors installed in forward-looking infrared cameras, as well as those of other thermal imaging cameras, use detection of infrared radiation, typically emitted from a heat source (thermal radiation), to create an image assembled for video output.
+they can be used to help pilots and drivers steer their vehicles at night and in fog, or to detect warm objects against a cooler background. the wavelength of infrared that thermal imaging cameras detect is 3 to 12 m and differs significantly from that of night vision, which operates in the visible light and near-infrared ranges (0.4 to 1.0  m).
+
+
+== design ==
+
+infrared light falls into two basic ranges: long-wave and medium-wave. long-wave infrared (lwir) cameras, sometimes called "far-infrared", operate at 8 to 12 m and can see heat sources, such as hot engine parts or human body heat, several kilometers away. longer-distance viewing is made more difficult with lwir because the infrared light is absorbed, scattered, and refracted by air and by water vapor.
+some long-wave cameras require their detector to be cryogenically cooled, typically for several minutes before use, although some moderately sensitive infrared cameras do not require this. many thermal imagers, including some forward-looking infrared cameras (such as some lwir enhanced vision systems (evs)) are also uncooled.
+medium-wave (mwir) cameras operate in the 35 m range. these can see almost as well, since those frequencies are less affected by water-vapor absorption, but generally require a more expensive sensor array, along with cryogenic cooling.
+many camera systems use digital image processing to improve the image quality. infrared imaging sensor arrays often have wildly inconsistent sensitivities from pixel to pixel, due to limitations in the manufacturing process. to remedy this, the response of each pixel is measured at the factory, and a transform, most often linear, maps the measured input signal to an output level.
+some companies offer advanced "fusion" technologies that blend a visible-spectrum image with an infrared-spectrum image to produce better results than a single-spectrum image alone.
+
+
+== properties ==
+thermal imaging cameras, such as the raytheon an/aaq-26, are used in a variety of applications, including naval vessels, fixed-wing aircraft, helicopters, and armored fighting vehicles.
+in warfare, they have three distinct advantages over other imaging technologies:
+
+the imager itself is nearly impossible to detect for the enemy, as it detects energy emitted from the target rather than sending out energy that is reflected from the target, as with radar or sonar.
+it sees radiation in the infrared spectrum, which is difficult to camouflage.
+these camera systems can see through smoke, fog, haze, and other atmospheric obscurants better than a visible light camera can.
+
+
+== origin of the term ==
+the term "forward-looking" is used to distinguish fixed forward-looking thermal imaging systems from sideways-tracking infrared systems, also known as "push broom" imagers, and other thermal imaging systems such as gimbal-mounted imaging systems, handheld imaging systems and the like. pushbroom systems typically have been used on aircraft and satellites.
+sideways-tracking imagers normally involve a one-dimensional (1d) array of pixels, which uses the motion of the aircraft or satellite to move the view of the 1d array across the ground to build up a 2d image over time. such systems cannot be used for real-time imaging and must look perpendicular to the direction of travel.
+
+
+== history ==
+in 1956 texas instruments began research on infrared technology that led to several line scanner contracts and, with the addition of a second scan mirror, the invention of the first forward-looking infrared camera in 1963, with production beginning in 1966. in 1972, ti invented the common module concept, greatly reducing cost and allowing reuse of common components.
+
+
+== uses ==
+
+traffic video detection and monitoring
+surveillance and/or capture of mammals
+e.g. detection of illegal immigrants hidden in lorries/trucks
+warning drivers about sudden road obstructions caused by deer
+location through smoke and/or haze
+search and rescue operations for missing persons especially in wooded areas or water
+target acquisition and tracking by military or civil aircraft
+drainage basin temperature monitoring and monitoring wild game habitats
+detection of energy loss or consumption, or insulation defects
+e.g. insulation level mapping (pipes, walls, joints etc.) in order to reduce hvac energy consumption
+quality control for especially electrical installations (a picture can reveal if loads are higher than expected, or show bad and potentially failing joints)
+search for drug labs and/or indoor cannabis producers (especially at night)
+piloting of aircraft in low visibility (imc) conditions
+pinpoint sources of ignition during firefighting operations
+monitoring active volcanoes
+detecting faulty or overheating electrical joints, connections and components
+night driving
+
+
+== cost ==
+the cost of thermal imaging equipment in general has fallen dramatically after inexpensive portable and fixed infrared detectors and systems based on microelectromechanical technology were designed and manufactured for commercial, industrial and military application. also, older camera designs used rotating mirrors to scan the image to a small sensor. more modern cameras no longer use this method; the simplification helps reduce cost. uncooled technology available in many evs products have reduced the costs to fractions of the price of older cooled technology, with similar performance. evs is rapidly becoming mainstream on many fixed wing and rotary wing operators from cirrus and cessna aircraft to large business jets.
+
+
+== police actions ==
+in 2001, the united states supreme court decided that performing surveillance of private property (ostensibly to detect high emission grow lights used in clandestine cannabis farming) using thermal imaging cameras without a search warrant by law enforcement violates the fourth amendment's protection from unreasonable searches and seizures. kyllo v. united states, 533 u.s. 27, 121 s.ct. 2038, 150 l.ed.2d 94 (2001).in the 2004 r. v. tessling judgment, the supreme court of canada determined that the use of airborne flir in surveillance by police was permitted without requiring a search warrant.  the court determined that the general nature of the data gathered by flir did not reveal personal information of the occupants and therefore was not in violation of tessling's section 8 rights afforded under the charter of rights and freedoms (1982).  binnie, j. distinguished the canadian law with respect to the kyllo judgment, by agreeing with the kyllo minority that
+
+public officials should not have to avert their senses or their equipment from detecting emissions in the public domain such as excessive heat, traces of smoke, suspicious odors, odorless gases, airborne particulates, or radioactive emissions, any of which could identify hazards to the community.
+in june 2014, the canadian national aerial surveillance program dhc-8m-100 aircraft mounted with infrared sensors was instrumental in the search for justin bourque, a fugitive who had killed three royal canadian mounted police members in moncton. the plane's crew used its advanced heat-sensing camera to discover bourque's heat signature in the deep brushwoods at midnight.during 2015 baltimore protests, the fbi conducted 10 aerial surveillance missions between april 29 and may 3, which included "infrared and day color, full-motion flir video evidence" collection, according to fbi spokesman christopher allen. a flir talon multi-sensor camera system equipped with an infrared laser pointer (which is invisible to casual observers) for illumination purposes was used to gather data at night. the american civil liberties union raised concerns over the fact that new surveillance technology is implemented without judicial guidance and public discussion. according to nathan wessler, an aclu attorney, "this is a dynamic we see again and again when it comes to advances in surveillance. by the time details leak out, programs are firmly entrenched, and its all but impossible to roll them back  and very hard to put in place restrictions and oversight."
+
+
+== see also ==
+infra-red search and track
+electro-optical targeting system
+night vision
+automotive night vision
+thermographic camerageneral:
+
+surveillance
+
+
+== references ==
+
+
+== external links ==
+electro-optical systems
+thermal imaging sensors (defence today) [page not found]
+comparison chart
+worldwide database of thermal imaging cameras

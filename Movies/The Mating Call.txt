@@ -1,0 +1,76 @@
+a mating call is the auditory signal used by animals to attract mates. it can occur in males or females, but literature is abundantly favored toward researching mating calls in males. in addition, mating calls are often the subject of mate choice, in which the preferences of one gender for a certain type of mating call can drive sexual selection in a species. this can result in sympatric speciation of some animals, where two species diverge from each other while living in the same environment.
+there are many different mechanisms to produce mating calls, which can be broadly categorized into vocalizations and mechanical calls. vocalizations are considered as sounds produced by the larynx and are often seen in species of birds, mammals, amphibians, and insects. mechanical calls refer to any other type of sound that the animal produces using unique body parts and/or tools for communication with potential mates. examples include crickets that vibrate their wings, birds that flap their feathers, and frogs that use an air sac instead of lungs.
+
+
+== vocalizations ==
+
+
+=== birds ===
+
+the use of vocalizations is widespread in avian species and are often used to attract mates. different aspects and features of bird song such as structure, amplitude and frequency have evolved as a result of sexual selection.large song repertoires are preferred by females of many avian species.  one hypothesis for this is that song repertoire is positively correlated with the size of the brain's song control nucleus (hvc). a large hvc would indicate developmental success. in song sparrows, males with large repertoires had larger hvcs, better body condition and lower heterophil-to-lymphocyte ratios indicating better immune health. this supports the idea that song sparrows with large song repertoires have better lifetime fitness and that song repertoires are honest indicators of the male's "quality". possible explanations for this adaptation include direct benefits to the female, such as superior parental care or territory defense, and indirect benefits, such as good genes for their offspring.
+japanese bush warbler songs from island populations have an acoustically simple structure when compared to mainland populations. song complexity is correlated with higher levels of sexual selection in mainland populations, showing that a more complex song structure is advantageous in an environment with high levels of sexual selection. another example is in purple-crowned fairywrens; larger males of this species sing advertising songs at a lower frequency than smaller rival males. since body size is a characteristic of good health, lower frequency calls are a form of honest signaling. negative correlation between body size and call frequency is supported across multiple species within the taxa.  in the rock sparrow, song frequency is positively associated with reproductive success. slower song rate is associated with age and is preferred by females. reproductive status of the individual is communicated through higher maximum frequency. there was also positive correlation between age and extra-pair copulation frequency.
+bird calls are also known to continue after pair formation in several socially monogamous bird species. in one experimental population of zebra finches, there was increased singing activity by the male after breeding. this increase is positively correlated with the partner's reproductive investment. the female finches were bred in cages with two subsequent males that differed with varying amounts of song output. females produced larger eggs with more orange yolks when paired with a male with a high song output. this suggests that the relative amount of song production in paired zebra finch males might function to stimulate the partner rather than to attract extra-pair females.
+
+
+=== mammals ===
+during the breeding season, mammals will call out to the opposite sex. male koalas that are bigger will let out a different sound than smaller koalas. the bigger males which are routinely sought out for are called sires. females choose sires because of indirect benefits that their offspring could inherit, like larger bodies. non-sires and females do not vary in their body mass and can reject a male by screaming or hitting him. male-male competition is rarely exhibited in koalas.
+acoustic signaling is a type of call that can be used from a significant distance encoding an organism's location, condition and identity. sac-winged bats display acoustic signaling, which is often interpreted as songs. when females hear these songs, named a 'whistle', they call onto the males to breed with a screech of their own. this action is termed 'calling of the sexes'. red deer and spotted hyenas along with other mammals also perform acoustic signaling.
+
+
+=== amphibians ===
+most frogs use an air sac located under their mouth to produce mating calls. air from the lungs channels to the air sac to inflate it, and the air sac resonates to produce a mating call. the larynx is larger and more developed in males, which causes their call to be louder and strongerin the tngara frog, males use a whining call followed by up to seven clucks. males who have a whine-cluck call are more successful in attracting females than males whose call is a whine alone. the ability to produce clucks is due to a specialized fibrous mass attached to the frog's vocal folds, creating an unusual vocalization similar to the two-voiced songs found in some birds.in the common toad, sexual competition is driven in large part by fightingsuccessful males often physically displaced other males from the backs of a female in order to gain access to mating with that female. larger males were more successful in such takeovers, and had higher reproductive success as a result. however, the vocalizations of these toads provide a reliable signal of body size and thus fighting ability, allowing contests for possession of females to be settled without risk of injury.
+
+
+=== insects ===
+while mating calls in insects are usually associated with mechanical mating calls, such as in crickets, several species of insects use vocalizations to attract mates. in the asian corn borer, males emit clicking sounds that mimic the echolocation of bats which prey on the moths. they then take advantage of the female's "freezing" response to mate with the female.
+in the japanese lichen moth, however, the female is able to distinguish between the sounds made by males and those made by bats and other predators. as a result, the males use ultrasonic clicking as a more conventional mating signal, compared to the "deceptive" courtship song used in the asian corn bearer.
+
+
+== mechanical calls ==
+mating calls also take form through mechanical processes. animals that are unable to vocalize their call may use their body to attract mates.
+
+
+=== crickets ===
+
+in the field cricket, gryllus integer, males rub their wings together to create a rapid trill that produces sound. males individually vary in the durations of their trilling or, what is more sophisticatedly called, bout length. the bout length of each male is heritable and passed on to his future offspring. also, females prefer to mate with males that have longer bout lengths. the end result is that males with longer bout lengths produce more offspring than males with shorter bout lengths.
+other factors that influence the formation of these bout lengths include temperature and predation. in field crickets, males prefer warmer sites for mating as shown by an increase in the frequency of their mating calls when they were living in warmer climates. predation also affects the mating calls of field crickets. when in a potentially dangerous environment, males cease calling for longer periods of time when interrupted by a predator cue. this suggests that there is an interplay between intensity of mating call and risk of predation.
+
+
+=== sonation ===
+
+as described in sonation, "the term sonate is described as the deliberate production of sounds, not from the throat, but rather from structures such as the bill, wings, tail, feet and body feathers, or by the use of tools". in several amphibian and fish species, other special structures are used to produce different sounds to attract mates. birds are common users of sonation, although several amphibian and fish species have been shown to use sonation as a form of mating call as well. in general, sonation is one factor that plays into how a female may choose a mate. there are other features of mating such as territory defense or mate defense, which contribute to the cause of finding suitable mates.
+as outlined below, each species uses a distinct method to produce a non-vocal mating call in order to be most successful in attracting mates. the examples below represent the most common examples found in the literature, although many more examples may exist in nature that are still currently unknown.
+
+
+==== birds ====
+the feathers, the beak, the feet, and different tools are all used by different bird species to produce mating calls to attract mates. for example, the snipe uses its feathers to produce a "drumming" sound to attract mates during a special mating dance. snipes used specialized tail feathers to create a sound described as a "rattle" or "throbbing" noise. palm cockatoos use sticks to drum on hollow trees, creating a loud noise to attract the attention of mates. bustards are large, highly terrestrial birds that stamp their feet during mating displays to attract mates. mirafra apiata, commonly known as the clapper lark, engages in a complex display flight that is characterized by the rattling of the wings.many species of birds, such as manakins and hummingbirds, use sonation for mating calls. however, peacocks exhibit a feature of sonation that reveals intrasexual and intersexual properties of this type of mating call. males move their feathers to produce a low-frequency sonation (infrasound) and sonate more frequently in response to a sonation by other males. this is attributable to a male's desire to advertise its presence above other males looking for mates, suggesting that sonation carries an intrasexual function. in addition, females show increased alertness when hearing the infrasound signals produced by males' wing-shaking, which highlights how the two sexes use sonation to interact with each other.
+
+
+==== fish ====
+while most bird species use their feathers, tools, or feet to produce sounds and attract mates, many fish species use specialized internal organs to sonate. in gadoid fish, special muscles attached to the swimbladder assist in the production of knocking or grunting sounds to attract mates.
+
+
+==== lepidoptera ====
+in many lepidoptera species including the adzuki bean borer (ostrinia scapulalis), ultrasonic mating calls are used to attract females and keep them motionless during copulation. these pulses have an average frequency of 40 khz.
+
+
+== speciation due to mating call differences ==
+differences in mating calls can lead to the separation of different populations within a species. these differences can be due to several factors, including body size, temperature, and other ecological factors. these can arise in the form of tonal, temporal, or behavioral variations in mating calls that subsequently lead to the separation of populations. the separation of these populations due to differences in mating call and mating call preferences can lead to the evolution and creation of new, unique species.
+this type of speciation is most often sympatric speciation: where two or more species are created from an existing parent species that all live in the same geographic location. although there is an absence of research on mammals and birds, this phenomenon has been heavily researched in several frog species around the world. the examples below illuminate speciation due to mating call differences in several frog species around the world. these distinct species are included because they are the focus of the majority of current research. 
+
+
+=== microhyla olivacea and microhyla carolinensis ===
+these two species of narrow-mouthed frog live in the southern united states and have overlapping ranges in texas and oklahoma. researchers have discovered that these two different species alter the frequencies of their call in the overlap zone of their ranges. for example, the microhyla olivacea mating call has a significantly lower midpoint frequency in the overlap zone than the mating call outside this zone. this leads researchers to suggest that the differences in mating call in the overlap zone of m. olivacea and m. carolinensis act as an isolating mechanism between the two species. they also hypothesize that the evolution of these differences in mating call led to the separation of these two different frog species from one common species.
+
+
+=== engystomops petersi ===
+female preferences for specific male mating calls can lead to sexual selection in mating calls. females may prefer a specific type of call that certain males possess, in which only those males will be able to mate with females and pass on their genes and specific mating call. as a result, this female preference may lead to divergence of two species.
+in amazonian frogs, sexual selection for different calls has led to the behavioral isolation and speciation of the tngara frog (engystomops petersi). from genetic and mating call analysis and, researchers were able to identify that two populations of the tngara frog were almost completely reproductively isolated. from their research, scientists believe that differences in female preferences for mating call type have led to the evolution of this speciation process. specifically, the yasun population females prefer the male mating call that includes a whine, while the other population does not prefer this whine. subsequently, the yasun males include the whine in their call, while the other males do not. for this reason, the differences in call have led to the mechanical separation of this species.
+
+
+=== pseudacris triseriata ===
+
+several studies have shown that the species pseudacris triseriata (chorus frog) can be divided into two subspecies, p. t. maculata and p. t. triseriata, due to speciation events from mating call differences. the chorus frog has a very large home range, from new mexico to southern canada. these two subspecies have an overlapping range from south dakota to oklahoma. in this overlapping range, both the call duration and the calls per second for each species is much different than outside of this range. this means that calls of these two subspecies are more similar outside of this range, and starkly different within the range. for this reason, scientists suggest that these subspecies evolved from differences in mating call type. additionally, these subspecies are rarely recorded to have hybrid offspring, which further suggests that there is complete speciation due to mating call differences. the differences in mating calls also help to reinforce the speciation process.
+
+
+== references ==

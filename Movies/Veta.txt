@@ -1,0 +1,79 @@
+beta (uk: , us: ; uppercase , lowercase , or cursive ; ancient greek: , romanized: bta or greek: , romanized: vta) is the second letter of the greek alphabet. in the system of greek numerals it has a value of 2. in ancient greek, beta represented the voiced bilabial plosive /b/. in modern greek, it represents the voiced labiodental fricative /v/ (while /b/ in foreign words is instead commonly transcribed as ). letters that arose from beta include the roman letter b and the cyrillic letters  and .
+
+
+== name ==
+like the names of most other greek letters, the name of beta was adopted from the acrophonic name of the corresponding letter in phoenician, which was the common semitic word *bait ('house'). in greek, the name was  bta, pronounced [bta] in ancient greek. it is spelled  in modern monotonic orthography and pronounced [vita]. 
+
+
+== history ==
+
+the letter beta was derived from the phoenician letter beth .
+the letter  had the largest number of highly divergent local forms. besides the standard form (either rounded or pointed, ), there were forms as varied as  (gortyn),  and  (thera),  (argos),  (melos),  (corinth),  (megara, byzantium), and  (cyclades).
+
+
+== uses ==
+
+
+=== algebraic numerals ===
+in the system of greek numerals, beta has a value of 2. such use is denoted by a number mark: .
+
+
+=== computing ===
+
+
+=== finance ===
+beta is used in finance as a measure of investment portfolio risk. beta in this context is calculated as the covariance of the portfolio's returns with its benchmark's returns, divided by the variance of the benchmark's returns. a beta of 1.5 means that for every 1% change in the value of the benchmark, the portfolio's value tends to change by 1.5%.
+
+
+=== international phonetic alphabet ===
+in the international phonetic alphabet, greek minuscule beta denotes a voiced bilabial fricative [].
+a superscript version may also indicate a compressed vowel, like [].
+
+
+=== meteorology ===
+beta has twice been used to name an atlantic basin tropical cyclone:
+
+hurricane beta, in 2005
+tropical storm beta, in 2020
+
+
+=== mathematics and science ===
+beta is often used to denote a variable in mathematics and physics, where it often has specific meanings for certain applications. in physics a stream of unbound energetic electrons is commonly referred to as beta radiation or beta rays. decays producing electrons or their antiparticles are called beta decays. in regression analysis, b symbolizes nonstandardized partial slope coefficients, whereas  represents standardized (standard deviation-score form) coefficients; in both cases, the coefficients reflect the change in the criterion y per one-unit change in the value of the associated predictor x.  is also used in biology, for instance in -carotene, a primary source of provitamin a, or the  cells in pancreatic islets, which produce insulin.
+ is sometimes used as a placeholder for an ordinal number if  is already used. for example, the two roots of a quadratic equation are typically labelled  and .
+in spaceflight, beta angle describes the angle between the orbit plane of a spacecraft or other body and the vector from the sun.
+ is sometimes used to mean the proton-to-electron mass ratio.
+
+
+=== rock climbing terminology ===
+the term "beta" refers to advice on how to successfully complete a particular climbing route, boulder problem, or crux sequence.
+
+
+=== slang ===
+
+beta male, or simply beta, is a slang term for men derived from the designation for beta animals in ethology, along with its counterpart, alpha male. the term has been used as a pejorative self-identifier among members of manosphere communities, particularly incels, who do not believe they are assertive or traditionally masculine, and feel overlooked by women. it is also used to negatively describe other men who are not assertive, particularly in heterosexual relationships.
+
+
+=== statistics ===
+in statistics, beta may represent type ii error, or regression slope.
+
+
+=== typography ===
+in some high-quality typesetting, especially in the french tradition, a typographic variant of the lowercase letter without a descender is used within a word for ancient greek:  is printed .in typesetting technical literature, it is a commonly made mistake to use the german letter  (a sz or ss ligature) as a replacement for . the two letters resemble each other in some fonts, but they are unrelated.
+
+
+=== videotape formats ===
+"beta" can be used to refer to several consumer and professional videotape formats developed by japan's sony corporation. although similarly named, they are very different in function and obsolescence.
+
+betamax was the name of a domestic videotape format developed in the 1970s and 1980s. it competed with the video home system (vhs) format developed by the japanese victor company, to which it eventually succumbed. the betamax format was also marketed betacord by (sanyo); some cassettes were simply labeled "beta," and the logo was a lower-case beta. betamax lost in the market and is an oft-used example of a technically superior solution that failed due to market forces.
+betacam, including beta sp and digibeta, is a family of professional videotape formats launched in 1982 that was the de facto standard for professional video, advertising, and television production through the 2000s. the formats outlasted analog ntsc television, and their scarcity today is because the industry has moved to hd formats.
+
+
+== character encodings ==
+greek beta
+latin beta
+mathematical beta
+
+these characters are used only as mathematical symbols. stylized greek text should be encoded using the normal greek letters, with markup and formatting to indicate text style.
+
+
+== references ==

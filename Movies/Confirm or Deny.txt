@@ -1,0 +1,35 @@
+in united states law, the term glomar response, also known as glomarization or glomar denial, refers to a response to a request for information that will "neither confirm nor deny" (ncnd) the existence of the information sought. for example, in response to a request for police reports relating to a certain individual, the police agency may respond with the following: "we can neither confirm nor deny that our agency has any records matching your request."
+in national or subnational freedom of information policies, governments are often required to tell people who request information (e.g. journalists or attorneys) whether they located the requested records, even if the records end up being kept secret. but at times, a government may determine that the mere act of truthfully disclosing that the records do or do not exist would pose some actual or possible harm, such as to national security, the integrity of an ongoing investigation or a person's privacy. for example, disclosing that a police department has documents about a current investigation into a criminal conspiracy, even if the content of the documents is not disclosed, would make it public that the investigation is happening and could help suspects destroy evidence.
+glomar responses are commonly associated with the united states freedom of information act (foia), which generally dictates how federal agencies must disclose information. the term "glomar" originated in association with the foia law. lower courts have thus far ruled the glomar response to have potential merit if the secretive nature of the material truly requires it, and only if the agency provides "as much information as possible" to justify its claim. otherwise, the principles established in foia may outweigh claims to secrecy.
+
+
+== origin of the term ==
+the phrase itself, "neither confirm nor deny", has long appeared frequently in news reports, as an alternative to a "no comment" response when the respondent does not wish to answer. in 1911, for example, the boston and maine railroad told the boston globe it would "neither confirm nor deny" reports about its future plans. in 1916, ford representatives said they would "neither confirm nor deny" that price cuts were in the offing for its popular model-t automobile. when the governor of kansas was questioned in 1920 about a report addressing a state official's potential ouster, he responded that he would "neither confirm nor deny" the report's existence.
+
+
+== as a "glomar" response ==
+
+the usns hughes glomar explorer was a large salvage vessel built by the central intelligence agency (cia) for its covert "project azorian"an attempted salvaging of a sunken soviet submarine. in february 1975, aware of the pending publication of a story in the los angeles times, the cia sought to stop the story's publication. journalist harriet ann phillippi requested that the cia provide disclosure of both the glomar project and its attempts to censor the story, to which the cia chose to "neither confirm nor deny" both the project's existence and its attempts to keep the story unpublished. this claim stood, and phillippi's freedom of information act (foia) request was rejected, though when the ford administration was replaced by the carter administration in 1977 after the 1976 presidential election, the government position on the particular case was softened and both of phillippi's claims were confirmed.the "glomar response" precedent still stood, and has since had bearing in foia cases such as in the 2004 lawsuit american civil liberties union v. department of defense, wherein federal judge alvin hellerstein rejected the department of defense and cia's use of the glomar response in refusing to release documents and photos depicting abuse at abu ghraib prison.
+"glomar" is the syllabic abbreviation of global marine, the company commissioned by the cia to build the glomar explorer.
+according to a radiolab podcast, the original text of the glomar response was written by walt logan (pseudonym), who was at that time an associate general counsel at the cia. so as not to divulge to the soviet union either what the cia knew or did not know, the response read: 
+
+we can neither confirm nor deny the existence of the information requested but, hypothetically, if such data were to exist, the subject matter would be classified, and could not be disclosed.
+the original text of the cia's reply of may 21, 1975, to phillippi's foia request, seems to have been:
+
+mr. duckett has determined that, in the interest of national security, involvement by the u.s. government in the activities which are the subject matter of your request can neither be confirmed nor denied. therefore, he has determined that the fact of the existence or non-existence of any material or documents that may exist which would reveal any cia connection or interest in the activities of the glomar explorer is duly classified secret in accordance with criteria established by executive order 11652. acknowledgement of the existence or non-existence of the information you request could reasonably be expected to result in the compromise of important intelligence operations and significant scientific and technological developments relating to the national security, and might also result in a disruption in foreign relations significantly affecting the national security.
+
+in 2014, the cia opened its twitter account with, "we can neither confirm nor deny that this is our first tweet."
+
+
+== see also ==
+no comment
+policy of deliberate ambiguity
+plausible deniability
+warrant canary
+
+
+== references ==
+
+
+== external links ==
+"project jennifer - hughes glomar explorer". federation of american scientists.

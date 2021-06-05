@@ -1,0 +1,44 @@
+a timecode (alternatively, time code) is a sequence of numeric codes generated at regular intervals by a timing synchronization system. timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.
+
+
+== video and film ==
+in video production and filmmaking, smpte timecode is used extensively for synchronization, and for logging and identifying material in recorded media. during filmmaking or video production shoot, the camera assistant will typically log the start and end timecodes of shots, and the data generated will be sent on to the editorial department for use in referencing those shots. this shot-logging process was traditionally done by hand using pen and paper, but is now typically done using shot-logging software running on a laptop computer that is connected to the timecode generator or the camera itself.
+the smpte family of timecodes are almost universally used in film, video and audio production, and can be encoded in many different formats, including:
+
+linear timecode (ltc), in a separate audio track
+vertical interval timecode (vitc), in the vertical blanking interval of a video track
+aes-ebu embedded timecode used with digital audio
+burnt-in timecode, in  human-readable form in the video itself
+ctl timecode (control track)
+midi timecodekeykode, while not a timecode, is used to identify specific film frames in film post-production that uses physical film stock. keykode data is normally used in conjunction with smpte timecode.
+rewritable consumer timecode is a proprietary consumer video timecode system that is not frame-accurate, and is therefore not used in professional post-production.
+
+
+== other formats ==
+timecodes for purposes other than video and audio production include:
+
+irig timecode is used for military, government and commercial purposes.
+dts timecode is used to synchronise the optical dts timecode track from a projector to the cd-based dts audio tracks.
+
+
+== timecode generators ==
+
+depending on the environment, timecode generators can take various forms.
+
+
+== see also ==
+binary-coded decimal
+clock synchronization
+global positioning system
+jam sync
+network time protocol
+time code ambiguity
+time signal
+timecode radio stations
+timestamp, denoting the date/time in data logging
+trusted timestamping, part of a digital signature
+
+
+== references ==
+john ratcliff (1999). timecode: a user's guide, second edition (third ed.). focal press. isbn 978-0-240-51539-7.
+charles poynton (1996). a technical introduction to digital video. john wiley & sons. isbn 0-471-12253-x.

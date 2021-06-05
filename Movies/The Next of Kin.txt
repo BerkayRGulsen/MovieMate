@@ -1,0 +1,55 @@
+a person's next of kin (nok) is that person's closest living blood relative.  some countries, such as the united states, have a legal definition of "next of kin". in other countries, such as the united kingdom, "next of kin" may have no legal definition and may not necessarily refer to blood relatives at all.
+in some legal systems, rights regarding inheritance (which imply a decision-making capacity  for example, in a medical emergency  where no clear will or instructions have been given, and where the person has no spouse) flow to the closest relative (regardless of the age, with a representative appointed if a minor), usually a child, a parent or a sibling. however, there are people without any close adult relatives and, in such a case, decision-making power often flows to a niece or nephew, first cousin, aunt or uncle, or grandparent.
+for example, if a person dies intestate, the laws of some jurisdictions require distribution of the estate to the deceased's spouse or children. however, if there are none of these, the estate can often be distributed to the next closest group of living relatives, whether they be parents, grandparents, first cousins, aunts and uncles, or second cousins in extreme cases. if a person dies intestate with no identifiable next of kin, the person's estate generally escheats (i.e., legally reverts) to the government. 
+in cases of medical emergency, where a person is incapable (either legally because of age or mental infirmity, or because they are unconscious) of making decisions for themselves and they have no spouse or children, the next of kin may participate in medical decisions made by medical personnel, subject to the specific laws of the jurisdiction.
+the inability of persons who are not in a legal marriage to make decisions with respect to the care of a live-in partner has resulted in many jurisdictions giving live-in partners rights equivalent to a spouse in such situations, even though most jurisdictions still do not require non-spouses to be made beneficiaries of estates (it is improper in most jurisdictions to disinherit a spouse). the inability of same-sex partners to have rights with respect to a partner's medical care or funeral arrangements over and above those of the next-of-kin is one of the main reasons behind litigation to require same-sex marriage or its equivalent.
+for the purposes of next of kin, adopted children are treated as blood relatives. however, relatives by marriage are never considered next of kin.
+
+
+== order of precedence in the united states ==
+"american statutes typically provide that, in absence of issue and subject to the share of a surviving spouse, intestate property passes to the parents or to the surviving parent of the decedent". under the civil law system of computation and its various modified forms that are widely adopted by statute in the united states, "a claimant's degree of kinship is the total of (1) the number of the steps, counting one from each generation, from the decedent up to the nearest common ancestor of the decedent and the claimant, and (2) the number of steps from the common ancestor down to the claimant." "the claimant having the lowest degree count (i.e., the nearest or next of kin) is entitled to the property." "if there are two or more claimants who stand in equal degree of kinship to the decedent, they share per capita."thus, the following conditions determine the usual order of precedence:
+
+in the absence of issue (i.e., children, grandchildren, and on down the line) and in absence of one's parents and their issue and grandparents and of their issue (termed "inner circle" and are usually specifically mentioned in a statute), relatives who are closer in "degree" to the person in question always take precedence. for the purposes of this point, "to determine any person's degree of relation to the decedent, begin with the decedent and follow the line that connects the decedent with the other person.  each person that must be passed through before reaching the final person adds one degree to the total, including the final person."
+"of multiple relations with the same degree, those connecting through a nearer ancestor are more closely related to the decedent."under these rules, an order of precedence is established. here are the first few in the order:
+
+spouse
+children and their descendants (grandchildren, great-grandchildren etc.)
+parents and siblings
+nieces and nephews and their descendants (great nieces/great nephews, great great nieces/great great nephews etc.)
+half siblings
+half nieces and nephews and their descendants (half great nieces/great nephews, half great great nieces/great great nephews etc.)
+grandparents
+aunts/uncles and their descendants (first cousins, first cousins once removed etc.)
+half aunts/uncles and their descendants (half first cousins, half first cousins once removed etc.)
+great grandparents
+great aunts/great uncles and their descendants (first cousins once removed, second cousins etc.)
+half great aunts/great uncles and their descendants (half first cousins once removed, half second cousins etc.)
+great-great grandparents
+great-great aunts/great-great uncles and their descendants (first cousins twice removed, second cousins once removed etc.)
+half great-great aunts/great-great uncles and their descendants (half first cousins twice removed, half second cousins once removed etc.)
+great-great-great grandparents
+great-great-great aunts/great-great-great uncles and their descendants (first cousins 3x removed)
+half great-great-great aunts/great-great-great uncles and their descendants (half first cousins 3x removed)
+great-great-great-great grandparents
+
+
+== united kingdom ==
+the term has no legal definition in the united kingdom. an individual can nominate any other individual as their next-of-kin. there is no requirement for the nominated person to be a blood relative or spouse, although it is normally the case. someone who has no close family (or who has little or no contact with their surviving family members) may decide to list someone outside their family as their next of kin, for instance a friend or a neighbour.
+the nominated person must agree to the nomination, otherwise it is invalid. the status of next-of-kin confers no legal rights and has no special responsibilities, except as referred to below in the specific context of the mental health act.
+the status of next-of-kin does not in any way imply that they stand to inherit any of the individual's estate in the event of their death. the intestacy rules stipulate who inherits automatically (in the absence of a will); an individual can make a will and nominate other persons. if a minor inherits (children inherit from parents even in the absence of a will), then, until the child is 18 years of age, there is a "trust" imposed, which means that the executors or trustees of the will remain responsible for the assets until the child is 18. the term "next of kin" should not be confused with parental responsibility.in the context of health care, patients are often asked to nominate a next-of-kin when registering with their general practitioner, or alternatively on admission to hospital. hospitals will then notify the next-of-kin that the patient has been admitted or if there is any change in their condition. if the patient is unconscious or otherwise unable to state their next-of-kin, hospitals will usually list their nearest blood relative, though there are no specific rules. doctors attempt to seek the views of the next-of-kin when considering decision making for unconscious patients or those who lack capacity. the next-of-kin has no power to make any decisions regarding medical care, only to advise, and can neither override the previously stated wishes of the patient nor prevent the medical team acting in what they consider to be the best interests of the patient.
+traditionally, unmarried partners (especially same sex ones) were often excluded by certain institutions, but this has changed in recent years due to the increase in cohabitation in the uk, and in diverse families, such as those formed by unmarried partners with children (47.6% of children were born outside marriage in 2012). as a result of these social changes, the policy in most nhs trusts is to ask a person on their  admission to hospital to nominate their next of kin formally.powers similar to next-of-kin as defined in other jurisdictions can be explicitly delegated to another person using lasting power of attorney, under the provisions of the mental capacity act 2005 (note that this act does not relate specifically to mental health and is largely unrelated to the mental health act).
+the mental health act 1983, section 26 replaced the traditional term next-of-kin with "nearest relative".
+
+
+== ireland ==
+in ireland, the term "next of kin" does have a meaning with regard to inheritance law. if a person dies intestate, that is without leaving a will, then the rules of the succession act, 1965 apply. part vi of the act  distribution on intestacy (sections 6675)  explains the rules of intestacy; this was amended by civil partnership and certain rights and obligations of cohabitants act 2010. with regard to medical law, "next of kin" is a very vague concept which has no legally defined meaning. if a patient is incapable of making a decision (for instance due to unconsciousness), the present medical ethics in ireland is to consult with the next of kin (in order: spouse, children, parents, siblings). however, the next of kin have no general right to make decisions on behalf of adult patients.
+
+
+== references ==
+
+
+== external links ==
+american national next of kin registry
+1983 mental health act with amendments
+2007 amendments to the 1983 mental health act
+uk office of the public guardian

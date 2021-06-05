@@ -1,0 +1,34 @@
+whybecause analysis (wba) is a method for accident analysis. it is independent of application domain and has been used to analyse, among others, aviation-, railway-, marine-, and computer-related accidents and incidents. it is mainly used as an after-the-fact (or a posteriori) analysis method.  wba strives to ensure objectivity, falsifiability and reproducibility of results.
+the result of a wba is a whybecause graph (wbg). the wbg depicts causal relations between factors of an accident. it is a directed acyclic graph where the nodes of the graph are factors. directed edges denote  causeeffect relations between the factors.
+
+
+== wba in detail ==
+wba starts with the question "what is the accident or accidents in question?". in most cases this is easy to define. next comes an iterative process to determine causes. when causes for the accident have been identified, formal tests are applied to all potential cause-effect relations. this process can be iterated for the newfound causes, and so on, until a satisfactory result has been achieved.
+at each node (factor), each contributing cause (related factor) must have been necessary to cause the accident, and the totality of causes must have been sufficient to do so.
+
+
+== the formal tests ==
+the counterfactual test (ct)  the ct leads back to david lewis' formal notion of causality and counterfactuals. the ct asks the following question: "if the cause had not been, could the effect have happened?". the ct proves or disproves that a cause is a necessary causal factor for an effect. only if it is necessary for the cause in question then it is clearly contributing to the effect.
+the causal sufficiency test  the cst asks the question: "will an effect always happen if all attributed causes happen?". the cst aims at deciding whether a set of causes are sufficient for an effect to happen. the missing of causes can thus be identified.
+only if for all causal relations the ct is positive and for all sets of causes to their effects the cst is positive the wbg is correct: each cause must be necessary (ct), and the totality of causes must be sufficient (cst): nothing is omitted (cst: the listed causes are sufficient), and nothing is superfluous (ct: each cause is necessary).
+
+
+== example ==
+
+
+== see also ==
+accident
+causeeffect graph
+fault tree analysis
+five whys
+ishikawa diagram
+issue map
+issue tree
+root cause analysis
+
+
+== references ==
+
+
+== external links ==
+why-because analysis (wba)

@@ -1,0 +1,52 @@
+apnea (bre: apnoea) is the cessation of breathing. during apnea, there is no movement of the muscles of inhalation, and the volume of the lungs initially remains unchanged. depending on how blocked the airways are (patency), there may or may not be a flow of gas between the lungs and the environment; gas exchange within the lungs and cellular respiration is not affected. voluntarily doing this is called holding one's breath.
+apnea may first be diagnosed in childhood, and it is recommended to consult an ent specialist, allergist or sleep physician to discuss symptoms; malformation and/or malfunctioning of upper airways may be observed by an orthodontist.
+
+
+== cause ==
+apnea can be involuntarilyfor example, drug-induced (such as by opiate toxicity), mechanically induced (for example, by strangulation or choking), or a consequence of neurological disease or trauma. during sleep in patients who are suffering from sleep apnea, these events can occur up to more than a hundred times per hour every night.
+apnea can also be observed during periods of heightened emotion, such as during crying or accompanied by the valsalva maneuver when a person laughs. apnea is a common feature of sobbing while crying, characterised by slow but deep and erratic breathing followed by brief periods of breath holding.
+another example of apnea are breath-holding spells; these are sometimes emotional in cause and are observed in children as a result of frustration, emotional stress and other psychological extremes.
+voluntary apnea can be achieved by closing the vocal cords, simultaneously keeping the mouth closed and blocking the nasal vestibule, or constantly activating expiratory muscles.
+
+
+== complications ==
+under normal conditions, humans cannot store much oxygen in the body. prolonged apnea leads to severe lack of oxygen in the blood circulation. permanent brain damage can occur after as little as three minutes and death will inevitably ensue after a few more minutes unless ventilation is restored. however, under special circumstances such as hypothermia, hyperbaric oxygenation, apneic oxygenation (see below), or extracorporeal membrane oxygenation, much longer periods of apnea may be tolerated without severe consequences.
+untrained humans cannot sustain voluntary apnea for more than one or two minutes, since the urge to breathe becomes unbearable. the reason for the time limit of voluntary apnea is that the rate of breathing and the volume of each breath are tightly regulated to maintain constant values of co2 tension and ph of the blood. in apnea, co2 is not removed through the lungs and accumulates in the blood. the consequent rise in co2 tension and drop in ph result in stimulation of the respiratory centre in the brain which eventually cannot be overcome voluntarily. the accumulation of carbon dioxide in the lungs will eventually irritate and trigger impulses from the respiratory center part of the brain and the phrenic nerve. rising levels of carbon dioxide signal the body to breathe and resume unconscious respiration. the lungs start to feel as if they are burning, and the signals the body receives from the brain when co2 levels are too high include strong, painful, and involuntary contractions or spasms of the diaphragm and the muscles in between the ribs. at some point, the spasms become so frequent and unbearable that continued holding of the breath is impossible.when a person is immersed in water, physiological changes due to the mammalian diving reflex enable somewhat longer tolerance of apnea even in untrained persons. tolerance can in addition be trained. the ancient technique of free-diving requires breath-holding, and world-class free-divers can hold their breath underwater up to depths of 214 metres and for more than four minutes. apneists, in this context, are people who can hold their breath for a long time.
+
+
+== hyperventilation ==
+voluntary hyperventilation before beginning voluntary apnea is commonly believed to allow the person involved to safely hold their breath for a longer period. in reality, it will give the impression that one does not need to breathe, while the body is actually experiencing a blood-oxygen level that would normally, and indirectly, invoke a strong dyspnea. some have incorrectly attributed the effect of hyperventilation to increased oxygen in the blood, not realizing that it is actually due to a decrease in co2 in the blood and lungs. blood leaving the lungs is normally fully saturated with oxygen, so hyperventilation of normal air cannot increase the amount of oxygen available. lowering the co2 concentration increases the ph of the blood, thus increasing the time before the respiratory center becomes stimulated, as described above. while hyperventilation will yield slightly longer breath-holding times, any small time increase is at the expense of possible hypoxia. one using this method can suddenly lose consciousnessa shallow water blackoutas a result. if a person loses consciousness underwater, there is considerable danger that they will drown. an alert diving partner would be in the best position to rescue such a person. static apnea blackout occurs at the surface when a motionless diver holds their breath long enough for the circulating oxygen to fall below that required for the brain to maintain consciousness. it involves no pressure changes in the body and is usually performed to enhance breath-hold time. it should never be practiced alone, but under strict safety protocols with a safety beside the diver.
+
+
+== apneic oxygenation ==
+because the exchange of gases between the blood and airspace of the lungs is independent of the movement of gas to and from the lungs, enough oxygen can be delivered to the circulation even if a person is apneic. with the onset of apnea, low pressure develops in the airspace of the lungs because more oxygen is absorbed than co2 is released. with the airways closed or obstructed, this will lead to a gradual collapse of the lungs. however, if the airways are open, any gas supplied to the upper airways will follow the pressure gradient and flow into the lungs to replace the oxygen consumed. if pure oxygen is supplied, this process will serve to replenish the oxygen stored in the lungs. the uptake of oxygen into the blood will then remain at the usual level, and the normal functioning of the organs will not be affected. a detriment to this hyperoxygenation is the occurrence of nitrogen washout, which can lead to absorption atelectasis.however, no co2 is removed during apnea. the partial pressure of co2 in the airspace of the lungs will quickly equilibrate with that of the blood. as the blood is loaded with co2 from the metabolism, more and more co2 will accumulate and eventually displace oxygen and other gases from the airspace. co2 will also accumulate in the tissues of the body, resulting in respiratory acidosis.
+under ideal conditions (i.e., if pure oxygen is breathed before onset of apnea to remove all nitrogen from the lungs, and pure oxygen is insufflated), apneic oxygenation could theoretically be sufficient to provide enough oxygen for survival of more than one hour's duration in a healthy adult. however, accumulation of carbon dioxide (described above) would remain the limiting factor.
+apneic oxygenation is more than a physiologic curiosity. it can be employed to provide a sufficient amount of oxygen in thoracic surgery when apnea cannot be avoided, and during manipulations of the airways such as bronchoscopy, intubation, and surgery of the upper airways. however, because of the limitations described above, apneic oxygenation is inferior to extracorporal circulation using a heart-lung machine and is therefore used only in emergencies and for short procedures. use of peep valves is also an accepted alternative (5 cm h2o in average weight patients and 10 cm h2o significantly improved lung and chest wall compliance in morbidly obese patients).in 1959, frumin described the use of apneic oxygenation during anesthesia and surgery. of the eight test subjects in this landmark study, the highest recorded paco2 was 250 millimeters of mercury, and the lowest arterial ph was 6.72 after 53 minutes of apnea.
+
+
+== apnea scientific studies ==
+studies found spleen volume is reduced during short breath-hold apnea in healthy adults.
+
+
+== apnea test in determining brain death ==
+a recommended practice for the clinical diagnosis of brain death formulated by the american academy of neurology hinges on the conjunction of three diagnostic criteria: coma, absence of brainstem reflexes, and apnea (defined as the inability of the patient to breathe unaided: that is, with no life support systems). the apnea test follows a delineated protocol. apnea testing is not suitable in patients who are hemodynamically unstable with increasing vasopressor needs, metabolic acidosis, or require high levels of ventilatory support. apnea testing carries the risk of arrhythmias, worsening hemodynamic instability, or metabolic acidosis beyond the level of recovery and can potentially make the patient unsuitable for organ donation. in this situation a confirmatory test is warranted as it is unsafe to perform the apnea test.
+
+
+== etymology and pronunciation ==
+the word apnea (or apnoea) uses combining forms of a- + -pnea, from greek greek: , from -, privative, , to breathe. see pronunciation information at dyspnea.
+
+
+== see also ==
+
+
+== references ==
+
+nunn, j. f. (1993). applied respiratory physiology (4th ed.). butterworth-heinemann. isbn 0-7506-1336-x.
+
+
+== external links ==
+sleep apnea, a resource from the harvard division of sleep medicine on obstructive sleep apnea
+apneacalculator.com, information about apnea and the apnea-calculator for clinical treatment of obstructive sleep apnea
+freediving courses & training in the uk, information about learning the sport of freediving, the club is called apneists uk
+divewise.org non-profit scientific and educational resource for apnea divers
+dan breath-hold workshop divers alert network 2006 breath-hold diving workshop pdf

@@ -1,0 +1,56 @@
+the .45 colt, also referred to as .45 long colt, .45 lc, or 11.4333mmr, is a rimmed straight-walled handgun cartridge dating to 1872. it was originally a black-powder revolver round developed for the colt single action army revolver. this cartridge was adopted by the u.s. army in 1873 and served as an official us military handgun cartridge for 14 years. while it is sometimes referred to as .45 long colt or .45 lc, to differentiate it from the very popular .45 acp, and historically, the shorter .45 s&w schofield, it was only an unofficial designation by army quartermasters. current catalog listings of compatible handguns list the caliber as .45 lc and .45 colt. both the schofield and the .45 colt were used by the army at the same period of time prior to the adoption of the m1882 government version of the .45 schofield cartridge.
+
+
+== history ==
+
+the .45 colt was a joint development between colt's patent firearms manufacturing company, of hartford, connecticut, and the union metallic cartridge company of bridgeport, conn. colt began work on the revolver in 1871, and submitted a sample to the u.s. army in late 1872. the revolver was accepted for purchase in 1873.the cartridge is an inside lubricated type. the rebated heel type bullet design of its predecessor, the .44 colt (.452.454" diameter bullet), was eliminated, since it was an outside lubricated type, which would pick up dirt and grit during handling. the .45 colt replaced the .50 caliber model 1871 remington single shot pistol and the various cap-and-ball revolvers converted to take metallic cartridges in use at the time. while the colt remained popular, the smith & wesson m1875 army schofield revolver was approved as an alternate, which created a logistic problem for the army. the s&w revolver used the .45 s&w schofield, a shorter cartridge, which would also work in the colt, however the army's s&w schofield revolvers could not chamber the longer .45 colt, so in 1874 frankford arsenal, then almost exclusive supplier of small arms ammunition to the u.s. army, dropped production of the .45 colt in favor of the .45 s&w round. this resolved the army's ammunition logistic problems but there were still plenty of the longer colt-length cartridges in circulation once production ceased. the benet primed .45 revolver cartridges were subsequently replaced by the 'model of 1882 ball cartridge for cal. .45 revolver' which used an external boxer primer and could be reloaded at the unit level.  the .45 caliber m1882 cartridge would be officially replaced by the .38 long colt in 1892 but would remain in production until about 1896. in 1901-1902 it would once again by loaded by frankford arsenal for use in the philippines.
+in 1909, the .45 m1909 round was issued along with the .45 colt new service revolver. this round was never loaded commercially, and is almost identical to the original .45 colt round, except having a larger diameter rim. the rim is large enough that it cannot be loaded in adjacent chambers in the rod-ejector colt model.
+the .45 colt remains popular with renewed interest in cowboy action shooting. additionally, the round has seen resurgence as a cartridge in handgun hunting and metallic silhouette shooting competitions beginning in the 1950s with the introduction of stronger, heavier framed handguns. the cartridge's popularity has also increased with the increased marketing of handguns that can also fire the .410 bore shotgun shell, such as the taurus judge and the s&w governor. the modern .45 colt bullet has changed as well, and it is now .451 inches in diameter for jacketed bullets, and .452 for lead bullets. the .45 colt became the basis for other rounds, such as the .454 casull.
+
+
+== cartridge loads ==
+the .45 colt originally was a black-powder cartridge, but modern loadings use smokeless powder. the original black-powder loads called for 28 to 40 grains (1.8 to 2.6 g) of black powder behind a 230-to-255-grain (14.9 to 16.5 g) lead bullet. these loads developed muzzle velocities of up to 1,050 ft/s (320 m/s). because of this power and its excellent accuracy, the .45 colt was the most-used cartridge at the time of its introduction, succeeding the .44 wcf (or the .44-40 winchester).
+the .45 colt at that time did not enjoy the .44-40's advantage of a winchester rifle chambered for it, allowing use of the same cartridge in both pistol and rifle. the rumor was that early .45 colt cartridges had a very minimal rim, and would not eject reliably. currently manufactured brass has a rim of adequate diameter for such uses. modern winchesters, marlins, and other replicas have remedied this omission almost 100 years after the fact, and the .45 colt is now available in modern lever-action rifles.
+while this has been one of numerous arguments to explain the lack of a rifle chambered in .45 colt, in fact, colt would not authorize the use of their .45 colt in other manufacturers arms. it required the expiration of those original patents for the .45 colt to become available in a rifle. however, this does not explain the absence of a .45 colt chambering (or indeed any of colt's own cartridges) in the colt-burgess lever-action or colt lightning slide-action rifles, lending more credence to there being a basic problem with colt's revolver cartridges. (it is notable that modern .45 colt cartridge rims are still quite narrow, but feature an extractor groove cut into the base of the case, a feature common to most modern cartridges but not at all common in the late 1800s.)
+the u.s. army's .45 colt round used in its m1909 revolver, which had a barrel of 5.5 inches (140 mm), fired a 250-grain (16 g) bullet at a muzzle velocity of 738 ft/s (225 m/s), giving a muzzle energy of 297 ftlbf (403 j). today's standard factory loads develop around 400 ftlbf (540 j) of muzzle energy at about 860 ft/s (260 m/s), making it roughly equivalent to modern .45 acp loads. there are cowboy action shooting loads which develop muzzle velocities of around 750 ft/s (230 m/s).
+cartridges of the world states that .45 colt should never be loaded to more than 800 fps.
+
+
+=== high pressure ammunition ===
+some handloads and factory manufactured cartridges put this round in the same class as the .44 magnum using special revolvers. these loads cannot be used in any original colt single action army or replica thereof, such as those produced by uberti, beretta, the taurus gaucho, or the ruger new vaquero, as these guns are built on the smaller frame with thinner cylinder walls. these loads should be used only in modern large-frame revolvers such as the ruger blackhawk, ruger redhawk, and the original ruger vaquero (sometimes erroneously referred to as the "old model" which would differentiate it from the "new model", a completely different kind of design change).
+thompson center contender "magnum" .45 colt loadings can also be safely fired from any gun chambered in either the .454 casull or .460 s&w magnum cartridges, though proper feeding may be an issue in repeating rifles chambered for either the .454 or .460 as the oal is significantly shorter. modern rifles with strong actions (such as the winchester model 1894, marlin model 1894, and new clones of the winchester model 1892) chambered for the cartridge can safely handle the heavier loadings.
+
+
+=== handloading ===
+colt .45 revolvers made until early wwii had barrels with .454" groove diameters. after this diameters of .451.452" were produced. using .454" diameter bullets in the smaller barrels will work but will generate higher pressures. cases used with .454" bullets may have to be full length resized to work in newer guns. speer handloading guidance states that the loads they show should be used only in handguns made specifically for modern smokeless powder. the loads mentioned in no. 10 reloading manual state that they do not exceed 15,000 psi. this is the equivalent of +p loading as normal pressure for the .45 colt is 14,000 psi.in a section specifically titled "45 colt for ruger or contender only" speer makes reference to velocities up to 1300 feet per second with 200 grain bullets. they also state that pressures do not exceed 25,000 psi (cup). this is well beyond a pressure that can destroy even modern guns chambered in .45 colt with the exception of the large frame ruger blackhawk, ruger redhawk, freedom arms models 83 and 97, and the dan wesson.
+
+
+== uses ==
+colt began work on their 1873 single action army model in 1871. sample cartridges submitted for army tests were made by umc, using the benet cup primers; commercial ammunition used the berdan-type primer, followed by the more common boxer priming. original umc loads used a 40-grain (2.6 g) powder charge and 255-grain (16.5 g) bullet. this was reduced to 35-grain (2.3 g) of powder, and later, by the army, to 28-grain (1.8 g).
+the .45 colt cartridge remains in use 148 years after its introduction. it is used as a hunting load on animals the size of deer and black bear. heavier handloads will take the same range of big game animals as the .44 magnum. several two-barrel derringers are sold that are chambered in .45 colt, and some of these derringers can chamber a .410 bore shotgun shell without any modifications being required. revolvers chambered in .410 shotgun, such as the taurus judge and the smith & wesson governor, are usually chambered for the .45 colt as well. a popular use for the .45 colt today is in cowboy action shooting, where the round is often fired from either original or replicas of the 1873 colt single-action army.winchester, marlin firearms, henry repeating arms, chiappa firearms, rossi, uberti, cimarron firearms and other manufacturers produce lever-action rifles chambered in .45 colt. colt has resumed production of the single-action army, and many saa replicas and near-replicas as well as modern-design single-actions by ruger are chambered for this cartridge.
+
+
+== influence on other cartridges ==
+the .45 colt became the basis for the much more powerful .454 casull cartridge, with the .454 casull having a slightly longer case utilizing a small rifle primer in place of the large pistol primer. any .454 casull revolver will chamber and fire .45 colt and .45 schofield, but not the inverse due to the casull's longer case. the .460 s&w magnum is a longer version of the .454 casull and the .45 colt. likewise, .460 magnum revolvers can chamber and fire the three lesser cartridges, but again, not the reverse.
+
+
+== gallery ==
+
+		
+		
+		
+
+
+== see also ==
+11 mm caliber
+list of handgun cartridges
+table of handgun and rifle cartridges
+
+
+== references ==
+
+
+== external links ==
+article on the .45 colt and the handloading therof
+john linebaugh discusses loading the .45 colt archived 2009-02-06 at the wayback machine
+ballistics by the inch .45 colt results.
