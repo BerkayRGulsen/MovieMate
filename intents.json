@@ -2509,22 +2509,22 @@
  
  "responses":{
          "none": ["Sorry, but i don't understand you!"],
-         "greeting": ["Hi"],
-         "goodbye": ["Goodbye"],
-         "thank_you": ["Thank you"],
-         "tell_joke": ["Joke"],
-         "yes": ["Yes"],
-         "no": ["No"],
-         "what_are_your_hobbies": ["Hobbies"],
-         "what_can_i_ask_you": ["Ask"],
-         "what_is_your_name": ["Name"],
-         "where_are_you_from": ["From"],
-         "who_do_you_work_for": ["Work For"],
-         "who_made_you": ["Made by"],
-         "cast": ["Cast: {}"],
-         "genre": ["Genre: {}"],
-         "director": ["Director: {}"],
-         "writer": ["Writer: {}"]                 
+         "greeting": ["Hi!", "Hi, Mate!", "Welcome Mate!", "Welcome!"],
+         "goodbye": ["Goodbye :(", "See you later!", "take care!", "Goodbye Mate!"],
+         "thank_you": ["Thank you!", "Thanks Mate!", "Much Obliged!", "Ta!"],
+         "tell_joke": ["Why did the chatbot cross the road, Because it was programmed to be a chicken!"],
+         "yes": ["Yes", "Yep!"],
+         "no": ["No", "Nope!"],
+         "what_are_your_hobbies": ["I think you already know :)", "I always love to wathc movies.", "Not a secret, Movies!"],
+         "what_can_i_ask_you": ["You can ask me anything about movies.", "Why don't you start with your favorite movie ;)"],
+         "what_is_your_name": ["My name is MovieMate", "You can call me Moviemate"],
+         "where_are_you_from": ["Galaxy far far away", "I am from memory."],
+         "who_do_you_work_for": ["Don't worry i am not work for the dark side.", "Now, just for you"],
+         "who_made_you": ["I was maden by someone who likes movies as me", "Does't matter Mate!"],
+         "cast": ["Stars of the movie are {}", "The film starred by {}", "The movie starred by {}"],
+         "genre": ["Genre is {}"],
+         "director": ["Director is {}", "The film directed by {}", "The movie directed by {}"],
+         "writer": ["Writer is {}", "The film written by {}", "The movie written by {}"]                 
          
     }     
 
