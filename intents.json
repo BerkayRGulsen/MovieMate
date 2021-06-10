@@ -2683,7 +2683,7 @@
          "none": ["Sorry, but i don't understand you!"],
          "greeting": ["Hi!", "Hi, Mate!", "Welcome Mate!", "Welcome!"],
          "goodbye": ["Goodbye :(", "See you later!", "take care!", "Goodbye Mate!"],
-         "thank_you": ["Thank you!", "Thanks Mate!", "Much Obliged!", "Ta!"],
+         "thank_you": ["You're welcome!", "Not at all!", "Much Obliged!", "Ta!"],
          "tell_joke": ["Why did the chatbot cross the road, Because it was programmed to be a chicken!"],
          "yes": ["Yes", "Yep!"],
          "no": ["No", "Nope!"],
